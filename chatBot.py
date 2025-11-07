@@ -54,7 +54,6 @@ if file is not None:
           "Question: {question}"
             )
 
-# ✅ load_qa_chain(..., chain_type='stuff') REPLACEMENT
         qa_chain = (
         {"context": retriever, "question": RunnablePassthrough()}
          | prompt
