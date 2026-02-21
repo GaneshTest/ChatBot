@@ -17,4 +17,6 @@ jobs:
       - name: Push to hub
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
-        run: git push https://ganeshayer:$HF_TOKEN@huggingface.co/spaces/ganeshayer/simple_rag main
+        run: |
+              git pull hf main --rebase || true
+              git push https://ganeshayer:$HF_TOKEN@huggingface.co/spaces/ganeshayer/simple_rag main
