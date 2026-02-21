@@ -1,0 +1,505 @@
+2026-01-21 12:17:03.990 -06:00 [ERR] - Generating browser application bundles (phase: setup)...
+
+2026-01-21 12:18:26.415 -06:00 [ERR] ΓêÜ Browser application bundle generation complete.
+
+2026-01-21 12:18:26.457 -06:00 [ERR] 
+
+2026-01-21 12:18:26.458 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.array.index-of.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-21 12:18:26.459 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-21 12:18:26.459 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.array.iterator.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-21 12:18:26.459 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-21 12:18:26.459 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.array.reduce.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-21 12:18:26.459 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-21 12:18:26.460 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.array.reverse.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-21 12:18:26.460 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-21 12:18:26.460 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.promise.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-21 12:18:26.460 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-21 12:18:26.460 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.regexp.to-string.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-21 12:18:26.460 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-21 12:18:26.460 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.string.ends-with.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-21 12:18:26.460 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-21 12:18:26.460 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.string.includes.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-21 12:18:26.460 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-21 12:18:26.460 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.string.match.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-21 12:18:26.461 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-21 12:18:26.461 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.string.replace.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-21 12:18:26.461 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-21 12:18:26.461 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.string.split.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-21 12:18:26.461 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-21 12:18:26.462 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.string.starts-with.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-21 12:18:26.462 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-21 12:18:26.462 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.string.trim.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-21 12:18:26.462 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-21 12:18:26.462 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/web.dom-collections.iterator.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-21 12:18:26.462 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-21 12:18:26.463 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'raf'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-21 12:18:26.463 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-21 12:18:26.463 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'rgbcolor'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-21 12:18:26.463 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-21 12:18:26.463 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\primeng\fesm2022\primeng-editor.mjs depends on 'quill'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-21 12:18:26.463 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-21 12:18:26.464 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\src\app\measure-summary\trending\trending.component.ts depends on 'html2canvas'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-21 12:18:26.465 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-21 12:18:26.465 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\src\app\shared\components\drills\drills.component.ts depends on 'file-saver'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-21 12:18:26.465 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-21 12:18:26.465 -06:00 [ERR] 
+
+2026-01-21 12:49:15.935 -06:00 [ERR] Error during request processing.
+ {"Method":"GET","Path":"/TopPriorityMeasure/TopPriorityMeasuresSelection","QueryString":"?runDate=null","Headers":{"Accept":"application/json, text/plain, */*","Accept-Encoding":"gzip, deflate, br, zstd","Accept-Language":"en-US,en;q=0.9","Authorization":"Bearer 2eca46eb-8907-4807-85ba-5bcfa427ef16","Connection":"keep-alive","Host":"localhost:61368","Referer":"http://localhost:61368/2025/goals/goals-configuration","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36","sec-ch-ua-platform":"\\u0022Windows\\u0022","Timezone":"America/Chicago","sec-ch-ua":"\\u0022Not(A:Brand\\u0022;v=\\u00228\\u0022, \\u0022Chromium\\u0022;v=\\u0022144\\u0022, \\u0022Google Chrome\\u0022;v=\\u0022144\\u0022","sec-ch-ua-mobile":"?0","Sec-Fetch-Site":"same-origin","Sec-Fetch-Mode":"cors","Sec-Fetch-Dest":"empty"},"ContentLength":null,"Body":null,"$type":"HttpLogInfo"}
+System.FormatException: The string 'null' was not recognized as a valid DateTime. There is an unknown word starting at index '0'.
+   at System.DateTimeParse.Parse(ReadOnlySpan`1 s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at QI.QR.Business.Services.TopPriorityMeasureService.GetTPMSelectionData(String dateRun) in C:\Projects\QRI\QI.QR.Business\Services\TopPriorityMeasureService.cs:line 177
+   at QI.QR.Controllers.TopPriorityMeasureController.GetTopPriorityMeasuresSelectionData(String runDate) in C:\Projects\QRI\QI.QR\Controllers\TopPrioityMeasureController.cs:line 56
+   at lambda_method61(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at QI.QR.ErrorHandling.ErrorHandlingMiddleware.InvokeAsync(HttpContext context, RequestDelegate next) in C:\Projects\QRI\QI.QR\ErrorHandling\ErrorHandlingMiddleware.cs:line 36
+2026-01-21 12:49:15.935 -06:00 [ERR] Error during request processing.
+ {"Method":"GET","Path":"/goals/","QueryString":"","Headers":{"Accept":"application/json, text/plain, */*","Accept-Encoding":"gzip, deflate, br, zstd","Accept-Language":"en-US,en;q=0.9","Authorization":"Bearer 2eca46eb-8907-4807-85ba-5bcfa427ef16","Connection":"keep-alive","Host":"localhost:61368","Referer":"http://localhost:61368/2025/goals/goals-configuration","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36","sec-ch-ua-platform":"\\u0022Windows\\u0022","Timezone":"America/Chicago","sec-ch-ua":"\\u0022Not(A:Brand\\u0022;v=\\u00228\\u0022, \\u0022Chromium\\u0022;v=\\u0022144\\u0022, \\u0022Google Chrome\\u0022;v=\\u0022144\\u0022","sec-ch-ua-mobile":"?0","Sec-Fetch-Site":"same-origin","Sec-Fetch-Mode":"cors","Sec-Fetch-Dest":"empty"},"ContentLength":null,"Body":null,"$type":"HttpLogInfo"}
+System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host..
+ ---> System.Net.Sockets.SocketException (10054): An existing connection was forcibly closed by the remote host.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.CreateException(SocketError error, Boolean forAsyncThrow)
+   at System.Net.Sockets.NetworkStream.ReadAsync(Memory`1 buffer, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.EnsureFullTlsFrameAsync[TIOAdapter](CancellationToken cancellationToken, Int32 estimatedSize)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.ExecutionContextCallback(Object s)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.MoveNext()
+   at System.Net.Sockets.SocketAsyncEventArgs.<>c.<.cctor>b__173_0(UInt32 errorCode, UInt32 numBytes, NativeOverlapped* nativeOverlapped)
+   at System.Threading.ThreadPoolTypedWorkItemQueue`2.System.Threading.IThreadPoolWorkItem.Execute()
+   at System.Threading.ThreadPoolWorkQueue.Dispatch()
+   at System.Threading.PortableThreadPool.WorkerThread.WorkerThreadStart()
+--- End of stack trace from previous location ---
+
+   --- End of inner exception stack trace ---
+   at System.Net.Security.SslStream.EnsureFullTlsFrameAsync[TIOAdapter](CancellationToken cancellationToken, Int32 estimatedSize)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](Memory`1 buffer, CancellationToken cancellationToken)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   --- End of inner exception stack trace ---
+   at QI.QR.ApiClient.RestClientService.ExecuteAndReturnResponse() in C:\Projects\QRI\QI.QR.ApiClient\RestClientService.cs:line 282
+   at QI.QR.ApiClient.RestClientService.Get(HttpApiRequest apiRequest) in C:\Projects\QRI\QI.QR.ApiClient\RestClientService.cs:line 131
+   at QI.QR.Business.Services.GoalsService.GetGoals() in C:\Projects\QRI\QI.QR.Business\Services\GoalsService.cs:line 79
+   at QI.QR.Controllers.GoalsController.GetGoals() in C:\Projects\QRI\QI.QR\Controllers\GoalsController.cs:line 39
+   at lambda_method59(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at QI.QR.ErrorHandling.ErrorHandlingMiddleware.InvokeAsync(HttpContext context, RequestDelegate next) in C:\Projects\QRI\QI.QR\ErrorHandling\ErrorHandlingMiddleware.cs:line 36
+2026-01-21 12:50:48.839 -06:00 [ERR] Error during request processing.
+ {"Method":"GET","Path":"/TopPriorityMeasure/TopPriorityMeasuresSelection","QueryString":"?runDate=null","Headers":{"Accept":"application/json, text/plain, */*","Accept-Encoding":"gzip, deflate, br, zstd","Accept-Language":"en-US,en;q=0.9","Authorization":"Bearer 2eca46eb-8907-4807-85ba-5bcfa427ef16","Connection":"keep-alive","Host":"localhost:61368","Referer":"http://localhost:61368/2025/goals/goals-configuration","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36","sec-ch-ua-platform":"\\u0022Windows\\u0022","Timezone":"America/Chicago","sec-ch-ua":"\\u0022Not(A:Brand\\u0022;v=\\u00228\\u0022, \\u0022Chromium\\u0022;v=\\u0022144\\u0022, \\u0022Google Chrome\\u0022;v=\\u0022144\\u0022","sec-ch-ua-mobile":"?0","Sec-Fetch-Site":"same-origin","Sec-Fetch-Mode":"cors","Sec-Fetch-Dest":"empty"},"ContentLength":null,"Body":null,"$type":"HttpLogInfo"}
+System.FormatException: The string 'null' was not recognized as a valid DateTime. There is an unknown word starting at index '0'.
+   at System.DateTimeParse.Parse(ReadOnlySpan`1 s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at QI.QR.Business.Services.TopPriorityMeasureService.GetTPMSelectionData(String dateRun) in C:\Projects\QRI\QI.QR.Business\Services\TopPriorityMeasureService.cs:line 177
+   at QI.QR.Controllers.TopPriorityMeasureController.GetTopPriorityMeasuresSelectionData(String runDate) in C:\Projects\QRI\QI.QR\Controllers\TopPrioityMeasureController.cs:line 56
+   at lambda_method61(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at QI.QR.ErrorHandling.ErrorHandlingMiddleware.InvokeAsync(HttpContext context, RequestDelegate next) in C:\Projects\QRI\QI.QR\ErrorHandling\ErrorHandlingMiddleware.cs:line 36
+2026-01-21 12:56:45.884 -06:00 [ERR] Error during request processing.
+ {"Method":"GET","Path":"/TopPriorityMeasure/TopPriorityMeasuresSelection","QueryString":"?runDate=null","Headers":{"Accept":"application/json, text/plain, */*","Accept-Encoding":"gzip, deflate, br, zstd","Accept-Language":"en-US,en;q=0.9","Authorization":"Bearer 2eca46eb-8907-4807-85ba-5bcfa427ef16","Connection":"keep-alive","Host":"localhost:61368","Referer":"http://localhost:61368/2025/goals/goals-configuration","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36","sec-ch-ua-platform":"\\u0022Windows\\u0022","Timezone":"America/Chicago","sec-ch-ua":"\\u0022Not(A:Brand\\u0022;v=\\u00228\\u0022, \\u0022Chromium\\u0022;v=\\u0022144\\u0022, \\u0022Google Chrome\\u0022;v=\\u0022144\\u0022","sec-ch-ua-mobile":"?0","Sec-Fetch-Site":"same-origin","Sec-Fetch-Mode":"cors","Sec-Fetch-Dest":"empty"},"ContentLength":null,"Body":null,"$type":"HttpLogInfo"}
+System.FormatException: The string 'null' was not recognized as a valid DateTime. There is an unknown word starting at index '0'.
+   at System.DateTimeParse.Parse(ReadOnlySpan`1 s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at QI.QR.Business.Services.TopPriorityMeasureService.GetTPMSelectionData(String dateRun) in C:\Projects\QRI\QI.QR.Business\Services\TopPriorityMeasureService.cs:line 177
+   at QI.QR.Controllers.TopPriorityMeasureController.GetTopPriorityMeasuresSelectionData(String runDate) in C:\Projects\QRI\QI.QR\Controllers\TopPrioityMeasureController.cs:line 56
+   at lambda_method61(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at QI.QR.ErrorHandling.ErrorHandlingMiddleware.InvokeAsync(HttpContext context, RequestDelegate next) in C:\Projects\QRI\QI.QR\ErrorHandling\ErrorHandlingMiddleware.cs:line 36
+2026-01-21 13:01:09.270 -06:00 [ERR] Error during request processing.
+ {"Method":"GET","Path":"/TopPriorityMeasure/TopPriorityMeasuresSelection","QueryString":"?runDate=null","Headers":{"Accept":"application/json, text/plain, */*","Accept-Encoding":"gzip, deflate, br, zstd","Accept-Language":"en-US,en;q=0.9","Authorization":"Bearer 2eca46eb-8907-4807-85ba-5bcfa427ef16","Connection":"keep-alive","Host":"localhost:61368","Referer":"http://localhost:61368/2025/goals/goals-configuration","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36","sec-ch-ua-platform":"\\u0022Windows\\u0022","Timezone":"America/Chicago","sec-ch-ua":"\\u0022Not(A:Brand\\u0022;v=\\u00228\\u0022, \\u0022Chromium\\u0022;v=\\u0022144\\u0022, \\u0022Google Chrome\\u0022;v=\\u0022144\\u0022","sec-ch-ua-mobile":"?0","Sec-Fetch-Site":"same-origin","Sec-Fetch-Mode":"cors","Sec-Fetch-Dest":"empty"},"ContentLength":null,"Body":null,"$type":"HttpLogInfo"}
+System.FormatException: The string 'null' was not recognized as a valid DateTime. There is an unknown word starting at index '0'.
+   at System.DateTimeParse.Parse(ReadOnlySpan`1 s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at QI.QR.Business.Services.TopPriorityMeasureService.GetTPMSelectionData(String dateRun) in C:\Projects\QRI\QI.QR.Business\Services\TopPriorityMeasureService.cs:line 177
+   at QI.QR.Controllers.TopPriorityMeasureController.GetTopPriorityMeasuresSelectionData(String runDate) in C:\Projects\QRI\QI.QR\Controllers\TopPrioityMeasureController.cs:line 56
+   at lambda_method61(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at QI.QR.ErrorHandling.ErrorHandlingMiddleware.InvokeAsync(HttpContext context, RequestDelegate next) in C:\Projects\QRI\QI.QR\ErrorHandling\ErrorHandlingMiddleware.cs:line 36
+2026-01-21 13:02:30.432 -06:00 [ERR] Error during request processing.
+ {"Method":"GET","Path":"/TopPriorityMeasure/TopPriorityMeasuresSelection","QueryString":"?runDate=null","Headers":{"Accept":"application/json, text/plain, */*","Accept-Encoding":"gzip, deflate, br, zstd","Accept-Language":"en-US,en;q=0.9","Authorization":"Bearer 2eca46eb-8907-4807-85ba-5bcfa427ef16","Connection":"keep-alive","Host":"localhost:61368","Referer":"http://localhost:61368/2025/goals/goals-configuration","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36","sec-ch-ua-platform":"\\u0022Windows\\u0022","Timezone":"America/Chicago","sec-ch-ua":"\\u0022Not(A:Brand\\u0022;v=\\u00228\\u0022, \\u0022Chromium\\u0022;v=\\u0022144\\u0022, \\u0022Google Chrome\\u0022;v=\\u0022144\\u0022","sec-ch-ua-mobile":"?0","Sec-Fetch-Site":"same-origin","Sec-Fetch-Mode":"cors","Sec-Fetch-Dest":"empty"},"ContentLength":null,"Body":null,"$type":"HttpLogInfo"}
+System.FormatException: The string 'null' was not recognized as a valid DateTime. There is an unknown word starting at index '0'.
+   at System.DateTimeParse.Parse(ReadOnlySpan`1 s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at QI.QR.Business.Services.TopPriorityMeasureService.GetTPMSelectionData(String dateRun) in C:\Projects\QRI\QI.QR.Business\Services\TopPriorityMeasureService.cs:line 177
+   at QI.QR.Controllers.TopPriorityMeasureController.GetTopPriorityMeasuresSelectionData(String runDate) in C:\Projects\QRI\QI.QR\Controllers\TopPrioityMeasureController.cs:line 56
+   at lambda_method61(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at QI.QR.ErrorHandling.ErrorHandlingMiddleware.InvokeAsync(HttpContext context, RequestDelegate next) in C:\Projects\QRI\QI.QR\ErrorHandling\ErrorHandlingMiddleware.cs:line 36
+2026-01-21 13:03:50.063 -06:00 [ERR] Error during request processing.
+ {"Method":"GET","Path":"/TopPriorityMeasure/TopPriorityMeasuresSelection","QueryString":"?runDate=null","Headers":{"Accept":"application/json, text/plain, */*","Accept-Encoding":"gzip, deflate, br, zstd","Accept-Language":"en-US,en;q=0.9","Authorization":"Bearer 2eca46eb-8907-4807-85ba-5bcfa427ef16","Connection":"keep-alive","Host":"localhost:61368","Referer":"http://localhost:61368/2025/goals/goals-configuration","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36","sec-ch-ua-platform":"\\u0022Windows\\u0022","Timezone":"America/Chicago","sec-ch-ua":"\\u0022Not(A:Brand\\u0022;v=\\u00228\\u0022, \\u0022Chromium\\u0022;v=\\u0022144\\u0022, \\u0022Google Chrome\\u0022;v=\\u0022144\\u0022","sec-ch-ua-mobile":"?0","Sec-Fetch-Site":"same-origin","Sec-Fetch-Mode":"cors","Sec-Fetch-Dest":"empty"},"ContentLength":null,"Body":null,"$type":"HttpLogInfo"}
+System.FormatException: The string 'null' was not recognized as a valid DateTime. There is an unknown word starting at index '0'.
+   at System.DateTimeParse.Parse(ReadOnlySpan`1 s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at QI.QR.Business.Services.TopPriorityMeasureService.GetTPMSelectionData(String dateRun) in C:\Projects\QRI\QI.QR.Business\Services\TopPriorityMeasureService.cs:line 177
+   at QI.QR.Controllers.TopPriorityMeasureController.GetTopPriorityMeasuresSelectionData(String runDate) in C:\Projects\QRI\QI.QR\Controllers\TopPrioityMeasureController.cs:line 56
+   at lambda_method61(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at QI.QR.ErrorHandling.ErrorHandlingMiddleware.InvokeAsync(HttpContext context, RequestDelegate next) in C:\Projects\QRI\QI.QR\ErrorHandling\ErrorHandlingMiddleware.cs:line 36
+2026-01-21 13:06:30.286 -06:00 [ERR] Error during request processing.
+ {"Method":"GET","Path":"/TopPriorityMeasure/TopPriorityMeasuresSelection","QueryString":"?runDate=null","Headers":{"Accept":"application/json, text/plain, */*","Accept-Encoding":"gzip, deflate, br, zstd","Accept-Language":"en-US,en;q=0.9","Authorization":"Bearer 2eca46eb-8907-4807-85ba-5bcfa427ef16","Connection":"keep-alive","Host":"localhost:61368","Referer":"http://localhost:61368/2025/goals/goals-configuration","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36","sec-ch-ua-platform":"\\u0022Windows\\u0022","Timezone":"America/Chicago","sec-ch-ua":"\\u0022Not(A:Brand\\u0022;v=\\u00228\\u0022, \\u0022Chromium\\u0022;v=\\u0022144\\u0022, \\u0022Google Chrome\\u0022;v=\\u0022144\\u0022","sec-ch-ua-mobile":"?0","Sec-Fetch-Site":"same-origin","Sec-Fetch-Mode":"cors","Sec-Fetch-Dest":"empty"},"ContentLength":null,"Body":null,"$type":"HttpLogInfo"}
+System.FormatException: The string 'null' was not recognized as a valid DateTime. There is an unknown word starting at index '0'.
+   at System.DateTimeParse.Parse(ReadOnlySpan`1 s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at QI.QR.Business.Services.TopPriorityMeasureService.GetTPMSelectionData(String dateRun) in C:\Projects\QRI\QI.QR.Business\Services\TopPriorityMeasureService.cs:line 177
+   at QI.QR.Controllers.TopPriorityMeasureController.GetTopPriorityMeasuresSelectionData(String runDate) in C:\Projects\QRI\QI.QR\Controllers\TopPrioityMeasureController.cs:line 56
+   at lambda_method61(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at QI.QR.ErrorHandling.ErrorHandlingMiddleware.InvokeAsync(HttpContext context, RequestDelegate next) in C:\Projects\QRI\QI.QR\ErrorHandling\ErrorHandlingMiddleware.cs:line 36
+2026-01-21 13:07:03.786 -06:00 [ERR] Error during request processing.
+ {"Method":"GET","Path":"/TopPriorityMeasure/TopPriorityMeasuresSelection","QueryString":"?runDate=null","Headers":{"Accept":"application/json, text/plain, */*","Accept-Encoding":"gzip, deflate, br, zstd","Accept-Language":"en-US,en;q=0.9","Authorization":"Bearer 2eca46eb-8907-4807-85ba-5bcfa427ef16","Connection":"keep-alive","Host":"localhost:61368","Referer":"http://localhost:61368/2025/goals/goals-configuration","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36","sec-ch-ua-platform":"\\u0022Windows\\u0022","Timezone":"America/Chicago","sec-ch-ua":"\\u0022Not(A:Brand\\u0022;v=\\u00228\\u0022, \\u0022Chromium\\u0022;v=\\u0022144\\u0022, \\u0022Google Chrome\\u0022;v=\\u0022144\\u0022","sec-ch-ua-mobile":"?0","Sec-Fetch-Site":"same-origin","Sec-Fetch-Mode":"cors","Sec-Fetch-Dest":"empty"},"ContentLength":null,"Body":null,"$type":"HttpLogInfo"}
+System.FormatException: The string 'null' was not recognized as a valid DateTime. There is an unknown word starting at index '0'.
+   at System.DateTimeParse.Parse(ReadOnlySpan`1 s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at QI.QR.Business.Services.TopPriorityMeasureService.GetTPMSelectionData(String dateRun) in C:\Projects\QRI\QI.QR.Business\Services\TopPriorityMeasureService.cs:line 177
+   at QI.QR.Controllers.TopPriorityMeasureController.GetTopPriorityMeasuresSelectionData(String runDate) in C:\Projects\QRI\QI.QR\Controllers\TopPrioityMeasureController.cs:line 56
+   at lambda_method61(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at QI.QR.ErrorHandling.ErrorHandlingMiddleware.InvokeAsync(HttpContext context, RequestDelegate next) in C:\Projects\QRI\QI.QR\ErrorHandling\ErrorHandlingMiddleware.cs:line 36
+2026-01-21 13:11:15.696 -06:00 [ERR] ΓêÜ Browser application bundle generation complete.
+
+2026-01-21 13:11:15.737 -06:00 [ERR] 
+
+2026-01-21 13:11:15.738 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\src\app\dashboard\measure-config\measure-config.component.ts depends on 'file-saver'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-21 13:11:15.738 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-21 13:11:15.738 -06:00 [ERR] 
+
+2026-01-21 13:11:23.157 -06:00 [ERR] Error during request processing.
+ {"Method":"GET","Path":"/polyfills.js","QueryString":"","Headers":{"Accept":"*/*","Accept-Encoding":"gzip, deflate, br, zstd","Accept-Language":"en-US,en;q=0.9","Connection":"keep-alive","Host":"localhost:61368","Referer":"http://localhost:61368/2025/goals/goals-configuration","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36","Origin":"http://localhost:61368","sec-ch-ua-platform":"\\u0022Windows\\u0022","sec-ch-ua":"\\u0022Not(A:Brand\\u0022;v=\\u00228\\u0022, \\u0022Chromium\\u0022;v=\\u0022144\\u0022, \\u0022Google Chrome\\u0022;v=\\u0022144\\u0022","sec-ch-ua-mobile":"?0","Sec-Fetch-Site":"same-origin","Sec-Fetch-Mode":"cors","Sec-Fetch-Dest":"script"},"ContentLength":null,"Body":null,"$type":"HttpLogInfo"}
+System.Net.Http.HttpRequestException: Failed to proxy the request to http://localhost:49375/polyfills.js, because the request to the proxy target failed. Check that the proxy target server is running and accepting requests to http://localhost:49375/.
+
+The underlying exception message was 'An error occurred while sending the request.'.Check the InnerException for more details.
+ ---> System.Net.Http.HttpRequestException: An error occurred while sending the request.
+ ---> System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host..
+ ---> System.Net.Sockets.SocketException (10054): An existing connection was forcibly closed by the remote host.
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at Microsoft.AspNetCore.SpaServices.Extensions.Proxy.SpaProxy.PerformProxyRequest(HttpContext context, HttpClient httpClient, Task`1 baseUriTask, CancellationToken applicationStoppingToken, Boolean proxy404s)
+   --- End of inner exception stack trace ---
+   at Microsoft.AspNetCore.SpaServices.Extensions.Proxy.SpaProxy.PerformProxyRequest(HttpContext context, HttpClient httpClient, Task`1 baseUriTask, CancellationToken applicationStoppingToken, Boolean proxy404s)
+   at Microsoft.AspNetCore.Builder.SpaProxyingExtensions.<>c__DisplayClass2_0.<<UseProxyToSpaDevelopmentServer>b__0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at QI.QR.ErrorHandling.ErrorHandlingMiddleware.InvokeAsync(HttpContext context, RequestDelegate next) in C:\Projects\QRI\QI.QR\ErrorHandling\ErrorHandlingMiddleware.cs:line 36
+2026-01-21 13:11:34.722 -06:00 [ERR] Error during request processing.
+ {"Method":"GET","Path":"/TopPriorityMeasure/TopPriorityMeasuresSelection","QueryString":"?runDate=null","Headers":{"Accept":"application/json, text/plain, */*","Accept-Encoding":"gzip, deflate, br, zstd","Accept-Language":"en-US,en;q=0.9","Authorization":"Bearer 2eca46eb-8907-4807-85ba-5bcfa427ef16","Connection":"keep-alive","Host":"localhost:61368","Referer":"http://localhost:61368/2025/goals/goals-configuration","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36","sec-ch-ua-platform":"\\u0022Windows\\u0022","Timezone":"America/Chicago","sec-ch-ua":"\\u0022Not(A:Brand\\u0022;v=\\u00228\\u0022, \\u0022Chromium\\u0022;v=\\u0022144\\u0022, \\u0022Google Chrome\\u0022;v=\\u0022144\\u0022","sec-ch-ua-mobile":"?0","Sec-Fetch-Site":"same-origin","Sec-Fetch-Mode":"cors","Sec-Fetch-Dest":"empty"},"ContentLength":null,"Body":null,"$type":"HttpLogInfo"}
+System.FormatException: The string 'null' was not recognized as a valid DateTime. There is an unknown word starting at index '0'.
+   at System.DateTimeParse.Parse(ReadOnlySpan`1 s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at QI.QR.Business.Services.TopPriorityMeasureService.GetTPMSelectionData(String dateRun) in C:\Projects\QRI\QI.QR.Business\Services\TopPriorityMeasureService.cs:line 177
+   at QI.QR.Controllers.TopPriorityMeasureController.GetTopPriorityMeasuresSelectionData(String runDate) in C:\Projects\QRI\QI.QR\Controllers\TopPrioityMeasureController.cs:line 56
+   at lambda_method61(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at QI.QR.ErrorHandling.ErrorHandlingMiddleware.InvokeAsync(HttpContext context, RequestDelegate next) in C:\Projects\QRI\QI.QR\ErrorHandling\ErrorHandlingMiddleware.cs:line 36
+2026-01-21 13:13:59.009 -06:00 [ERR] ΓêÜ Browser application bundle generation complete.
+
+2026-01-21 13:14:15.212 -06:00 [ERR] ΓêÜ Browser application bundle generation complete.
+
+2026-01-21 13:14:23.474 -06:00 [ERR] Error during request processing.
+ {"Method":"GET","Path":"/styles.css","QueryString":"","Headers":{"Accept":"text/css,*/*;q=0.1","Accept-Encoding":"gzip, deflate, br, zstd","Accept-Language":"en-US,en;q=0.9","Connection":"keep-alive","Host":"localhost:61368","Referer":"http://localhost:61368/2025/goals/goals-configuration","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36","sec-ch-ua-platform":"\\u0022Windows\\u0022","sec-ch-ua":"\\u0022Not(A:Brand\\u0022;v=\\u00228\\u0022, \\u0022Chromium\\u0022;v=\\u0022144\\u0022, \\u0022Google Chrome\\u0022;v=\\u0022144\\u0022","sec-ch-ua-mobile":"?0","Sec-Fetch-Site":"same-origin","Sec-Fetch-Mode":"no-cors","Sec-Fetch-Dest":"style"},"ContentLength":null,"Body":null,"$type":"HttpLogInfo"}
+System.Net.Http.HttpRequestException: Failed to proxy the request to http://localhost:49375/styles.css, because the request to the proxy target failed. Check that the proxy target server is running and accepting requests to http://localhost:49375/.
+
+The underlying exception message was 'An error occurred while sending the request.'.Check the InnerException for more details.
+ ---> System.Net.Http.HttpRequestException: An error occurred while sending the request.
+ ---> System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host..
+ ---> System.Net.Sockets.SocketException (10054): An existing connection was forcibly closed by the remote host.
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at Microsoft.AspNetCore.SpaServices.Extensions.Proxy.SpaProxy.PerformProxyRequest(HttpContext context, HttpClient httpClient, Task`1 baseUriTask, CancellationToken applicationStoppingToken, Boolean proxy404s)
+   --- End of inner exception stack trace ---
+   at Microsoft.AspNetCore.SpaServices.Extensions.Proxy.SpaProxy.PerformProxyRequest(HttpContext context, HttpClient httpClient, Task`1 baseUriTask, CancellationToken applicationStoppingToken, Boolean proxy404s)
+   at Microsoft.AspNetCore.Builder.SpaProxyingExtensions.<>c__DisplayClass2_0.<<UseProxyToSpaDevelopmentServer>b__0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at QI.QR.ErrorHandling.ErrorHandlingMiddleware.InvokeAsync(HttpContext context, RequestDelegate next) in C:\Projects\QRI\QI.QR\ErrorHandling\ErrorHandlingMiddleware.cs:line 36
+2026-01-21 13:14:28.059 -06:00 [ERR] Error during request processing.
+ {"Method":"GET","Path":"/TopPriorityMeasure/TopPriorityMeasuresSelection","QueryString":"?runDate=null","Headers":{"Accept":"application/json, text/plain, */*","Accept-Encoding":"gzip, deflate, br, zstd","Accept-Language":"en-US,en;q=0.9","Authorization":"Bearer 2eca46eb-8907-4807-85ba-5bcfa427ef16","Connection":"keep-alive","Host":"localhost:61368","Referer":"http://localhost:61368/2025/goals/goals-configuration","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36","sec-ch-ua-platform":"\\u0022Windows\\u0022","Timezone":"America/Chicago","sec-ch-ua":"\\u0022Not(A:Brand\\u0022;v=\\u00228\\u0022, \\u0022Chromium\\u0022;v=\\u0022144\\u0022, \\u0022Google Chrome\\u0022;v=\\u0022144\\u0022","sec-ch-ua-mobile":"?0","Sec-Fetch-Site":"same-origin","Sec-Fetch-Mode":"cors","Sec-Fetch-Dest":"empty"},"ContentLength":null,"Body":null,"$type":"HttpLogInfo"}
+System.FormatException: The string 'null' was not recognized as a valid DateTime. There is an unknown word starting at index '0'.
+   at System.DateTimeParse.Parse(ReadOnlySpan`1 s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at QI.QR.Business.Services.TopPriorityMeasureService.GetTPMSelectionData(String dateRun) in C:\Projects\QRI\QI.QR.Business\Services\TopPriorityMeasureService.cs:line 177
+   at QI.QR.Controllers.TopPriorityMeasureController.GetTopPriorityMeasuresSelectionData(String runDate) in C:\Projects\QRI\QI.QR\Controllers\TopPrioityMeasureController.cs:line 56
+   at lambda_method61(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at QI.QR.ErrorHandling.ErrorHandlingMiddleware.InvokeAsync(HttpContext context, RequestDelegate next) in C:\Projects\QRI\QI.QR\ErrorHandling\ErrorHandlingMiddleware.cs:line 36
+2026-01-21 13:14:40.826 -06:00 [ERR] Error during request processing.
+ {"Method":"GET","Path":"/TopPriorityMeasure/TopPriorityMeasuresSelection","QueryString":"?runDate=null","Headers":{"Accept":"application/json, text/plain, */*","Accept-Encoding":"gzip, deflate, br, zstd","Accept-Language":"en-US,en;q=0.9","Authorization":"Bearer 2eca46eb-8907-4807-85ba-5bcfa427ef16","Connection":"keep-alive","Host":"localhost:61368","Referer":"http://localhost:61368/2025/goals/goals-configuration","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36","sec-ch-ua-platform":"\\u0022Windows\\u0022","Timezone":"America/Chicago","sec-ch-ua":"\\u0022Not(A:Brand\\u0022;v=\\u00228\\u0022, \\u0022Chromium\\u0022;v=\\u0022144\\u0022, \\u0022Google Chrome\\u0022;v=\\u0022144\\u0022","sec-ch-ua-mobile":"?0","Sec-Fetch-Site":"same-origin","Sec-Fetch-Mode":"cors","Sec-Fetch-Dest":"empty"},"ContentLength":null,"Body":null,"$type":"HttpLogInfo"}
+System.FormatException: The string 'null' was not recognized as a valid DateTime. There is an unknown word starting at index '0'.
+   at System.DateTimeParse.Parse(ReadOnlySpan`1 s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value)
+   at QI.QR.Business.Services.TopPriorityMeasureService.GetTPMSelectionData(String dateRun) in C:\Projects\QRI\QI.QR.Business\Services\TopPriorityMeasureService.cs:line 177
+   at QI.QR.Controllers.TopPriorityMeasureController.GetTopPriorityMeasuresSelectionData(String runDate) in C:\Projects\QRI\QI.QR\Controllers\TopPrioityMeasureController.cs:line 56
+   at lambda_method61(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at QI.QR.ErrorHandling.ErrorHandlingMiddleware.InvokeAsync(HttpContext context, RequestDelegate next) in C:\Projects\QRI\QI.QR\ErrorHandling\ErrorHandlingMiddleware.cs:line 36

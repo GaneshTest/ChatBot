@@ -1,0 +1,651 @@
+2026-01-05 13:42:30.503 -06:00 [ERR] - Generating browser application bundles (phase: setup)...
+
+2026-01-05 13:44:08.347 -06:00 [ERR] ΓêÜ Browser application bundle generation complete.
+
+2026-01-05 13:44:08.388 -06:00 [ERR] 
+
+2026-01-05 13:44:08.388 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.array.index-of.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-05 13:44:08.388 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-05 13:44:08.389 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.array.iterator.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-05 13:44:08.389 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-05 13:44:08.389 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.array.reduce.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-05 13:44:08.389 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-05 13:44:08.389 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.array.reverse.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-05 13:44:08.389 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-05 13:44:08.390 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.promise.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-05 13:44:08.390 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-05 13:44:08.390 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.regexp.to-string.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-05 13:44:08.390 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-05 13:44:08.390 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.string.ends-with.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-05 13:44:08.390 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-05 13:44:08.390 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.string.includes.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-05 13:44:08.391 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-05 13:44:08.391 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.string.match.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-05 13:44:08.391 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-05 13:44:08.391 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.string.replace.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-05 13:44:08.392 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-05 13:44:08.393 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.string.split.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-05 13:44:08.393 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-05 13:44:08.393 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.string.starts-with.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-05 13:44:08.394 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-05 13:44:08.394 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.string.trim.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-05 13:44:08.394 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-05 13:44:08.397 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/web.dom-collections.iterator.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-05 13:44:08.397 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-05 13:44:08.397 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'raf'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-05 13:44:08.397 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-05 13:44:08.398 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'rgbcolor'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-05 13:44:08.399 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-05 13:44:08.399 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\primeng\fesm2022\primeng-editor.mjs depends on 'quill'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-05 13:44:08.399 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-05 13:44:08.399 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\src\app\dashboard\measure-config\measure-config.component.ts depends on 'file-saver'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-05 13:44:08.400 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-05 13:44:08.401 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\src\app\measure-summary\trending\trending.component.ts depends on 'html2canvas'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-05 13:44:08.401 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-05 13:44:08.401 -06:00 [ERR] 
+
+2026-01-05 13:44:31.255 -06:00 [ERR] Error during request processing.
+ {"Method":"GET","Path":"/assets/imgs/icons/favicon.ico","QueryString":"","Headers":{"Accept":"image/avif,image/webp,image/apng,image/svg\\u002Bxml,image/*,*/*;q=0.8","Accept-Encoding":"gzip, deflate, br, zstd","Accept-Language":"en-US,en;q=0.9","Connection":"keep-alive","Host":"localhost:61368","Referer":"http://localhost:61368/2025/login","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36","sec-ch-ua-platform":"\\u0022Windows\\u0022","sec-ch-ua":"\\u0022Google Chrome\\u0022;v=\\u0022143\\u0022, \\u0022Chromium\\u0022;v=\\u0022143\\u0022, \\u0022Not A(Brand\\u0022;v=\\u002224\\u0022","sec-ch-ua-mobile":"?0","Sec-Fetch-Site":"same-origin","Sec-Fetch-Mode":"no-cors","Sec-Fetch-Dest":"image"},"ContentLength":null,"Body":null,"$type":"HttpLogInfo"}
+System.Net.Http.HttpRequestException: Failed to proxy the request to http://localhost:55464/assets/imgs/icons/favicon.ico, because the request to the proxy target failed. Check that the proxy target server is running and accepting requests to http://localhost:55464/.
+
+The underlying exception message was 'An error occurred while sending the request.'.Check the InnerException for more details.
+ ---> System.Net.Http.HttpRequestException: An error occurred while sending the request.
+ ---> System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host..
+ ---> System.Net.Sockets.SocketException (10054): An existing connection was forcibly closed by the remote host.
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at Microsoft.AspNetCore.SpaServices.Extensions.Proxy.SpaProxy.PerformProxyRequest(HttpContext context, HttpClient httpClient, Task`1 baseUriTask, CancellationToken applicationStoppingToken, Boolean proxy404s)
+   --- End of inner exception stack trace ---
+   at Microsoft.AspNetCore.SpaServices.Extensions.Proxy.SpaProxy.PerformProxyRequest(HttpContext context, HttpClient httpClient, Task`1 baseUriTask, CancellationToken applicationStoppingToken, Boolean proxy404s)
+   at Microsoft.AspNetCore.Builder.SpaProxyingExtensions.<>c__DisplayClass2_0.<<UseProxyToSpaDevelopmentServer>b__0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at QI.QR.ErrorHandling.ErrorHandlingMiddleware.InvokeAsync(HttpContext context, RequestDelegate next) in C:\Projects\QRI\QI.QR\ErrorHandling\ErrorHandlingMiddleware.cs:line 36
+2026-01-05 14:09:40.907 -06:00 [ERR] ΓêÜ Browser application bundle generation complete.
+
+2026-01-05 15:40:45.006 -06:00 [ERR] ΓêÜ Browser application bundle generation complete.
+
+2026-01-05 15:41:00.878 -06:00 [ERR] ΓêÜ Browser application bundle generation complete.
+
+2026-01-05 15:41:16.815 -06:00 [ERR] ΓêÜ Browser application bundle generation complete.
+
+2026-01-05 15:44:24.021 -06:00 [ERR] ΓêÜ Browser application bundle generation complete.
+
+2026-01-05 15:44:24.047 -06:00 [ERR] 
+
+2026-01-05 15:44:24.048 -06:00 [ERR] Error: src/app/measures-dashboard/measures-dashboard-grid/measures-dashboard-grid.component.ts:153:111 - error TS2554: Expected 1 arguments, but got 2.
+
+2026-01-05 15:44:24.048 -06:00 [ERR] 153         this.measuresDashboardStateService.saveMeasuresDashbordViewSettings( this.defaultGridName + "_CONFIG",gridConfig);
+
+2026-01-05 15:44:24.048 -06:00 [ERR]                                                                                                                   ~~~~~~~~~~
+
+2026-01-05 15:44:24.049 -06:00 [ERR] 
+
+2026-01-05 15:44:37.912 -06:00 [ERR] ΓêÜ Browser application bundle generation complete.
+
+2026-01-05 15:44:37.938 -06:00 [ERR] 
+
+2026-01-05 15:44:37.938 -06:00 [ERR] Error: src/app/measures-dashboard/measures-dashboard-grid/measures-dashboard-grid.component.ts:153:111 - error TS2554: Expected 1 arguments, but got 2.
+
+2026-01-05 15:44:37.939 -06:00 [ERR] 153         this.measuresDashboardStateService.saveMeasuresDashbordViewSettings( this.defaultGridName + "_CONFIG",gridConfig);
+
+2026-01-05 15:44:37.939 -06:00 [ERR]                                                                                                                   ~~~~~~~~~~
+
+2026-01-05 15:44:37.939 -06:00 [ERR] 
+
+2026-01-05 15:47:09.008 -06:00 [ERR] ΓêÜ Browser application bundle generation complete.
+
+2026-01-05 15:47:09.021 -06:00 [ERR] 
+
+2026-01-05 15:47:09.022 -06:00 [ERR] Error: src/app/measures-dashboard/measures-dashboard-grid/measures-dashboard-grid.component.ts:153:111 - error TS2554: Expected 1 arguments, but got 2.
+
+2026-01-05 15:47:09.022 -06:00 [ERR] 153         this.measuresDashboardStateService.saveMeasuresDashbordViewSettings( this.defaultGridName + "_CONFIG",gridConfig);
+
+2026-01-05 15:47:09.022 -06:00 [ERR]                                                                                                                   ~~~~~~~~~~
+
+2026-01-05 15:47:09.022 -06:00 [ERR] 
+
+2026-01-05 15:47:24.753 -06:00 [ERR] ΓêÜ Browser application bundle generation complete.
+
+2026-01-05 15:48:49.818 -06:00 [ERR] ΓêÜ Browser application bundle generation complete.
+
+2026-01-05 15:51:55.393 -06:00 [ERR] ΓêÜ Browser application bundle generation complete.
+
+2026-01-05 15:52:12.857 -06:00 [ERR] ΓêÜ Browser application bundle generation complete.
+
+2026-01-05 15:52:53.029 -06:00 [ERR] ΓêÜ Browser application bundle generation complete.
+
+2026-01-05 15:53:01.434 -06:00 [ERR] Error during request processing.
+ {"Method":"GET","Path":"/styles.css","QueryString":"","Headers":{"Accept":"text/css,*/*;q=0.1","Accept-Encoding":"gzip, deflate, br, zstd","Accept-Language":"en-US,en;q=0.9","Connection":"keep-alive","Host":"localhost:61368","Referer":"http://localhost:61368/2025/measures-dashboard","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36","sec-ch-ua-platform":"\\u0022Windows\\u0022","sec-ch-ua":"\\u0022Google Chrome\\u0022;v=\\u0022143\\u0022, \\u0022Chromium\\u0022;v=\\u0022143\\u0022, \\u0022Not A(Brand\\u0022;v=\\u002224\\u0022","sec-ch-ua-mobile":"?0","Sec-Fetch-Site":"same-origin","Sec-Fetch-Mode":"no-cors","Sec-Fetch-Dest":"style"},"ContentLength":null,"Body":null,"$type":"HttpLogInfo"}
+System.Net.Http.HttpRequestException: Failed to proxy the request to http://localhost:55464/styles.css, because the request to the proxy target failed. Check that the proxy target server is running and accepting requests to http://localhost:55464/.
+
+The underlying exception message was 'An error occurred while sending the request.'.Check the InnerException for more details.
+ ---> System.Net.Http.HttpRequestException: An error occurred while sending the request.
+ ---> System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host..
+ ---> System.Net.Sockets.SocketException (10054): An existing connection was forcibly closed by the remote host.
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at Microsoft.AspNetCore.SpaServices.Extensions.Proxy.SpaProxy.PerformProxyRequest(HttpContext context, HttpClient httpClient, Task`1 baseUriTask, CancellationToken applicationStoppingToken, Boolean proxy404s)
+   --- End of inner exception stack trace ---
+   at Microsoft.AspNetCore.SpaServices.Extensions.Proxy.SpaProxy.PerformProxyRequest(HttpContext context, HttpClient httpClient, Task`1 baseUriTask, CancellationToken applicationStoppingToken, Boolean proxy404s)
+   at Microsoft.AspNetCore.Builder.SpaProxyingExtensions.<>c__DisplayClass2_0.<<UseProxyToSpaDevelopmentServer>b__0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at QI.QR.ErrorHandling.ErrorHandlingMiddleware.InvokeAsync(HttpContext context, RequestDelegate next) in C:\Projects\QRI\QI.QR\ErrorHandling\ErrorHandlingMiddleware.cs:line 36
+2026-01-05 15:54:20.081 -06:00 [ERR] ΓêÜ Browser application bundle generation complete.
+
+2026-01-05 16:03:01.137 -06:00 [ERR] Error during request processing.
+ {"Method":"POST","Path":"/abstractions/MedicalRecords","QueryString":"","Headers":{"Accept":"application/json, text/plain, */*","Accept-Encoding":"gzip, deflate, br, zstd","Accept-Language":"en-US,en;q=0.9","Authorization":"Bearer 8507501d-f734-4489-9613-26d7ef4b381d","Connection":"keep-alive","Content-Length":"947","Content-Type":"application/json","Host":"localhost:61368","Referer":"http://localhost:61368/2025/abstraction/mrr","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36","sec-ch-ua-platform":"\\u0022Windows\\u0022","Timezone":"America/Chicago","sec-ch-ua":"\\u0022Google Chrome\\u0022;v=\\u0022143\\u0022, \\u0022Chromium\\u0022;v=\\u0022143\\u0022, \\u0022Not A(Brand\\u0022;v=\\u002224\\u0022","sec-ch-ua-mobile":"?0","Origin":"http://localhost:61368","Sec-Fetch-Site":"same-origin","Sec-Fetch-Mode":"cors","Sec-Fetch-Dest":"empty"},"ContentLength":947,"Body":null,"$type":"HttpLogInfo"}
+System.ArgumentException: Stream was not readable.
+   at System.IO.StreamReader..ctor(Stream stream, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean leaveOpen)
+   at System.IO.StreamReader..ctor(Stream stream)
+   at QI.QR.HttpRequestRelay.GetHttpRequestData(HttpRequest httpRequest)
+   at QI.QR.Controllers.AbstractionsController.GetMedicalRecords(AdvancedFilterViewModel advancedFilterView)
+   at lambda_method171(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at QI.QR.ErrorHandling.ErrorHandlingMiddleware.InvokeAsync(HttpContext context, RequestDelegate next)
+2026-01-05 17:04:20.088 -06:00 [ERR] Error during request processing.
+ {"Method":"GET","Path":"/organization/2","QueryString":"","Headers":{"Accept":"application/json, text/plain, */*","Accept-Encoding":"gzip, deflate, br, zstd","Accept-Language":"en-US,en;q=0.9","Authorization":"Bearer 8507501d-f734-4489-9613-26d7ef4b381d","Connection":"keep-alive","Host":"localhost:61368","Referer":"http://localhost:61368/2025/abstraction/mrr","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36","sec-ch-ua-platform":"\\u0022Windows\\u0022","Timezone":"America/Chicago","sec-ch-ua":"\\u0022Google Chrome\\u0022;v=\\u0022143\\u0022, \\u0022Chromium\\u0022;v=\\u0022143\\u0022, \\u0022Not A(Brand\\u0022;v=\\u002224\\u0022","sec-ch-ua-mobile":"?0","Sec-Fetch-Site":"same-origin","Sec-Fetch-Mode":"cors","Sec-Fetch-Dest":"empty"},"ContentLength":null,"Body":null,"$type":"HttpLogInfo"}
+System.Net.Http.HttpRequestException: No such host is known. (w1d1-qrapp.mediconnect.net:443)
+ ---> System.Net.Sockets.SocketException (11001): No such host is known.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|285_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at QI.QR.Business.Services.UserService.ValidateToken(String token) in C:\Projects\QRI\QI.QR.Business\Services\UserService.cs:line 261
+   at QI.QR.AuthHandling.AuthenticationHandler.HandleAuthenticateAsync()
+   at Microsoft.AspNetCore.Authentication.AuthenticationHandler`1.AuthenticateAsync()
+   at Microsoft.AspNetCore.Authentication.AuthenticationService.AuthenticateAsync(HttpContext context, String scheme)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at QI.QR.ErrorHandling.ErrorHandlingMiddleware.InvokeAsync(HttpContext context, RequestDelegate next)
+2026-01-05 17:04:21.225 -06:00 [ERR] Error during request processing.
+ {"Method":"GET","Path":"/organization/2","QueryString":"","Headers":{"Accept":"application/json, text/plain, */*","Accept-Encoding":"gzip, deflate, br, zstd","Accept-Language":"en-US,en;q=0.9","Authorization":"Bearer 8507501d-f734-4489-9613-26d7ef4b381d","Connection":"keep-alive","Host":"localhost:61368","Referer":"http://localhost:61368/2025/abstraction/mrr","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36","sec-ch-ua-platform":"\\u0022Windows\\u0022","Timezone":"America/Chicago","sec-ch-ua":"\\u0022Google Chrome\\u0022;v=\\u0022143\\u0022, \\u0022Chromium\\u0022;v=\\u0022143\\u0022, \\u0022Not A(Brand\\u0022;v=\\u002224\\u0022","sec-ch-ua-mobile":"?0","Sec-Fetch-Site":"same-origin","Sec-Fetch-Mode":"cors","Sec-Fetch-Dest":"empty"},"ContentLength":null,"Body":null,"$type":"HttpLogInfo"}
+System.Net.Http.HttpRequestException: No such host is known. (w1d1-qrapp.mediconnect.net:443)
+ ---> System.Net.Sockets.SocketException (11001): No such host is known.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|285_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at QI.QR.Business.Services.UserService.ValidateToken(String token) in C:\Projects\QRI\QI.QR.Business\Services\UserService.cs:line 261
+   at QI.QR.AuthHandling.AuthenticationHandler.HandleAuthenticateAsync()
+   at Microsoft.AspNetCore.Authentication.AuthenticationHandler`1.AuthenticateAsync()
+   at Microsoft.AspNetCore.Authentication.AuthenticationService.AuthenticateAsync(HttpContext context, String scheme)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at QI.QR.ErrorHandling.ErrorHandlingMiddleware.InvokeAsync(HttpContext context, RequestDelegate next)
+2026-01-05 17:04:22.326 -06:00 [ERR] Error during request processing.
+ {"Method":"GET","Path":"/organization/2","QueryString":"","Headers":{"Accept":"application/json, text/plain, */*","Accept-Encoding":"gzip, deflate, br, zstd","Accept-Language":"en-US,en;q=0.9","Authorization":"Bearer 8507501d-f734-4489-9613-26d7ef4b381d","Connection":"keep-alive","Host":"localhost:61368","Referer":"http://localhost:61368/2025/abstraction/mrr","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36","sec-ch-ua-platform":"\\u0022Windows\\u0022","Timezone":"America/Chicago","sec-ch-ua":"\\u0022Google Chrome\\u0022;v=\\u0022143\\u0022, \\u0022Chromium\\u0022;v=\\u0022143\\u0022, \\u0022Not A(Brand\\u0022;v=\\u002224\\u0022","sec-ch-ua-mobile":"?0","Sec-Fetch-Site":"same-origin","Sec-Fetch-Mode":"cors","Sec-Fetch-Dest":"empty"},"ContentLength":null,"Body":null,"$type":"HttpLogInfo"}
+System.Net.Http.HttpRequestException: No such host is known. (w1d1-qrapp.mediconnect.net:443)
+ ---> System.Net.Sockets.SocketException (11001): No such host is known.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|285_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at QI.QR.Business.Services.UserService.ValidateToken(String token) in C:\Projects\QRI\QI.QR.Business\Services\UserService.cs:line 261
+   at QI.QR.AuthHandling.AuthenticationHandler.HandleAuthenticateAsync()
+   at Microsoft.AspNetCore.Authentication.AuthenticationHandler`1.AuthenticateAsync()
+   at Microsoft.AspNetCore.Authentication.AuthenticationService.AuthenticateAsync(HttpContext context, String scheme)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at QI.QR.ErrorHandling.ErrorHandlingMiddleware.InvokeAsync(HttpContext context, RequestDelegate next)
+2026-01-05 17:05:07.578 -06:00 [ERR] Error during request processing.
+ {"Method":"GET","Path":"/organization/2","QueryString":"","Headers":{"Accept":"application/json, text/plain, */*","Accept-Encoding":"gzip, deflate, br, zstd","Accept-Language":"en-US,en;q=0.9","Authorization":"Bearer 8507501d-f734-4489-9613-26d7ef4b381d","Connection":"keep-alive","Host":"localhost:61368","Referer":"http://localhost:61368/2025/abstraction/mrr","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36","sec-ch-ua-platform":"\\u0022Windows\\u0022","Timezone":"America/Chicago","sec-ch-ua":"\\u0022Google Chrome\\u0022;v=\\u0022143\\u0022, \\u0022Chromium\\u0022;v=\\u0022143\\u0022, \\u0022Not A(Brand\\u0022;v=\\u002224\\u0022","sec-ch-ua-mobile":"?0","Sec-Fetch-Site":"same-origin","Sec-Fetch-Mode":"cors","Sec-Fetch-Dest":"empty"},"ContentLength":null,"Body":null,"$type":"HttpLogInfo"}
+System.Net.Http.HttpRequestException: No such host is known. (w1d1-qrapp.mediconnect.net:443)
+ ---> System.Net.Sockets.SocketException (11001): No such host is known.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|285_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at QI.QR.Business.Services.UserService.ValidateToken(String token) in C:\Projects\QRI\QI.QR.Business\Services\UserService.cs:line 261
+   at QI.QR.AuthHandling.AuthenticationHandler.HandleAuthenticateAsync()
+   at Microsoft.AspNetCore.Authentication.AuthenticationHandler`1.AuthenticateAsync()
+   at Microsoft.AspNetCore.Authentication.AuthenticationService.AuthenticateAsync(HttpContext context, String scheme)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at QI.QR.ErrorHandling.ErrorHandlingMiddleware.InvokeAsync(HttpContext context, RequestDelegate next)
+2026-01-05 17:40:42.069 -06:00 [ERR] ΓêÜ Browser application bundle generation complete.
+
+2026-01-05 17:40:50.368 -06:00 [ERR] Error during request processing.
+ {"Method":"GET","Path":"/polyfills.js","QueryString":"","Headers":{"Accept":"*/*","Accept-Encoding":"gzip, deflate, br, zstd","Accept-Language":"en-US,en;q=0.9","Cache-Control":"no-cache","Connection":"keep-alive","Host":"localhost:61368","Pragma":"no-cache","Referer":"http://localhost:61368/2025/measures-dashboard","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36","Origin":"http://localhost:61368","sec-ch-ua-platform":"\\u0022Windows\\u0022","sec-ch-ua":"\\u0022Google Chrome\\u0022;v=\\u0022143\\u0022, \\u0022Chromium\\u0022;v=\\u0022143\\u0022, \\u0022Not A(Brand\\u0022;v=\\u002224\\u0022","sec-ch-ua-mobile":"?0","Sec-Fetch-Site":"same-origin","Sec-Fetch-Mode":"cors","Sec-Fetch-Dest":"script"},"ContentLength":null,"Body":null,"$type":"HttpLogInfo"}
+System.Net.Http.HttpRequestException: Failed to proxy the request to http://localhost:55464/polyfills.js, because the request to the proxy target failed. Check that the proxy target server is running and accepting requests to http://localhost:55464/.
+
+The underlying exception message was 'An error occurred while sending the request.'.Check the InnerException for more details.
+ ---> System.Net.Http.HttpRequestException: An error occurred while sending the request.
+ ---> System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host..
+ ---> System.Net.Sockets.SocketException (10054): An existing connection was forcibly closed by the remote host.
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at Microsoft.AspNetCore.SpaServices.Extensions.Proxy.SpaProxy.PerformProxyRequest(HttpContext context, HttpClient httpClient, Task`1 baseUriTask, CancellationToken applicationStoppingToken, Boolean proxy404s)
+   --- End of inner exception stack trace ---
+   at Microsoft.AspNetCore.SpaServices.Extensions.Proxy.SpaProxy.PerformProxyRequest(HttpContext context, HttpClient httpClient, Task`1 baseUriTask, CancellationToken applicationStoppingToken, Boolean proxy404s)
+   at Microsoft.AspNetCore.Builder.SpaProxyingExtensions.<>c__DisplayClass2_0.<<UseProxyToSpaDevelopmentServer>b__0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at QI.QR.ErrorHandling.ErrorHandlingMiddleware.InvokeAsync(HttpContext context, RequestDelegate next)
+2026-01-05 18:54:19.732 -06:00 [ERR] Error during request processing.
+ {"Method":"DELETE","Path":"/login/8507501d-f734-4489-9613-26d7ef4b381d","QueryString":"","Headers":{"Accept":"application/json, text/plain, */*","Accept-Encoding":"gzip, deflate, br, zstd","Accept-Language":"en-US,en;q=0.9","Authorization":"Bearer 8507501d-f734-4489-9613-26d7ef4b381d","Connection":"keep-alive","Host":"localhost:61368","Referer":"http://localhost:61368/2025/dashboard","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36","sec-ch-ua-platform":"\\u0022Windows\\u0022","Timezone":"America/Chicago","sec-ch-ua":"\\u0022Google Chrome\\u0022;v=\\u0022143\\u0022, \\u0022Chromium\\u0022;v=\\u0022143\\u0022, \\u0022Not A(Brand\\u0022;v=\\u002224\\u0022","sec-ch-ua-mobile":"?0","Origin":"http://localhost:61368","Sec-Fetch-Site":"same-origin","Sec-Fetch-Mode":"cors","Sec-Fetch-Dest":"empty"},"ContentLength":null,"Body":null,"$type":"HttpLogInfo"}
+System.Net.Http.HttpRequestException: No such host is known. (w1d1-qrapp.mediconnect.net:443)
+ ---> System.Net.Sockets.SocketException (11001): No such host is known.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|285_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at QI.QR.Business.Services.UserService.ValidateToken(String token) in C:\Projects\QRI\QI.QR.Business\Services\UserService.cs:line 261
+   at QI.QR.AuthHandling.AuthenticationHandler.HandleAuthenticateAsync()
+   at Microsoft.AspNetCore.Authentication.AuthenticationHandler`1.AuthenticateAsync()
+   at Microsoft.AspNetCore.Authentication.AuthenticationService.AuthenticateAsync(HttpContext context, String scheme)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at QI.QR.ErrorHandling.ErrorHandlingMiddleware.InvokeAsync(HttpContext context, RequestDelegate next)
+2026-01-05 19:00:29.764 -06:00 [ERR] ΓêÜ Browser application bundle generation complete.
+
+2026-01-05 19:12:40.674 -06:00 [ERR] ΓêÜ Browser application bundle generation complete.
+
+2026-01-05 19:12:51.154 -06:00 [ERR] Error during request processing.
+ {"Method":"GET","Path":"/runtime.js","QueryString":"","Headers":{"Accept":"*/*","Accept-Encoding":"gzip, deflate, br, zstd","Accept-Language":"en-US,en;q=0.9","Cache-Control":"no-cache","Connection":"keep-alive","Host":"localhost:61368","Pragma":"no-cache","Referer":"http://localhost:61368/2025/measures-dashboard","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36","Origin":"http://localhost:61368","sec-ch-ua-platform":"\\u0022Windows\\u0022","sec-ch-ua":"\\u0022Google Chrome\\u0022;v=\\u0022143\\u0022, \\u0022Chromium\\u0022;v=\\u0022143\\u0022, \\u0022Not A(Brand\\u0022;v=\\u002224\\u0022","sec-ch-ua-mobile":"?0","Sec-Fetch-Site":"same-origin","Sec-Fetch-Mode":"cors","Sec-Fetch-Dest":"script"},"ContentLength":null,"Body":null,"$type":"HttpLogInfo"}
+System.Net.Http.HttpRequestException: Failed to proxy the request to http://localhost:55464/runtime.js, because the request to the proxy target failed. Check that the proxy target server is running and accepting requests to http://localhost:55464/.
+
+The underlying exception message was 'An error occurred while sending the request.'.Check the InnerException for more details.
+ ---> System.Net.Http.HttpRequestException: An error occurred while sending the request.
+ ---> System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host..
+ ---> System.Net.Sockets.SocketException (10054): An existing connection was forcibly closed by the remote host.
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at Microsoft.AspNetCore.SpaServices.Extensions.Proxy.SpaProxy.PerformProxyRequest(HttpContext context, HttpClient httpClient, Task`1 baseUriTask, CancellationToken applicationStoppingToken, Boolean proxy404s)
+   --- End of inner exception stack trace ---
+   at Microsoft.AspNetCore.SpaServices.Extensions.Proxy.SpaProxy.PerformProxyRequest(HttpContext context, HttpClient httpClient, Task`1 baseUriTask, CancellationToken applicationStoppingToken, Boolean proxy404s)
+   at Microsoft.AspNetCore.Builder.SpaProxyingExtensions.<>c__DisplayClass2_0.<<UseProxyToSpaDevelopmentServer>b__0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at QI.QR.ErrorHandling.ErrorHandlingMiddleware.InvokeAsync(HttpContext context, RequestDelegate next)
+2026-01-05 19:12:56.156 -06:00 [ERR] ΓêÜ Browser application bundle generation complete.
+
+2026-01-05 19:13:04.382 -06:00 [ERR] Error during request processing.
+ {"Method":"GET","Path":"/styles.css.map","QueryString":"","Headers":{"Accept-Encoding":"gzip, deflate, br, zstd","Accept-Language":"en-US,en;q=0.9","Connection":"keep-alive","Host":"localhost:61368","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36","Sec-Fetch-Site":"same-origin","Sec-Fetch-Mode":"no-cors","Sec-Fetch-Dest":"empty"},"ContentLength":null,"Body":null,"$type":"HttpLogInfo"}
+System.Net.Http.HttpRequestException: Failed to proxy the request to http://localhost:55464/styles.css.map, because the request to the proxy target failed. Check that the proxy target server is running and accepting requests to http://localhost:55464/.
+
+The underlying exception message was 'An error occurred while sending the request.'.Check the InnerException for more details.
+ ---> System.Net.Http.HttpRequestException: An error occurred while sending the request.
+ ---> System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host..
+ ---> System.Net.Sockets.SocketException (10054): An existing connection was forcibly closed by the remote host.
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at Microsoft.AspNetCore.SpaServices.Extensions.Proxy.SpaProxy.PerformProxyRequest(HttpContext context, HttpClient httpClient, Task`1 baseUriTask, CancellationToken applicationStoppingToken, Boolean proxy404s)
+   --- End of inner exception stack trace ---
+   at Microsoft.AspNetCore.SpaServices.Extensions.Proxy.SpaProxy.PerformProxyRequest(HttpContext context, HttpClient httpClient, Task`1 baseUriTask, CancellationToken applicationStoppingToken, Boolean proxy404s)
+   at Microsoft.AspNetCore.Builder.SpaProxyingExtensions.<>c__DisplayClass2_0.<<UseProxyToSpaDevelopmentServer>b__0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at QI.QR.ErrorHandling.ErrorHandlingMiddleware.InvokeAsync(HttpContext context, RequestDelegate next)
+2026-01-05 19:13:04.382 -06:00 [ERR] Error during request processing.
+ {"Method":"GET","Path":"/polyfills.js.map","QueryString":"","Headers":{"Accept-Encoding":"gzip, deflate, br, zstd","Accept-Language":"en-US,en;q=0.9","Connection":"keep-alive","Host":"localhost:61368","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36","Sec-Fetch-Site":"same-origin","Sec-Fetch-Mode":"no-cors","Sec-Fetch-Dest":"empty"},"ContentLength":null,"Body":null,"$type":"HttpLogInfo"}
+System.Net.Http.HttpRequestException: Failed to proxy the request to http://localhost:55464/polyfills.js.map, because the request to the proxy target failed. Check that the proxy target server is running and accepting requests to http://localhost:55464/.
+
+The underlying exception message was 'An error occurred while sending the request.'.Check the InnerException for more details.
+ ---> System.Net.Http.HttpRequestException: An error occurred while sending the request.
+ ---> System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host..
+ ---> System.Net.Sockets.SocketException (10054): An existing connection was forcibly closed by the remote host.
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at Microsoft.AspNetCore.SpaServices.Extensions.Proxy.SpaProxy.PerformProxyRequest(HttpContext context, HttpClient httpClient, Task`1 baseUriTask, CancellationToken applicationStoppingToken, Boolean proxy404s)
+   --- End of inner exception stack trace ---
+   at Microsoft.AspNetCore.SpaServices.Extensions.Proxy.SpaProxy.PerformProxyRequest(HttpContext context, HttpClient httpClient, Task`1 baseUriTask, CancellationToken applicationStoppingToken, Boolean proxy404s)
+   at Microsoft.AspNetCore.Builder.SpaProxyingExtensions.<>c__DisplayClass2_0.<<UseProxyToSpaDevelopmentServer>b__0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at QI.QR.ErrorHandling.ErrorHandlingMiddleware.InvokeAsync(HttpContext context, RequestDelegate next)
+2026-01-05 19:13:04.431 -06:00 [ERR] Error during request processing.
+ {"Method":"GET","Path":"/styles.js.map","QueryString":"","Headers":{"Accept-Encoding":"gzip, deflate, br, zstd","Accept-Language":"en-US,en;q=0.9","Connection":"keep-alive","Host":"localhost:61368","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36","Sec-Fetch-Site":"same-origin","Sec-Fetch-Mode":"no-cors","Sec-Fetch-Dest":"empty"},"ContentLength":null,"Body":null,"$type":"HttpLogInfo"}
+System.Net.Http.HttpRequestException: Failed to proxy the request to http://localhost:55464/styles.js.map, because the request to the proxy target failed. Check that the proxy target server is running and accepting requests to http://localhost:55464/.
+
+The underlying exception message was 'An error occurred while sending the request.'.Check the InnerException for more details.
+ ---> System.Net.Http.HttpRequestException: An error occurred while sending the request.
+ ---> System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host..
+ ---> System.Net.Sockets.SocketException (10054): An existing connection was forcibly closed by the remote host.
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at Microsoft.AspNetCore.SpaServices.Extensions.Proxy.SpaProxy.PerformProxyRequest(HttpContext context, HttpClient httpClient, Task`1 baseUriTask, CancellationToken applicationStoppingToken, Boolean proxy404s)
+   --- End of inner exception stack trace ---
+   at Microsoft.AspNetCore.SpaServices.Extensions.Proxy.SpaProxy.PerformProxyRequest(HttpContext context, HttpClient httpClient, Task`1 baseUriTask, CancellationToken applicationStoppingToken, Boolean proxy404s)
+   at Microsoft.AspNetCore.Builder.SpaProxyingExtensions.<>c__DisplayClass2_0.<<UseProxyToSpaDevelopmentServer>b__0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at QI.QR.ErrorHandling.ErrorHandlingMiddleware.InvokeAsync(HttpContext context, RequestDelegate next)
+2026-01-05 19:13:04.467 -06:00 [ERR] Error during request processing.
+ {"Method":"GET","Path":"/scripts.js.map","QueryString":"","Headers":{"Accept-Encoding":"gzip, deflate, br, zstd","Accept-Language":"en-US,en;q=0.9","Connection":"keep-alive","Host":"localhost:61368","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36","Sec-Fetch-Site":"same-origin","Sec-Fetch-Mode":"no-cors","Sec-Fetch-Dest":"empty"},"ContentLength":null,"Body":null,"$type":"HttpLogInfo"}
+System.Net.Http.HttpRequestException: Failed to proxy the request to http://localhost:55464/scripts.js.map, because the request to the proxy target failed. Check that the proxy target server is running and accepting requests to http://localhost:55464/.
+
+The underlying exception message was 'An error occurred while sending the request.'.Check the InnerException for more details.
+ ---> System.Net.Http.HttpRequestException: An error occurred while sending the request.
+ ---> System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host..
+ ---> System.Net.Sockets.SocketException (10054): An existing connection was forcibly closed by the remote host.
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at Microsoft.AspNetCore.SpaServices.Extensions.Proxy.SpaProxy.PerformProxyRequest(HttpContext context, HttpClient httpClient, Task`1 baseUriTask, CancellationToken applicationStoppingToken, Boolean proxy404s)
+   --- End of inner exception stack trace ---
+   at Microsoft.AspNetCore.SpaServices.Extensions.Proxy.SpaProxy.PerformProxyRequest(HttpContext context, HttpClient httpClient, Task`1 baseUriTask, CancellationToken applicationStoppingToken, Boolean proxy404s)
+   at Microsoft.AspNetCore.Builder.SpaProxyingExtensions.<>c__DisplayClass2_0.<<UseProxyToSpaDevelopmentServer>b__0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at QI.QR.ErrorHandling.ErrorHandlingMiddleware.InvokeAsync(HttpContext context, RequestDelegate next)
+2026-01-05 19:21:37.522 -06:00 [ERR] ΓêÜ Browser application bundle generation complete.
+
+2026-01-05 19:25:28.067 -06:00 [ERR] ΓêÜ Browser application bundle generation complete.
+
+2026-01-05 19:25:28.085 -06:00 [ERR] 
+
+2026-01-05 19:25:28.087 -06:00 [ERR] ./src/app/measures-dashboard/measures-dashboard-grid/measures-dashboard-grid.component.ts - Error: Module build failed (from ./node_modules/@angular-devkit/build-angular/src/tools/babel/webpack-loader.js):
+
+2026-01-05 19:25:28.087 -06:00 [ERR] SyntaxError: C:\Projects\QRI\QI.QR\ClientApp\src\app\measures-dashboard\measures-dashboard-grid\measures-dashboard-grid.component.ts: Invalid shorthand property initializer. (119:49)
+
+2026-01-05 19:25:28.087 -06:00 [ERR]   117 |                 this.gridName = this.measuresDashboardStateService.getGridNameFromSession();
+
+2026-01-05 19:25:28.087 -06:00 [ERR]   118 |                 this.viewName = this.measuresDashboardStateService.getViewNameFromSession();
+
+2026-01-05 19:25:28.087 -06:00 [ERR] > 119 |                 gridConfig.viewName = { gridName = this.gridName, viewName = this.viewName };
+
+2026-01-05 19:25:28.087 -06:00 [ERR]       |                                                  ^
+
+2026-01-05 19:25:28.087 -06:00 [ERR]   120 |                 this.measuresDashboardStateService.saveMeasuresDashbordViewSettings(gridConfig);
+
+2026-01-05 19:25:28.087 -06:00 [ERR]   121 |                 this.measuresDashboardStateService.setFilterQuery(gridConfig?.gridView?.whereCondition);
+
+2026-01-05 19:25:28.087 -06:00 [ERR]   122 |                 this.measuresDashboardStateService.emitRowChange(this.selectedRow);
+
+2026-01-05 19:25:28.087 -06:00 [ERR] Error: src/app/measures-dashboard/measures-dashboard-grid/measures-dashboard-grid.component.ts:148:40 - error TS1312: Did you mean to use a ':'? An '=' can only follow a property name when the containing object literal is part of a destructuring pattern.
+
+2026-01-05 19:25:28.087 -06:00 [ERR] 148         gridConfig.viewName = {gridName=this.gridName, viewName=this.viewName};
+
+2026-01-05 19:25:28.087 -06:00 [ERR]                                            ~
+
+2026-01-05 19:25:28.087 -06:00 [ERR] Error: src/app/measures-dashboard/measures-dashboard-grid/measures-dashboard-grid.component.ts:148:64 - error TS1312: Did you mean to use a ':'? An '=' can only follow a property name when the containing object literal is part of a destructuring pattern.
+
+2026-01-05 19:25:28.087 -06:00 [ERR] 148         gridConfig.viewName = {gridName=this.gridName, viewName=this.viewName};
+
+2026-01-05 19:25:28.087 -06:00 [ERR]                                                                    ~
+
+2026-01-05 19:25:28.087 -06:00 [ERR] 
+
+2026-01-05 19:25:55.063 -06:00 [ERR] ΓêÜ Browser application bundle generation complete.
+
+2026-01-05 19:26:10.286 -06:00 [ERR] ΓêÜ Browser application bundle generation complete.
+
+2026-01-05 19:26:17.965 -06:00 [ERR] Error during request processing.
+ {"Method":"GET","Path":"/vendor.js.map","QueryString":"","Headers":{"Accept-Encoding":"gzip, deflate, br, zstd","Accept-Language":"en-US,en;q=0.9","Connection":"keep-alive","Host":"localhost:61368","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36","Sec-Fetch-Site":"same-origin","Sec-Fetch-Mode":"no-cors","Sec-Fetch-Dest":"empty"},"ContentLength":null,"Body":null,"$type":"HttpLogInfo"}
+System.Net.Http.HttpRequestException: Failed to proxy the request to http://localhost:55464/vendor.js.map, because the request to the proxy target failed. Check that the proxy target server is running and accepting requests to http://localhost:55464/.
+
+The underlying exception message was 'An error occurred while sending the request.'.Check the InnerException for more details.
+ ---> System.Net.Http.HttpRequestException: An error occurred while sending the request.
+ ---> System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host..
+ ---> System.Net.Sockets.SocketException (10054): An existing connection was forcibly closed by the remote host.
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at Microsoft.AspNetCore.SpaServices.Extensions.Proxy.SpaProxy.PerformProxyRequest(HttpContext context, HttpClient httpClient, Task`1 baseUriTask, CancellationToken applicationStoppingToken, Boolean proxy404s)
+   --- End of inner exception stack trace ---
+   at Microsoft.AspNetCore.SpaServices.Extensions.Proxy.SpaProxy.PerformProxyRequest(HttpContext context, HttpClient httpClient, Task`1 baseUriTask, CancellationToken applicationStoppingToken, Boolean proxy404s)
+   at Microsoft.AspNetCore.Builder.SpaProxyingExtensions.<>c__DisplayClass2_0.<<UseProxyToSpaDevelopmentServer>b__0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at QI.QR.ErrorHandling.ErrorHandlingMiddleware.InvokeAsync(HttpContext context, RequestDelegate next)
+2026-01-05 19:27:30.939 -06:00 [ERR] ΓêÜ Browser application bundle generation complete.
+
+2026-01-05 19:27:46.165 -06:00 [ERR] ΓêÜ Browser application bundle generation complete.
+
+2026-01-05 19:27:53.677 -06:00 [ERR] Error during request processing.
+ {"Method":"GET","Path":"/styles.css","QueryString":"","Headers":{"Accept":"text/css,*/*;q=0.1","Accept-Encoding":"gzip, deflate, br, zstd","Accept-Language":"en-US,en;q=0.9","Cache-Control":"no-cache","Connection":"keep-alive","Host":"localhost:61368","Pragma":"no-cache","Referer":"http://localhost:61368/2025/measures-dashboard","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36","sec-ch-ua-platform":"\\u0022Windows\\u0022","sec-ch-ua":"\\u0022Google Chrome\\u0022;v=\\u0022143\\u0022, \\u0022Chromium\\u0022;v=\\u0022143\\u0022, \\u0022Not A(Brand\\u0022;v=\\u002224\\u0022","sec-ch-ua-mobile":"?0","Sec-Fetch-Site":"same-origin","Sec-Fetch-Mode":"no-cors","Sec-Fetch-Dest":"style"},"ContentLength":null,"Body":null,"$type":"HttpLogInfo"}
+System.Net.Http.HttpRequestException: Failed to proxy the request to http://localhost:55464/styles.css, because the request to the proxy target failed. Check that the proxy target server is running and accepting requests to http://localhost:55464/.
+
+The underlying exception message was 'An error occurred while sending the request.'.Check the InnerException for more details.
+ ---> System.Net.Http.HttpRequestException: An error occurred while sending the request.
+ ---> System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host..
+ ---> System.Net.Sockets.SocketException (10054): An existing connection was forcibly closed by the remote host.
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at Microsoft.AspNetCore.SpaServices.Extensions.Proxy.SpaProxy.PerformProxyRequest(HttpContext context, HttpClient httpClient, Task`1 baseUriTask, CancellationToken applicationStoppingToken, Boolean proxy404s)
+   --- End of inner exception stack trace ---
+   at Microsoft.AspNetCore.SpaServices.Extensions.Proxy.SpaProxy.PerformProxyRequest(HttpContext context, HttpClient httpClient, Task`1 baseUriTask, CancellationToken applicationStoppingToken, Boolean proxy404s)
+   at Microsoft.AspNetCore.Builder.SpaProxyingExtensions.<>c__DisplayClass2_0.<<UseProxyToSpaDevelopmentServer>b__0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at QI.QR.ErrorHandling.ErrorHandlingMiddleware.InvokeAsync(HttpContext context, RequestDelegate next)
+2026-01-05 19:44:05.376 -06:00 [ERR] ΓêÜ Browser application bundle generation complete.
+
+2026-01-05 19:44:21.116 -06:00 [ERR] ΓêÜ Browser application bundle generation complete.
+
+2026-01-05 19:44:28.962 -06:00 [ERR] Error during request processing.
+ {"Method":"GET","Path":"/runtime.js.map","QueryString":"","Headers":{"Accept-Encoding":"gzip, deflate, br, zstd","Accept-Language":"en-US,en;q=0.9","Connection":"keep-alive","Host":"localhost:61368","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36","Sec-Fetch-Site":"same-origin","Sec-Fetch-Mode":"no-cors","Sec-Fetch-Dest":"empty"},"ContentLength":null,"Body":null,"$type":"HttpLogInfo"}
+System.Net.Http.HttpRequestException: Failed to proxy the request to http://localhost:55464/runtime.js.map, because the request to the proxy target failed. Check that the proxy target server is running and accepting requests to http://localhost:55464/.
+
+The underlying exception message was 'An error occurred while sending the request.'.Check the InnerException for more details.
+ ---> System.Net.Http.HttpRequestException: An error occurred while sending the request.
+ ---> System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host..
+ ---> System.Net.Sockets.SocketException (10054): An existing connection was forcibly closed by the remote host.
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at Microsoft.AspNetCore.SpaServices.Extensions.Proxy.SpaProxy.PerformProxyRequest(HttpContext context, HttpClient httpClient, Task`1 baseUriTask, CancellationToken applicationStoppingToken, Boolean proxy404s)
+   --- End of inner exception stack trace ---
+   at Microsoft.AspNetCore.SpaServices.Extensions.Proxy.SpaProxy.PerformProxyRequest(HttpContext context, HttpClient httpClient, Task`1 baseUriTask, CancellationToken applicationStoppingToken, Boolean proxy404s)
+   at Microsoft.AspNetCore.Builder.SpaProxyingExtensions.<>c__DisplayClass2_0.<<UseProxyToSpaDevelopmentServer>b__0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at QI.QR.ErrorHandling.ErrorHandlingMiddleware.InvokeAsync(HttpContext context, RequestDelegate next)
+2026-01-05 19:44:29.018 -06:00 [ERR] Error during request processing.
+ {"Method":"GET","Path":"/styles.css.map","QueryString":"","Headers":{"Accept-Encoding":"gzip, deflate, br, zstd","Accept-Language":"en-US,en;q=0.9","Connection":"keep-alive","Host":"localhost:61368","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36","Sec-Fetch-Site":"same-origin","Sec-Fetch-Mode":"no-cors","Sec-Fetch-Dest":"empty"},"ContentLength":null,"Body":null,"$type":"HttpLogInfo"}
+System.Net.Http.HttpRequestException: Failed to proxy the request to http://localhost:55464/styles.css.map, because the request to the proxy target failed. Check that the proxy target server is running and accepting requests to http://localhost:55464/.
+
+The underlying exception message was 'An error occurred while sending the request.'.Check the InnerException for more details.
+ ---> System.Net.Http.HttpRequestException: An error occurred while sending the request.
+ ---> System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host..
+ ---> System.Net.Sockets.SocketException (10054): An existing connection was forcibly closed by the remote host.
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at Microsoft.AspNetCore.SpaServices.Extensions.Proxy.SpaProxy.PerformProxyRequest(HttpContext context, HttpClient httpClient, Task`1 baseUriTask, CancellationToken applicationStoppingToken, Boolean proxy404s)
+   --- End of inner exception stack trace ---
+   at Microsoft.AspNetCore.SpaServices.Extensions.Proxy.SpaProxy.PerformProxyRequest(HttpContext context, HttpClient httpClient, Task`1 baseUriTask, CancellationToken applicationStoppingToken, Boolean proxy404s)
+   at Microsoft.AspNetCore.Builder.SpaProxyingExtensions.<>c__DisplayClass2_0.<<UseProxyToSpaDevelopmentServer>b__0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at QI.QR.ErrorHandling.ErrorHandlingMiddleware.InvokeAsync(HttpContext context, RequestDelegate next)
+2026-01-05 19:44:29.019 -06:00 [ERR] Error during request processing.
+ {"Method":"GET","Path":"/scripts.js","QueryString":"","Headers":{"Accept":"*/*","Accept-Encoding":"gzip, deflate, br, zstd","Accept-Language":"en-US,en;q=0.9","Cache-Control":"no-cache","Connection":"keep-alive","Host":"localhost:61368","Pragma":"no-cache","Referer":"http://localhost:61368/2025/measures-dashboard","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36","sec-ch-ua-platform":"\\u0022Windows\\u0022","sec-ch-ua":"\\u0022Google Chrome\\u0022;v=\\u0022143\\u0022, \\u0022Chromium\\u0022;v=\\u0022143\\u0022, \\u0022Not A(Brand\\u0022;v=\\u002224\\u0022","sec-ch-ua-mobile":"?0","Sec-Fetch-Site":"same-origin","Sec-Fetch-Mode":"no-cors","Sec-Fetch-Dest":"script"},"ContentLength":null,"Body":null,"$type":"HttpLogInfo"}
+System.Net.Http.HttpRequestException: Failed to proxy the request to http://localhost:55464/scripts.js, because the request to the proxy target failed. Check that the proxy target server is running and accepting requests to http://localhost:55464/.
+
+The underlying exception message was 'An error occurred while sending the request.'.Check the InnerException for more details.
+ ---> System.Net.Http.HttpRequestException: An error occurred while sending the request.
+ ---> System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host..
+ ---> System.Net.Sockets.SocketException (10054): An existing connection was forcibly closed by the remote host.
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at Microsoft.AspNetCore.SpaServices.Extensions.Proxy.SpaProxy.PerformProxyRequest(HttpContext context, HttpClient httpClient, Task`1 baseUriTask, CancellationToken applicationStoppingToken, Boolean proxy404s)
+   --- End of inner exception stack trace ---
+   at Microsoft.AspNetCore.SpaServices.Extensions.Proxy.SpaProxy.PerformProxyRequest(HttpContext context, HttpClient httpClient, Task`1 baseUriTask, CancellationToken applicationStoppingToken, Boolean proxy404s)
+   at Microsoft.AspNetCore.Builder.SpaProxyingExtensions.<>c__DisplayClass2_0.<<UseProxyToSpaDevelopmentServer>b__0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at QI.QR.ErrorHandling.ErrorHandlingMiddleware.InvokeAsync(HttpContext context, RequestDelegate next)
