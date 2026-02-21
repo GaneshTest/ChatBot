@@ -1,7 +1,8 @@
 license: apache-2.0
-title: Rag
+title: RAG
 sdk: streamlit
-emoji: 😻
+emoji: 📚
 colorFrom: green
 colorTo: green
-short_description: 'Simple Rag '
+short_description: Error analysis Rag Chatbot
+---
