@@ -1,0 +1,6 @@
+2025-02-07 15:07:54.284 -06:00 [ERR] Option "browserTarget" is deprecated: Use 'buildTarget' instead.
+
+2025-02-07 15:07:56.431 -06:00 [ERR] - Generating browser application bundles (phase: setup)...
+
+2025-02-07 15:08:19.053 -06:00 [ERR] ΓêÜ Browser application bundle generation complete.
+

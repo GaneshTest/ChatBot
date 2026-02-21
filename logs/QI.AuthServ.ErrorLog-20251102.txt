@@ -1,0 +1,46 @@
+2025-11-02 12:01:25.349 -06:00 [ERR] Error occurred while scheduling EH Job.
+Oracle.ManagedDataAccess.Client.OracleException (0x80004005): ORA-12545: Network Transport: Unable to resolve connect hostname
+ ---> OracleInternal.Network.NetworkException (0x80004005): ORA-12545: Network Transport: Unable to resolve connect hostname
+ ---> System.Net.Sockets.SocketException (0x00002AF9): No such host is known.
+   at System.Net.Dns.GetHostEntryOrAddressesCore(String hostName, Boolean justAddresses, AddressFamily addressFamily, Nullable`1 startingTimestamp)
+   at System.Net.Dns.GetHostAddresses(String hostNameOrAddress, AddressFamily family)
+   at OracleInternal.Network.TcpTransportAdapter.Connect(ConnectionOption conOption)
+   at OracleInternal.Network.OracleCommunication.DoConnect(String tnsDescriptor)
+   at OracleInternal.Network.OracleCommunication.Connect(String tnsDescriptor, Boolean doNAHandshake, String IName, ConnectionOption CO)
+   at OracleInternal.ServiceObjects.OracleConnectionImpl.Connect(ConnectionString cs, Boolean bOpenEndUserSession, OracleConnection connRefForCriteria, String instanceName)
+   at OracleInternal.ConnectionPool.PoolManager`3.Get(ConnectionString csWithDiffOrNewPwd, Boolean bGetForApp, OracleConnection connRefForCriteria, String affinityInstanceName, Boolean bForceMatch)
+   at OracleInternal.ConnectionPool.OraclePoolManager.Get(ConnectionString csWithNewPassword, Boolean bGetForApp, OracleConnection connRefForCriteria, String affinityInstanceName, Boolean bForceMatch)
+   at OracleInternal.ConnectionPool.OracleConnectionDispenser`3.Get(ConnectionString cs, PM conPM, ConnectionString pmCS, SecureString securedPassword, SecureString securedProxyPassword, OracleConnection connRefForCriteria)
+   at Oracle.ManagedDataAccess.Client.OracleConnection.Open()
+   at Dapper.SqlMapper.QueryRowImpl[T](IDbConnection cnn, Row row, CommandDefinition& command, Type effectiveType) in /_/Dapper/SqlMapper.cs:line 1276
+   at Dapper.SqlMapper.QuerySingleOrDefault[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Nullable`1 commandTimeout, Nullable`1 commandType) in /_/Dapper/SqlMapper.cs:line 899
+   at QI.QEL.Database.DapperManager.QuerySingleOrDefault[T](String sql, Object param, IDbTransaction transaction, Nullable`1 commandTimeout, Nullable`1 commandType)
+   at QI.AuthServ.DAL.Repos.JobRunHistoryRepo.GetLastInsertedData() in C:\Projects\QMCI\QI.AuthServ.DAL\Repos\JobRunHistoryRepo.cs:line 96
+   at QI.AuthServ.Business.Services.EngagementHub.EhJobSchedulerService.ShouldRunEhJobNow() in C:\Projects\QMCI\QI.AuthServ.Business\Services\EngagementHub\EhJobSchedulerService.cs:line 100
+   at QI.AuthServ.Business.Services.EngagementHub.EhJobSchedulerService.EhJobOnTime() in C:\Projects\QMCI\QI.AuthServ.Business\Services\EngagementHub\EhJobSchedulerService.cs:line 73
+   at QI.AuthServ.Business.Services.EngagementHub.EhJobSchedulerService.ScheduleEhJobAsync(CancellationToken cancellationToken) in C:\Projects\QMCI\QI.AuthServ.Business\Services\EngagementHub\EhJobSchedulerService.cs:line 60
+2025-11-02 12:01:25.381 -06:00 [ERR] Error while running critical section with semaphore at : 11/2/2025 12:01:25 PM, Process Name : iisexpress,  Process ID: 64736, Semaphore Name: Global\RCW_SCHEDULER_SEMAPHORE
+Oracle.ManagedDataAccess.Client.OracleException (0x80004005): ORA-12545: Network Transport: Unable to resolve connect hostname
+ ---> OracleInternal.Network.NetworkException (0x80004005): ORA-12545: Network Transport: Unable to resolve connect hostname
+ ---> System.Net.Sockets.SocketException (0x00002AF9): No such host is known.
+   at System.Net.Dns.GetHostEntryOrAddressesCore(String hostName, Boolean justAddresses, AddressFamily addressFamily, Nullable`1 startingTimestamp)
+   at System.Net.Dns.GetHostAddresses(String hostNameOrAddress, AddressFamily family)
+   at OracleInternal.Network.TcpTransportAdapter.Connect(ConnectionOption conOption)
+   at OracleInternal.Network.OracleCommunication.DoConnect(String tnsDescriptor)
+   at OracleInternal.Network.OracleCommunication.Connect(String tnsDescriptor, Boolean doNAHandshake, String IName, ConnectionOption CO)
+   at OracleInternal.ServiceObjects.OracleConnectionImpl.Connect(ConnectionString cs, Boolean bOpenEndUserSession, OracleConnection connRefForCriteria, String instanceName)
+   at OracleInternal.ConnectionPool.PoolManager`3.Get(ConnectionString csWithDiffOrNewPwd, Boolean bGetForApp, OracleConnection connRefForCriteria, String affinityInstanceName, Boolean bForceMatch)
+   at OracleInternal.ConnectionPool.OraclePoolManager.Get(ConnectionString csWithNewPassword, Boolean bGetForApp, OracleConnection connRefForCriteria, String affinityInstanceName, Boolean bForceMatch)
+   at OracleInternal.ConnectionPool.OracleConnectionDispenser`3.Get(ConnectionString cs, PM conPM, ConnectionString pmCS, SecureString securedPassword, SecureString securedProxyPassword, OracleConnection connRefForCriteria)
+   at Oracle.ManagedDataAccess.Client.OracleConnection.Open()
+   at Dapper.SqlMapper.QueryImpl[T](IDbConnection cnn, CommandDefinition command, Type effectiveType)+MoveNext() in /_/Dapper/SqlMapper.cs:line 1183
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in /_/Dapper/SqlMapper.cs:line 815
+   at QI.QEL.Database.DapperManager.Query[T](String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType)
+   at QI.AuthServ.DAL.Repos.ApplicationConfigurationRepo.GetConfigValues(List`1 pathKey) in C:\Projects\QMCI\QI.AuthServ.DAL\Repos\ApplicationConfigurationRepo.cs:line 79
+   at QI.AuthServ.Business.Services.ApplicationConfigurationService.GetConfigKey(List`1 pathKey) in C:\Projects\QMCI\QI.AuthServ.Business\Services\ApplicationConfigurationService.cs:line 81
+   at QI.AuthServ.Business.Services.StarIntelligence.RateCalculationSchedulerService.IsScheduledExecutionTime() in C:\Projects\QMCI\QI.AuthServ.Business\Services\StarIntelligence\RateCalculationSchedulerService.cs:line 89
+   at QI.AuthServ.Business.Services.StarIntelligence.RateCalculationSchedulerService.RunRateCalculationOnTime() in C:\Projects\QMCI\QI.AuthServ.Business\Services\StarIntelligence\RateCalculationSchedulerService.cs:line 77
+   at QI.AuthServ.Business.Services.StarIntelligence.RateCalculationSchedulerService.<ScheduleRateCalculation>b__11_0() in C:\Projects\QMCI\QI.AuthServ.Business\Services\StarIntelligence\RateCalculationSchedulerService.cs:line 61
+   at QI.AuthServ.Business.Services.GlobalSemaphoreService.RunWithLockAsync(String semaphoreName, Func`1 criticalSection, Nullable`1 waitTime) in C:\Projects\QMCI\QI.AuthServ.Business\Services\GlobalSemaphoreService.cs:line 54

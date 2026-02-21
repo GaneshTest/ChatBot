@@ -1,0 +1,222 @@
+2025-11-10 10:21:00.381 -06:00 [ERR] Option "browserTarget" is deprecated: Use 'buildTarget' instead.
+
+2025-11-10 10:21:02.374 -06:00 [ERR] - Generating browser application bundles (phase: setup)...
+
+2025-11-10 10:21:22.909 -06:00 [ERR] ΓêÜ Browser application bundle generation complete.
+
+2025-11-10 11:15:48.712 -06:00 [ERR] Error during request processing.
+ {"Method":"GET","Path":"/ng-cli-ws","QueryString":"","Headers":{"Accept-Encoding":"gzip, deflate, br, zstd","Accept-Language":"en-US,en;q=0.9","Cache-Control":"no-cache","Connection":"Upgrade","Host":"localhost:58550","Pragma":"no-cache","Upgrade":"websocket","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36","Origin":"http://localhost:58550","Sec-WebSocket-Version":"13","Sec-WebSocket-Key":"Le\\u002B0hoa1uFST7up\\u002BuhxuUw==","Sec-WebSocket-Extensions":"permessage-deflate; client_max_window_bits"},"ContentLength":null,"Body":null,"$type":"HttpLogInfo"}
+System.AggregateException: One or more errors occurred. (The remote party closed the WebSocket connection without completing the close handshake.)
+ ---> System.Net.WebSockets.WebSocketException (0x80004005): The remote party closed the WebSocket connection without completing the close handshake.
+ ---> System.IO.IOException: Unable to read data from the transport connection: An established connection was aborted by the software in your host machine..
+ ---> System.Net.Sockets.SocketException (10053): An established connection was aborted by the software in your host machine.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.CreateException(SocketError error, Boolean forAsyncThrow)
+   at System.Net.Sockets.NetworkStream.ReadAsync(Memory`1 buffer, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnection.ReadBufferedAsyncCore(Memory`1 destination)
+   at System.Runtime.CompilerServices.AsyncMethodBuilderCore.Start[TStateMachine](TStateMachine& stateMachine)
+   at System.Net.Http.HttpConnection.RawConnectionStream.ReadAsync(Memory`1 buffer, CancellationToken cancellationToken)
+   at System.Runtime.CompilerServices.AsyncMethodBuilderCore.Start[TStateMachine](TStateMachine& stateMachine)
+   at System.IO.Stream.ReadAtLeastAsyncCore(Memory`1 buffer, Int32 minimumBytes, Boolean throwOnEndOfStream, CancellationToken cancellationToken)
+   at System.Runtime.CompilerServices.AsyncMethodBuilderCore.Start[TStateMachine](TStateMachine& stateMachine)
+   at System.Net.WebSockets.ManagedWebSocket.EnsureBufferContainsAsync(Int32 minimumRequiredBytes, CancellationToken cancellationToken)
+   at System.Runtime.CompilerServices.AsyncMethodBuilderCore.Start[TStateMachine](TStateMachine& stateMachine)
+   at System.Net.WebSockets.ManagedWebSocket.ReceiveAsyncPrivate[TResult](Memory`1 payloadBuffer, CancellationToken cancellationToken)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Net.WebSockets.ManagedWebSocket.EnsureBufferContainsAsync(Int32 minimumRequiredBytes, CancellationToken cancellationToken)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.IO.Stream.ReadAtLeastAsyncCore(Memory`1 buffer, Int32 minimumBytes, Boolean throwOnEndOfStream, CancellationToken cancellationToken)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Net.Http.HttpConnection.RawConnectionStream.ReadAsync(Memory`1 buffer, CancellationToken cancellationToken)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Net.Http.HttpConnection.ReadBufferedAsyncCore(Memory`1 destination)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Net.Sockets.SocketAsyncEventArgs.<>c.<.cctor>b__173_0(UInt32 errorCode, UInt32 numBytes, NativeOverlapped* nativeOverlapped)
+   at System.Threading.ThreadPoolTypedWorkItemQueue`2.System.Threading.IThreadPoolWorkItem.Execute()
+   at System.Threading.ThreadPoolWorkQueue.Dispatch()
+   at System.Threading.PortableThreadPool.WorkerThread.WorkerThreadStart()
+--- End of stack trace from previous location ---
+
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.ReadBufferedAsyncCore(Memory`1 destination)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at System.Net.Http.HttpConnection.RawConnectionStream.ReadAsync(Memory`1 buffer, CancellationToken cancellationToken)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at System.IO.Stream.ReadAtLeastAsyncCore(Memory`1 buffer, Int32 minimumBytes, Boolean throwOnEndOfStream, CancellationToken cancellationToken)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at System.Net.WebSockets.ManagedWebSocket.EnsureBufferContainsAsync(Int32 minimumRequiredBytes, CancellationToken cancellationToken)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.WebSockets.ManagedWebSocket.ReceiveAsyncPrivate[TResult](Memory`1 payloadBuffer, CancellationToken cancellationToken)
+   at System.Net.WebSockets.ManagedWebSocket.ReceiveAsyncPrivate[TResult](Memory`1 payloadBuffer, CancellationToken cancellationToken)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at System.Threading.Tasks.ValueTask`1.ValueTaskSourceAsTask.<>c.<.cctor>b__4_0(Object state)
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   at Microsoft.AspNetCore.SpaServices.Extensions.Proxy.SpaProxy.PumpWebSocket(WebSocket source, WebSocket destination, Int32 bufferSize, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.SpaServices.Extensions.Proxy.SpaProxy.AcceptProxyWebSocketRequest(HttpContext context, Uri destinationUri, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.SpaServices.Extensions.Proxy.SpaProxy.PerformProxyRequest(HttpContext context, HttpClient httpClient, Task`1 baseUriTask, CancellationToken applicationStoppingToken, Boolean proxy404s)
+   at Microsoft.AspNetCore.Builder.SpaProxyingExtensions.<>c__DisplayClass2_0.<<UseProxyToSpaDevelopmentServer>b__0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at QI.AuthServ.ErrorHandling.ErrorHandlingMiddleware.InvokeAsync(HttpContext context, RequestDelegate next) in C:\Projects\QMCI\QI.AuthServ\ErrorHandling\ErrorHandlingMiddleware.cs:line 36
+2025-11-10 11:15:54.574 -06:00 [ERR] Connection ID "18230571309580943361", Request ID "40000002-0004-fd00-b63f-84710c7967bb": An unhandled exception was thrown by the application.
+System.InvalidOperationException: The response headers cannot be modified because the response has already started.
+   at Microsoft.AspNetCore.HttpSys.Internal.HeaderCollection.ThrowIfReadOnly()
+   at Microsoft.AspNetCore.HttpSys.Internal.HeaderCollection.set_Item(String key, StringValues value)
+   at Microsoft.AspNetCore.Http.DefaultHttpResponse.set_ContentType(String value)
+   at QI.AuthServ.ErrorHandling.ErrorHandlingMiddleware.InvokeAsync(HttpContext context, RequestDelegate next) in C:\Projects\QMCI\QI.AuthServ\ErrorHandling\ErrorHandlingMiddleware.cs:line 42
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.InterfaceMiddlewareBinder.<>c__DisplayClass2_0.<<CreateMiddleware>b__0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at QI.AuthServ.Startup.<>c.<<Configure>b__5_0>d.MoveNext() in C:\Projects\QMCI\QI.AuthServ\Startup.cs:line 112
+--- End of stack trace from previous location ---
+   at Microsoft.WebTools.BrowserLink.Net.BrowserLinkMiddleware.InvokeAsync(HttpContext context)
+   at Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware.InvokeAsync(HttpContext context)
+   at Microsoft.AspNetCore.Server.IIS.Core.IISHttpContextOfT`1.ProcessRequestAsync()
+2025-11-10 15:59:37.227 -06:00 [ERR] Option "browserTarget" is deprecated: Use 'buildTarget' instead.
+
+2025-11-10 15:59:38.954 -06:00 [ERR] - Generating browser application bundles (phase: setup)...
+
+2025-11-10 15:59:58.665 -06:00 [ERR] ΓêÜ Browser application bundle generation complete.
+
+2025-11-10 16:00:00.214 -06:00 [ERR] ΓêÜ Browser application bundle generation complete.
+
+2025-11-10 16:10:39.448 -06:00 [ERR] Error during request processing.
+ {"Method":"POST","Path":"/reports/PLD","QueryString":"","Headers":{"Accept":"application/json, text/json, text/x-json, text/javascript, application/xml, text/xml","Accept-Encoding":"gzip, deflate, br","Authorization":"Bearer 77767d5b-0d85-4de9-9e6a-7adf466fd0f1","Content-Length":"403","Content-Type":"application/json; charset=utf-8","Host":"localhost:58550","User-Agent":"RestSharp/112.1.0.0","traceparent":"00-c9361aeb3653057422f848532fa57ccc-9f1002d1e82d11bf-00"},"ContentLength":403,"Body":"[{\\u0022Id\\u0022:0,\\u0022Name\\u0022:\\u0022Georgia TANF Extract_93\\u0022,\\u0022DefaultReportId\\u0022:0,\\u0022DefaultReportType\\u0022:null,\\u0022DefaultReportName\\u0022:null,\\u0022PreFilterJson\\u0022:null,\\u0022ReportType\\u0022:\\u0022Georgia TANF Extract\\u0022,\\u0022MeasurementYear\\u0022:0,\\u0022AdvancedFilterJson\\u0022:null,\\u0022OrgId\\u0022:0,\\u0022UserId\\u0022:null,\\u0022IsDeletable\\u0022:0,\\u0022CUSTOM_FIELD1\\u0022:\\u002293\\u0022,\\u0022FormattedCsvData\\u0022:null,\\u0022ClassType\\u0022:null,\\u0022selectedRunDate\\u0022:null,\\u0022isMultipleRunDateHediMeasureSummaryTab\\u0022:false,\\u0022GroupId\\u0022:null}]","$type":"HttpLogInfo"}
+System.InvalidOperationException: Sequence contains more than one element
+   at System.Linq.ThrowHelper.ThrowMoreThanOneElementException()
+   at System.Linq.Enumerable.TryGetSingle[TSource](IEnumerable`1 source, Boolean& found)
+   at System.Linq.Enumerable.SingleOrDefault[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.ThrowMultipleRows(Row row) in /_/Dapper/SqlMapper.cs:line 1247
+   at Dapper.SqlMapper.QueryRowImpl[T](IDbConnection cnn, Row row, CommandDefinition& command, Type effectiveType) in /_/Dapper/SqlMapper.cs:line 1290
+   at Dapper.SqlMapper.QuerySingleOrDefault[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Nullable`1 commandTimeout, Nullable`1 commandType) in /_/Dapper/SqlMapper.cs:line 899
+   at QI.QEL.Database.DapperManager.QuerySingleOrDefault[T](IDbConnection dbConnection, String sql, Object param, IDbTransaction transaction, Nullable`1 commandTimeout, Nullable`1 commandType)
+   at QI.AuthServ.DAL.Repos.ReportGenerateRepo.Create(REPORTGENERATION reportGeneration) in C:\Projects\QMCI\QI.AuthServ.DAL\Repos\ReportGenerateRepo.cs:line 57
+   at QI.AuthServ.Business.Services.SubmissionService.<>c__DisplayClass6_0.<CreateOrUpdateSubmission>b__3(ReportDetailsModel x) in C:\Projects\QMCI\QI.AuthServ.Business\Services\SubmissionService.cs:line 215
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at QI.AuthServ.Business.Services.SubmissionService.CreateOrUpdateSubmission(List`1 reportModel) in C:\Projects\QMCI\QI.AuthServ.Business\Services\SubmissionService.cs:line 201
+   at QI.AuthServ.Controllers.ReportsController.CreateOrUpdateSubmission(List`1 reportModel) in C:\Projects\QMCI\QI.AuthServ\Controllers\ReportsController.cs:line 172
+   at lambda_method424(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at QI.AuthServ.ErrorHandling.ErrorHandlingMiddleware.InvokeAsync(HttpContext context, RequestDelegate next) in C:\Projects\QMCI\QI.AuthServ\ErrorHandling\ErrorHandlingMiddleware.cs:line 36
+2025-11-10 16:14:08.935 -06:00 [ERR] Error during request processing.
+ {"Method":"POST","Path":"/reports/PLD","QueryString":"","Headers":{"Accept":"application/json, text/json, text/x-json, text/javascript, application/xml, text/xml","Accept-Encoding":"gzip, deflate, br","Authorization":"Bearer 77767d5b-0d85-4de9-9e6a-7adf466fd0f1","Content-Length":"403","Content-Type":"application/json; charset=utf-8","Host":"localhost:58550","User-Agent":"RestSharp/112.1.0.0","traceparent":"00-54270c8f1cfaccbb563b9437cc8b600e-29a7a7bd9292b87b-00"},"ContentLength":403,"Body":"[{\\u0022Id\\u0022:0,\\u0022Name\\u0022:\\u0022Georgia GF360 Extract_3\\u0022,\\u0022DefaultReportId\\u0022:0,\\u0022DefaultReportType\\u0022:null,\\u0022DefaultReportName\\u0022:null,\\u0022PreFilterJson\\u0022:null,\\u0022ReportType\\u0022:\\u0022Georgia GF360 Extract\\u0022,\\u0022MeasurementYear\\u0022:0,\\u0022AdvancedFilterJson\\u0022:null,\\u0022OrgId\\u0022:0,\\u0022UserId\\u0022:null,\\u0022IsDeletable\\u0022:0,\\u0022CUSTOM_FIELD1\\u0022:\\u00223\\u0022,\\u0022FormattedCsvData\\u0022:null,\\u0022ClassType\\u0022:null,\\u0022selectedRunDate\\u0022:null,\\u0022isMultipleRunDateHediMeasureSummaryTab\\u0022:false,\\u0022GroupId\\u0022:null}]","$type":"HttpLogInfo"}
+System.InvalidOperationException: Sequence contains more than one element
+   at System.Linq.ThrowHelper.ThrowMoreThanOneElementException()
+   at System.Linq.Enumerable.TryGetSingle[TSource](IEnumerable`1 source, Boolean& found)
+   at System.Linq.Enumerable.SingleOrDefault[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.ThrowMultipleRows(Row row) in /_/Dapper/SqlMapper.cs:line 1247
+   at Dapper.SqlMapper.QueryRowImpl[T](IDbConnection cnn, Row row, CommandDefinition& command, Type effectiveType) in /_/Dapper/SqlMapper.cs:line 1290
+   at Dapper.SqlMapper.QuerySingleOrDefault[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Nullable`1 commandTimeout, Nullable`1 commandType) in /_/Dapper/SqlMapper.cs:line 899
+   at QI.QEL.Database.DapperManager.QuerySingleOrDefault[T](IDbConnection dbConnection, String sql, Object param, IDbTransaction transaction, Nullable`1 commandTimeout, Nullable`1 commandType)
+   at QI.AuthServ.DAL.Repos.ReportGenerateRepo.Create(REPORTGENERATION reportGeneration) in C:\Projects\QMCI\QI.AuthServ.DAL\Repos\ReportGenerateRepo.cs:line 57
+   at QI.AuthServ.Business.Services.SubmissionService.<>c__DisplayClass6_0.<CreateOrUpdateSubmission>b__3(ReportDetailsModel x) in C:\Projects\QMCI\QI.AuthServ.Business\Services\SubmissionService.cs:line 215
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at QI.AuthServ.Business.Services.SubmissionService.CreateOrUpdateSubmission(List`1 reportModel) in C:\Projects\QMCI\QI.AuthServ.Business\Services\SubmissionService.cs:line 201
+   at QI.AuthServ.Controllers.ReportsController.CreateOrUpdateSubmission(List`1 reportModel) in C:\Projects\QMCI\QI.AuthServ\Controllers\ReportsController.cs:line 172
+   at lambda_method424(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at QI.AuthServ.ErrorHandling.ErrorHandlingMiddleware.InvokeAsync(HttpContext context, RequestDelegate next) in C:\Projects\QMCI\QI.AuthServ\ErrorHandling\ErrorHandlingMiddleware.cs:line 36
+2025-11-10 16:16:02.986 -06:00 [ERR] Error during request processing.
+ {"Method":"POST","Path":"/reports/PLD","QueryString":"","Headers":{"Accept":"application/json, text/json, text/x-json, text/javascript, application/xml, text/xml","Accept-Encoding":"gzip, deflate, br","Authorization":"Bearer 77767d5b-0d85-4de9-9e6a-7adf466fd0f1","Content-Length":"405","Content-Type":"application/json; charset=utf-8","Host":"localhost:58550","User-Agent":"RestSharp/112.1.0.0","traceparent":"00-650fe049e740ac1c0d573d235d2be467-0bc6d2680a90280d-00"},"ContentLength":405,"Body":"[{\\u0022Id\\u0022:0,\\u0022Name\\u0022:\\u0022Georgia GF360 Extract_10\\u0022,\\u0022DefaultReportId\\u0022:0,\\u0022DefaultReportType\\u0022:null,\\u0022DefaultReportName\\u0022:null,\\u0022PreFilterJson\\u0022:null,\\u0022ReportType\\u0022:\\u0022Georgia GF360 Extract\\u0022,\\u0022MeasurementYear\\u0022:0,\\u0022AdvancedFilterJson\\u0022:null,\\u0022OrgId\\u0022:0,\\u0022UserId\\u0022:null,\\u0022IsDeletable\\u0022:0,\\u0022CUSTOM_FIELD1\\u0022:\\u002210\\u0022,\\u0022FormattedCsvData\\u0022:null,\\u0022ClassType\\u0022:null,\\u0022selectedRunDate\\u0022:null,\\u0022isMultipleRunDateHediMeasureSummaryTab\\u0022:false,\\u0022GroupId\\u0022:null}]","$type":"HttpLogInfo"}
+System.InvalidOperationException: Sequence contains more than one element
+   at System.Linq.ThrowHelper.ThrowMoreThanOneElementException()
+   at System.Linq.Enumerable.TryGetSingle[TSource](IEnumerable`1 source, Boolean& found)
+   at System.Linq.Enumerable.SingleOrDefault[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.ThrowMultipleRows(Row row) in /_/Dapper/SqlMapper.cs:line 1247
+   at Dapper.SqlMapper.QueryRowImpl[T](IDbConnection cnn, Row row, CommandDefinition& command, Type effectiveType) in /_/Dapper/SqlMapper.cs:line 1290
+   at Dapper.SqlMapper.QuerySingleOrDefault[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Nullable`1 commandTimeout, Nullable`1 commandType) in /_/Dapper/SqlMapper.cs:line 899
+   at QI.QEL.Database.DapperManager.QuerySingleOrDefault[T](IDbConnection dbConnection, String sql, Object param, IDbTransaction transaction, Nullable`1 commandTimeout, Nullable`1 commandType)
+   at QI.AuthServ.DAL.Repos.ReportGenerateRepo.Create(REPORTGENERATION reportGeneration) in C:\Projects\QMCI\QI.AuthServ.DAL\Repos\ReportGenerateRepo.cs:line 57
+   at QI.AuthServ.Business.Services.SubmissionService.<>c__DisplayClass6_0.<CreateOrUpdateSubmission>b__3(ReportDetailsModel x) in C:\Projects\QMCI\QI.AuthServ.Business\Services\SubmissionService.cs:line 215
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at QI.AuthServ.Business.Services.SubmissionService.CreateOrUpdateSubmission(List`1 reportModel) in C:\Projects\QMCI\QI.AuthServ.Business\Services\SubmissionService.cs:line 201
+   at QI.AuthServ.Controllers.ReportsController.CreateOrUpdateSubmission(List`1 reportModel) in C:\Projects\QMCI\QI.AuthServ\Controllers\ReportsController.cs:line 172
+   at lambda_method424(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at QI.AuthServ.ErrorHandling.ErrorHandlingMiddleware.InvokeAsync(HttpContext context, RequestDelegate next) in C:\Projects\QMCI\QI.AuthServ\ErrorHandling\ErrorHandlingMiddleware.cs:line 36
+2025-11-10 16:26:52.902 -06:00 [ERR] Error during request processing.
+ {"Method":"POST","Path":"/reports/PLD","QueryString":"","Headers":{"Accept":"application/json, text/json, text/x-json, text/javascript, application/xml, text/xml","Accept-Encoding":"gzip, deflate, br","Authorization":"Bearer 77767d5b-0d85-4de9-9e6a-7adf466fd0f1","Content-Length":"795","Content-Type":"application/json; charset=utf-8","Host":"localhost:58550","User-Agent":"RestSharp/112.1.0.0","traceparent":"00-952e74f1dbe0fb87721db0f28f63f9bb-a33cf0cfa68126c1-00"},"ContentLength":795,"Body":"[{\\u0022Id\\u0022:0,\\u0022Name\\u0022:\\u0022Georgia GF Extract_3\\u0022,\\u0022DefaultReportId\\u0022:0,\\u0022DefaultReportType\\u0022:null,\\u0022DefaultReportName\\u0022:null,\\u0022PreFilterJson\\u0022:null,\\u0022ReportType\\u0022:\\u0022Georgia GF Extract\\u0022,\\u0022MeasurementYear\\u0022:0,\\u0022AdvancedFilterJson\\u0022:null,\\u0022OrgId\\u0022:0,\\u0022UserId\\u0022:null,\\u0022IsDeletable\\u0022:0,\\u0022CUSTOM_FIELD1\\u0022:\\u00223\\u0022,\\u0022FormattedCsvData\\u0022:null,\\u0022ClassType\\u0022:null,\\u0022selectedRunDate\\u0022:null,\\u0022isMultipleRunDateHediMeasureSummaryTab\\u0022:false,\\u0022GroupId\\u0022:null},{\\u0022Id\\u0022:0,\\u0022Name\\u0022:\\u0022Georgia GF Extract_10\\u0022,\\u0022DefaultReportId\\u0022:0,\\u0022DefaultReportType\\u0022:null,\\u0022DefaultReportName\\u0022:null,\\u0022PreFilterJson\\u0022:null,\\u0022ReportType\\u0022:\\u0022Georgia GF Extract\\u0022,\\u0022MeasurementYear\\u0022:0,\\u0022AdvancedFilterJson\\u0022:null,\\u0022OrgId\\u0022:0,\\u0022UserId\\u0022:null,\\u0022IsDeletable\\u0022:0,\\u0022CUSTOM_FIELD1\\u0022:\\u002210\\u0022,\\u0022FormattedCsvData\\u0022:null,\\u0022ClassType\\u0022:null,\\u0022selectedRunDate\\u0022:null,\\u0022isMultipleRunDateHediMeasureSummaryTab\\u0022:false,\\u0022GroupId\\u0022:null}]","$type":"HttpLogInfo"}
+System.InvalidOperationException: Sequence contains more than one element
+   at System.Linq.ThrowHelper.ThrowMoreThanOneElementException()
+   at System.Linq.Enumerable.TryGetSingle[TSource](IEnumerable`1 source, Boolean& found)
+   at System.Linq.Enumerable.SingleOrDefault[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.ThrowMultipleRows(Row row) in /_/Dapper/SqlMapper.cs:line 1247
+   at Dapper.SqlMapper.QueryRowImpl[T](IDbConnection cnn, Row row, CommandDefinition& command, Type effectiveType) in /_/Dapper/SqlMapper.cs:line 1290
+   at Dapper.SqlMapper.QuerySingleOrDefault[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Nullable`1 commandTimeout, Nullable`1 commandType) in /_/Dapper/SqlMapper.cs:line 899
+   at QI.QEL.Database.DapperManager.QuerySingleOrDefault[T](IDbConnection dbConnection, String sql, Object param, IDbTransaction transaction, Nullable`1 commandTimeout, Nullable`1 commandType)
+   at QI.AuthServ.DAL.Repos.ReportGenerateRepo.Create(REPORTGENERATION reportGeneration) in C:\Projects\QMCI\QI.AuthServ.DAL\Repos\ReportGenerateRepo.cs:line 57
+   at QI.AuthServ.Business.Services.SubmissionService.<>c__DisplayClass6_0.<CreateOrUpdateSubmission>b__3(ReportDetailsModel x) in C:\Projects\QMCI\QI.AuthServ.Business\Services\SubmissionService.cs:line 215
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at QI.AuthServ.Business.Services.SubmissionService.CreateOrUpdateSubmission(List`1 reportModel) in C:\Projects\QMCI\QI.AuthServ.Business\Services\SubmissionService.cs:line 201
+   at QI.AuthServ.Controllers.ReportsController.CreateOrUpdateSubmission(List`1 reportModel) in C:\Projects\QMCI\QI.AuthServ\Controllers\ReportsController.cs:line 172
+   at lambda_method424(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at QI.AuthServ.ErrorHandling.ErrorHandlingMiddleware.InvokeAsync(HttpContext context, RequestDelegate next) in C:\Projects\QMCI\QI.AuthServ\ErrorHandling\ErrorHandlingMiddleware.cs:line 36

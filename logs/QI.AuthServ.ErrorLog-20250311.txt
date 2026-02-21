@@ -1,0 +1,14 @@
+2025-03-11 16:18:45.476 -05:00 [ERR] Error during request processing.
+ {"Method":"GET","Path":"/","QueryString":"","Headers":{"Accept":"text/html,application/xhtml\\u002Bxml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7","Accept-Encoding":"gzip, deflate, br, zstd","Accept-Language":"en-US,en;q=0.9","Connection":"keep-alive","Host":"localhost:58550","If-None-Match":"W/\\u002225d-oNhs59yzqEJv1M/gLNrvD8AgPxQ\\u0022","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36","sec-ch-ua":"\\u0022Chromium\\u0022;v=\\u0022134\\u0022, \\u0022Not:A-Brand\\u0022;v=\\u002224\\u0022, \\u0022Google Chrome\\u0022;v=\\u0022134\\u0022","sec-ch-ua-mobile":"?0","sec-ch-ua-platform":"\\u0022Windows\\u0022","Upgrade-Insecure-Requests":"1","Sec-Fetch-Site":"none","Sec-Fetch-Mode":"navigate","Sec-Fetch-User":"?1","Sec-Fetch-Dest":"document"},"ContentLength":null,"Body":null,"$type":"HttpLogInfo"}
+System.InvalidOperationException: Unable to resolve service for type 'Swashbuckle.AspNetCore.Swagger.ISwaggerProvider' while attempting to Invoke middleware 'Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware'.
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.GetService(IServiceProvider sp, Type type, Type middleware)
+   at lambda_method15(Closure, Object, HttpContext, IServiceProvider)
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at QI.AuthServ.ErrorHandling.ErrorHandlingMiddleware.InvokeAsync(HttpContext context, RequestDelegate next) in C:\Projects\QMCI\QI.AuthServ\ErrorHandling\ErrorHandlingMiddleware.cs:line 36
+2025-03-11 16:18:46.602 -05:00 [ERR] Option "browserTarget" is deprecated: Use 'buildTarget' instead.
+
+2025-03-11 16:18:48.289 -05:00 [ERR] - Generating browser application bundles (phase: setup)...
+
+2025-03-11 16:19:00.494 -05:00 [ERR] ΓêÜ Browser application bundle generation complete.
+

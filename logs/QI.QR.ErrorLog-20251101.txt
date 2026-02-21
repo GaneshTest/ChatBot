@@ -1,0 +1,58 @@
+2025-11-01 04:28:54.008 -05:00 [ERR] Error during request processing.
+ {"Method":"GET","Path":"/organization/2","QueryString":"","Headers":{"Accept":"application/json, text/plain, */*","Accept-Encoding":"gzip, deflate, br, zstd","Accept-Language":"en-US,en;q=0.9","Authorization":"Bearer 5913846f-c3a0-4b1e-8517-76a1e7601c3f","Connection":"keep-alive","Host":"localhost:61368","Referer":"http://localhost:61368/2025/abstraction/overreads-qa","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36","sec-ch-ua-platform":"\\u0022Windows\\u0022","Timezone":"America/Chicago","sec-ch-ua":"\\u0022Google Chrome\\u0022;v=\\u0022141\\u0022, \\u0022Not?A_Brand\\u0022;v=\\u00228\\u0022, \\u0022Chromium\\u0022;v=\\u0022141\\u0022","sec-ch-ua-mobile":"?0","Sec-Fetch-Site":"same-origin","Sec-Fetch-Mode":"cors","Sec-Fetch-Dest":"empty"},"ContentLength":null,"Body":null,"$type":"HttpLogInfo"}
+System.Net.Http.HttpRequestException: No connection could be made because the target machine actively refused it. (localhost:58550)
+ ---> System.Net.Sockets.SocketException (10061): No connection could be made because the target machine actively refused it.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|285_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at QI.QR.Business.Services.UserService.ValidateToken(String token) in C:\Projects\QRI\QI.QR.Business\Services\UserService.cs:line 261
+   at QI.QR.AuthHandling.AuthenticationHandler.HandleAuthenticateAsync() in C:\Projects\QRI\QI.QR\AuthHandling\AuthenticationHandler.cs:line 76
+   at Microsoft.AspNetCore.Authentication.AuthenticationHandler`1.AuthenticateAsync()
+   at Microsoft.AspNetCore.Authentication.AuthenticationService.AuthenticateAsync(HttpContext context, String scheme)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at QI.QR.ErrorHandling.ErrorHandlingMiddleware.InvokeAsync(HttpContext context, RequestDelegate next) in C:\Projects\QRI\QI.QR\ErrorHandling\ErrorHandlingMiddleware.cs:line 36
+2025-11-01 04:29:51.076 -05:00 [ERR] Error during request processing.
+ {"Method":"GET","Path":"/organization/2","QueryString":"","Headers":{"Accept":"application/json, text/plain, */*","Accept-Encoding":"gzip, deflate, br, zstd","Accept-Language":"en-US,en;q=0.9","Authorization":"Bearer 5913846f-c3a0-4b1e-8517-76a1e7601c3f","Connection":"keep-alive","Host":"localhost:61368","Referer":"http://localhost:61368/2025/abstraction/overreads-qa","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36","sec-ch-ua-platform":"\\u0022Windows\\u0022","Timezone":"America/Chicago","sec-ch-ua":"\\u0022Google Chrome\\u0022;v=\\u0022141\\u0022, \\u0022Not?A_Brand\\u0022;v=\\u00228\\u0022, \\u0022Chromium\\u0022;v=\\u0022141\\u0022","sec-ch-ua-mobile":"?0","Sec-Fetch-Site":"same-origin","Sec-Fetch-Mode":"cors","Sec-Fetch-Dest":"empty"},"ContentLength":null,"Body":null,"$type":"HttpLogInfo"}
+System.Net.Http.HttpRequestException: No connection could be made because the target machine actively refused it. (localhost:58550)
+ ---> System.Net.Sockets.SocketException (10061): No connection could be made because the target machine actively refused it.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|285_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at QI.QR.Business.Services.UserService.ValidateToken(String token) in C:\Projects\QRI\QI.QR.Business\Services\UserService.cs:line 261
+   at QI.QR.AuthHandling.AuthenticationHandler.HandleAuthenticateAsync() in C:\Projects\QRI\QI.QR\AuthHandling\AuthenticationHandler.cs:line 76
+   at Microsoft.AspNetCore.Authentication.AuthenticationHandler`1.AuthenticateAsync()
+   at Microsoft.AspNetCore.Authentication.AuthenticationService.AuthenticateAsync(HttpContext context, String scheme)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at QI.QR.ErrorHandling.ErrorHandlingMiddleware.InvokeAsync(HttpContext context, RequestDelegate next) in C:\Projects\QRI\QI.QR\ErrorHandling\ErrorHandlingMiddleware.cs:line 36
+2025-11-01 08:37:51.044 -05:00 [ERR] Error during request processing.
+ {"Method":"GET","Path":"/organization/2","QueryString":"","Headers":{"Accept":"application/json, text/plain, */*","Accept-Encoding":"gzip, deflate, br, zstd","Accept-Language":"en-US,en;q=0.9","Authorization":"Bearer 5913846f-c3a0-4b1e-8517-76a1e7601c3f","Connection":"keep-alive","Host":"localhost:61368","Referer":"http://localhost:61368/2025/abstraction/overreads-qa","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36","sec-ch-ua-platform":"\\u0022Windows\\u0022","Timezone":"America/Chicago","sec-ch-ua":"\\u0022Google Chrome\\u0022;v=\\u0022141\\u0022, \\u0022Not?A_Brand\\u0022;v=\\u00228\\u0022, \\u0022Chromium\\u0022;v=\\u0022141\\u0022","sec-ch-ua-mobile":"?0","Sec-Fetch-Site":"same-origin","Sec-Fetch-Mode":"cors","Sec-Fetch-Dest":"empty"},"ContentLength":null,"Body":null,"$type":"HttpLogInfo"}
+System.Net.Http.HttpRequestException: No connection could be made because the target machine actively refused it. (localhost:58550)
+ ---> System.Net.Sockets.SocketException (10061): No connection could be made because the target machine actively refused it.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|285_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at QI.QR.Business.Services.UserService.ValidateToken(String token) in C:\Projects\QRI\QI.QR.Business\Services\UserService.cs:line 261
+   at QI.QR.AuthHandling.AuthenticationHandler.HandleAuthenticateAsync() in C:\Projects\QRI\QI.QR\AuthHandling\AuthenticationHandler.cs:line 76
+   at Microsoft.AspNetCore.Authentication.AuthenticationHandler`1.AuthenticateAsync()
+   at Microsoft.AspNetCore.Authentication.AuthenticationService.AuthenticateAsync(HttpContext context, String scheme)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at QI.QR.ErrorHandling.ErrorHandlingMiddleware.InvokeAsync(HttpContext context, RequestDelegate next) in C:\Projects\QRI\QI.QR\ErrorHandling\ErrorHandlingMiddleware.cs:line 36
+2025-11-01 08:39:37.322 -05:00 [ERR] Error during request processing.
+ {"Method":"GET","Path":"/organization/2","QueryString":"","Headers":{"Accept":"application/json, text/plain, */*","Accept-Encoding":"gzip, deflate, br, zstd","Accept-Language":"en-US,en;q=0.9","Authorization":"Bearer 5913846f-c3a0-4b1e-8517-76a1e7601c3f","Connection":"keep-alive","Host":"localhost:61368","Referer":"http://localhost:61368/2025/abstraction/overreads-qa","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36","sec-ch-ua-platform":"\\u0022Windows\\u0022","Timezone":"America/Chicago","sec-ch-ua":"\\u0022Google Chrome\\u0022;v=\\u0022141\\u0022, \\u0022Not?A_Brand\\u0022;v=\\u00228\\u0022, \\u0022Chromium\\u0022;v=\\u0022141\\u0022","sec-ch-ua-mobile":"?0","Sec-Fetch-Site":"same-origin","Sec-Fetch-Mode":"cors","Sec-Fetch-Dest":"empty"},"ContentLength":null,"Body":null,"$type":"HttpLogInfo"}
+System.Net.Http.HttpRequestException: No connection could be made because the target machine actively refused it. (localhost:58550)
+ ---> System.Net.Sockets.SocketException (10061): No connection could be made because the target machine actively refused it.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|285_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at QI.QR.Business.Services.UserService.ValidateToken(String token) in C:\Projects\QRI\QI.QR.Business\Services\UserService.cs:line 261
+   at QI.QR.AuthHandling.AuthenticationHandler.HandleAuthenticateAsync() in C:\Projects\QRI\QI.QR\AuthHandling\AuthenticationHandler.cs:line 76
+   at Microsoft.AspNetCore.Authentication.AuthenticationHandler`1.AuthenticateAsync()
+   at Microsoft.AspNetCore.Authentication.AuthenticationService.AuthenticateAsync(HttpContext context, String scheme)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at QI.QR.ErrorHandling.ErrorHandlingMiddleware.InvokeAsync(HttpContext context, RequestDelegate next) in C:\Projects\QRI\QI.QR\ErrorHandling\ErrorHandlingMiddleware.cs:line 36

@@ -1,0 +1,389 @@
+2025-11-10 15:39:52.645 -06:00 [ERR] - Generating browser application bundles (phase: setup)...
+
+2025-11-10 15:43:23.600 -06:00 [ERR] ΓêÜ Browser application bundle generation complete.
+
+2025-11-10 15:43:25.435 -06:00 [ERR] ./src/app/shared/components/viewing-filter/viewing-filter.component.css?ngResource - Warning: Module Warning (from ./node_modules/postcss-loader/dist/cjs.js):
+
+2025-11-10 15:43:25.435 -06:00 [ERR] (20:3) from "autoprefixer" plugin: end value has mixed support, consider using flex-end instead
+
+2025-11-10 15:43:25.435 -06:00 [ERR] Code:
+
+2025-11-10 15:43:25.436 -06:00 [ERR]   place-content: end
+
+2025-11-10 15:43:25.436 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.array.index-of.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-10 15:43:25.436 -06:00 [ERR] For more info see: https://angular.io/guide/build#configuring-commonjs-dependencies
+
+2025-11-10 15:43:25.436 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.array.iterator.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-10 15:43:25.436 -06:00 [ERR] For more info see: https://angular.io/guide/build#configuring-commonjs-dependencies
+
+2025-11-10 15:43:25.437 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.array.reduce.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-10 15:43:25.437 -06:00 [ERR] For more info see: https://angular.io/guide/build#configuring-commonjs-dependencies
+
+2025-11-10 15:43:25.437 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.array.reverse.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-10 15:43:25.437 -06:00 [ERR] For more info see: https://angular.io/guide/build#configuring-commonjs-dependencies
+
+2025-11-10 15:43:25.439 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.promise.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-10 15:43:25.439 -06:00 [ERR] For more info see: https://angular.io/guide/build#configuring-commonjs-dependencies
+
+2025-11-10 15:43:25.440 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.regexp.to-string.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-10 15:43:25.441 -06:00 [ERR] For more info see: https://angular.io/guide/build#configuring-commonjs-dependencies
+
+2025-11-10 15:43:25.441 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.string.ends-with.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-10 15:43:25.441 -06:00 [ERR] For more info see: https://angular.io/guide/build#configuring-commonjs-dependencies
+
+2025-11-10 15:43:25.441 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.string.includes.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-10 15:43:25.442 -06:00 [ERR] For more info see: https://angular.io/guide/build#configuring-commonjs-dependencies
+
+2025-11-10 15:43:25.442 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.string.match.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-10 15:43:25.442 -06:00 [ERR] For more info see: https://angular.io/guide/build#configuring-commonjs-dependencies
+
+2025-11-10 15:43:25.442 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.string.replace.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-10 15:43:25.443 -06:00 [ERR] For more info see: https://angular.io/guide/build#configuring-commonjs-dependencies
+
+2025-11-10 15:43:25.443 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.string.split.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-10 15:43:25.443 -06:00 [ERR] For more info see: https://angular.io/guide/build#configuring-commonjs-dependencies
+
+2025-11-10 15:43:25.443 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.string.starts-with.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-10 15:43:25.443 -06:00 [ERR] For more info see: https://angular.io/guide/build#configuring-commonjs-dependencies
+
+2025-11-10 15:43:25.443 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.string.trim.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-10 15:43:25.443 -06:00 [ERR] For more info see: https://angular.io/guide/build#configuring-commonjs-dependencies
+
+2025-11-10 15:43:25.443 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/web.dom-collections.iterator.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-10 15:43:25.444 -06:00 [ERR] For more info see: https://angular.io/guide/build#configuring-commonjs-dependencies
+
+2025-11-10 15:43:25.444 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'raf'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-10 15:43:25.444 -06:00 [ERR] For more info see: https://angular.io/guide/build#configuring-commonjs-dependencies
+
+2025-11-10 15:43:25.444 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'rgbcolor'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-10 15:43:25.444 -06:00 [ERR] For more info see: https://angular.io/guide/build#configuring-commonjs-dependencies
+
+2025-11-10 15:43:25.444 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\primeng\fesm2022\primeng-editor.mjs depends on 'quill'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-10 15:43:25.444 -06:00 [ERR] For more info see: https://angular.io/guide/build#configuring-commonjs-dependencies
+
+2025-11-10 15:43:25.444 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\src\app\dashboard\measure-config\measure-config.component.ts depends on 'file-saver'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-10 15:43:25.444 -06:00 [ERR] For more info see: https://angular.io/guide/build#configuring-commonjs-dependencies
+
+2025-11-10 15:43:25.444 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\src\app\measure-summary\trending\trending.component.ts depends on 'html2canvas'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-10 15:43:25.444 -06:00 [ERR] For more info see: https://angular.io/guide/build#configuring-commonjs-dependencies
+
+2025-11-10 15:48:06.125 -06:00 [ERR] - Generating browser application bundles (phase: setup)...
+
+2025-11-10 15:49:23.358 -06:00 [ERR] ΓêÜ Browser application bundle generation complete.
+
+2025-11-10 15:49:25.307 -06:00 [ERR] ./src/app/shared/components/viewing-filter/viewing-filter.component.css?ngResource - Warning: Module Warning (from ./node_modules/postcss-loader/dist/cjs.js):
+
+2025-11-10 15:49:25.308 -06:00 [ERR] (20:3) from "autoprefixer" plugin: end value has mixed support, consider using flex-end instead
+
+2025-11-10 15:49:25.308 -06:00 [ERR] Code:
+
+2025-11-10 15:49:25.308 -06:00 [ERR]   place-content: end
+
+2025-11-10 15:49:25.308 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.array.index-of.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-10 15:49:25.308 -06:00 [ERR] For more info see: https://angular.io/guide/build#configuring-commonjs-dependencies
+
+2025-11-10 15:49:25.309 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.array.iterator.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-10 15:49:25.309 -06:00 [ERR] For more info see: https://angular.io/guide/build#configuring-commonjs-dependencies
+
+2025-11-10 15:49:25.309 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.array.reduce.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-10 15:49:25.309 -06:00 [ERR] For more info see: https://angular.io/guide/build#configuring-commonjs-dependencies
+
+2025-11-10 15:49:25.309 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.array.reverse.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-10 15:49:25.309 -06:00 [ERR] For more info see: https://angular.io/guide/build#configuring-commonjs-dependencies
+
+2025-11-10 15:49:25.309 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.promise.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-10 15:49:25.309 -06:00 [ERR] For more info see: https://angular.io/guide/build#configuring-commonjs-dependencies
+
+2025-11-10 15:49:25.309 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.regexp.to-string.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-10 15:49:25.309 -06:00 [ERR] For more info see: https://angular.io/guide/build#configuring-commonjs-dependencies
+
+2025-11-10 15:49:25.309 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.string.ends-with.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-10 15:49:25.310 -06:00 [ERR] For more info see: https://angular.io/guide/build#configuring-commonjs-dependencies
+
+2025-11-10 15:49:25.310 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.string.includes.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-10 15:49:25.310 -06:00 [ERR] For more info see: https://angular.io/guide/build#configuring-commonjs-dependencies
+
+2025-11-10 15:49:25.310 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.string.match.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-10 15:49:25.310 -06:00 [ERR] For more info see: https://angular.io/guide/build#configuring-commonjs-dependencies
+
+2025-11-10 15:49:25.310 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.string.replace.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-10 15:49:25.310 -06:00 [ERR] For more info see: https://angular.io/guide/build#configuring-commonjs-dependencies
+
+2025-11-10 15:49:25.310 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.string.split.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-10 15:49:25.310 -06:00 [ERR] For more info see: https://angular.io/guide/build#configuring-commonjs-dependencies
+
+2025-11-10 15:49:25.310 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.string.starts-with.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-10 15:49:25.310 -06:00 [ERR] For more info see: https://angular.io/guide/build#configuring-commonjs-dependencies
+
+2025-11-10 15:49:25.311 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.string.trim.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-10 15:49:25.311 -06:00 [ERR] For more info see: https://angular.io/guide/build#configuring-commonjs-dependencies
+
+2025-11-10 15:49:25.311 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/web.dom-collections.iterator.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-10 15:49:25.311 -06:00 [ERR] For more info see: https://angular.io/guide/build#configuring-commonjs-dependencies
+
+2025-11-10 15:49:25.311 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'raf'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-10 15:49:25.311 -06:00 [ERR] For more info see: https://angular.io/guide/build#configuring-commonjs-dependencies
+
+2025-11-10 15:49:25.311 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'rgbcolor'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-10 15:49:25.311 -06:00 [ERR] For more info see: https://angular.io/guide/build#configuring-commonjs-dependencies
+
+2025-11-10 15:49:25.311 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\primeng\fesm2022\primeng-editor.mjs depends on 'quill'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-10 15:49:25.311 -06:00 [ERR] For more info see: https://angular.io/guide/build#configuring-commonjs-dependencies
+
+2025-11-10 15:49:25.312 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\src\app\measure-summary\trending\trending.component.ts depends on 'html2canvas'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-10 15:49:25.312 -06:00 [ERR] For more info see: https://angular.io/guide/build#configuring-commonjs-dependencies
+
+2025-11-10 15:49:25.312 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\src\app\shared\components\drills\drills.component.ts depends on 'file-saver'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-10 15:49:25.312 -06:00 [ERR] For more info see: https://angular.io/guide/build#configuring-commonjs-dependencies
+
+2025-11-10 15:52:23.772 -06:00 [ERR] Error during request processing.
+ {"Method":"POST","Path":"/Submission/Generate/6/CSV","QueryString":"","Headers":{"Accept":"application/json, text/plain, */*","Accept-Encoding":"gzip, deflate, br, zstd","Accept-Language":"en-US,en;q=0.9","Authorization":"Bearer 76de25ef-f537-4dfa-b52b-bedf57f8640b","Connection":"keep-alive","Content-Length":"370","Content-Type":"application/json","Host":"localhost:61368","Referer":"http://localhost:61368/2024/submissions/sc-extract-submission","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36","sec-ch-ua-platform":"\\u0022Windows\\u0022","Timezone":"America/Chicago","sec-ch-ua":"\\u0022Chromium\\u0022;v=\\u0022142\\u0022, \\u0022Google Chrome\\u0022;v=\\u0022142\\u0022, \\u0022Not_A Brand\\u0022;v=\\u002299\\u0022","sec-ch-ua-mobile":"?0","Origin":"http://localhost:61368","Sec-Fetch-Site":"same-origin","Sec-Fetch-Mode":"cors","Sec-Fetch-Dest":"empty"},"ContentLength":370,"Body":"{\\u0022submissionGuid\\u0022:\\u0022\\u0022,\\u0022reportTypeId\\u0022:\\u00221006\\u0022,\\u0022productLineIds\\u0022:[\\u00223\\u0022],\\u0022submissionInputs\\u0022:[{\\u0022contractNumber\\u0022:\\u0022H1234\\u0022,\\u0022orgName\\u0022:\\u0022CBP\\u0022,\\u0022productRollupId\\u0022:3,\\u0022submissionId\\u0022:\\u0022CLIENT ID 1\\u0022,\\u0022productRollupDescription\\u0022:\\u0022Medicaid Combined\\u0022},{\\u0022contractNumber\\u0022:\\u0022H1234\\u0022,\\u0022orgName\\u0022:\\u0022MO_EXTRACT\\u0022,\\u0022productRollupId\\u0022:14,\\u0022submissionId\\u0022:\\u0022CLIENT ID 1\\u0022,\\u0022productRollupDescription\\u0022:\\u0022Medicaid Other\\u0022}]}","$type":"HttpLogInfo"}
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at QI.QR.Business.Services.SubmissionService.GenerateSCSubmissionReport(String reportTypeId, String downloadFormat, SubmissionReportGenerationModel submissionReportInput) in C:\Projects\QRI\QI.QR.Business\Services\SubmissionService.cs:line 449
+   at QI.QR.Controllers.SubmissionController.GenerateScSubmission(String reportTypeId, String downloadType, SubmissionReportGenerationModel pldReportInput) in C:\Projects\QRI\QI.QR\Controllers\SubmissionController.cs:line 78
+   at lambda_method418(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at QI.QR.ErrorHandling.ErrorHandlingMiddleware.InvokeAsync(HttpContext context, RequestDelegate next) in C:\Projects\QRI\QI.QR\ErrorHandling\ErrorHandlingMiddleware.cs:line 36
+2025-11-10 16:05:52.904 -06:00 [ERR] Error during request processing.
+ {"Method":"POST","Path":"/Submission/Generate/6/CSV","QueryString":"","Headers":{"Accept":"application/json, text/plain, */*","Accept-Encoding":"gzip, deflate, br, zstd","Accept-Language":"en-US,en;q=0.9","Authorization":"Bearer 76de25ef-f537-4dfa-b52b-bedf57f8640b","Connection":"keep-alive","Content-Length":"226","Content-Type":"application/json","Host":"localhost:61368","Referer":"http://localhost:61368/2024/submissions/sc-extract-submission","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36","sec-ch-ua-platform":"\\u0022Windows\\u0022","Timezone":"America/Chicago","sec-ch-ua":"\\u0022Chromium\\u0022;v=\\u0022142\\u0022, \\u0022Google Chrome\\u0022;v=\\u0022142\\u0022, \\u0022Not_A Brand\\u0022;v=\\u002299\\u0022","sec-ch-ua-mobile":"?0","Origin":"http://localhost:61368","Sec-Fetch-Site":"same-origin","Sec-Fetch-Mode":"cors","Sec-Fetch-Dest":"empty"},"ContentLength":226,"Body":"{\\u0022submissionGuid\\u0022:\\u0022\\u0022,\\u0022reportTypeId\\u0022:\\u00221006\\u0022,\\u0022productLineIds\\u0022:[\\u00223\\u0022],\\u0022submissionInputs\\u0022:[{\\u0022contractNumber\\u0022:\\u0022H1234\\u0022,\\u0022orgName\\u0022:\\u0022CBP\\u0022,\\u0022productRollupId\\u0022:3,\\u0022submissionId\\u0022:\\u0022CLIENT ID 1\\u0022,\\u0022productRollupDescription\\u0022:\\u0022Medicaid Combined\\u0022}]}","$type":"HttpLogInfo"}
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at QI.QR.Business.Services.SubmissionService.GenerateSCSubmissionReport(String reportTypeId, String downloadFormat, SubmissionReportGenerationModel submissionReportInput) in C:\Projects\QRI\QI.QR.Business\Services\SubmissionService.cs:line 449
+   at QI.QR.Controllers.SubmissionController.GenerateScSubmission(String reportTypeId, String downloadType, SubmissionReportGenerationModel pldReportInput) in C:\Projects\QRI\QI.QR\Controllers\SubmissionController.cs:line 78
+   at lambda_method418(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at QI.QR.ErrorHandling.ErrorHandlingMiddleware.InvokeAsync(HttpContext context, RequestDelegate next) in C:\Projects\QRI\QI.QR\ErrorHandling\ErrorHandlingMiddleware.cs:line 36
+2025-11-10 16:06:57.372 -06:00 [ERR] - Generating browser application bundles (phase: setup)...
+
+2025-11-10 16:08:17.085 -06:00 [ERR] ΓêÜ Browser application bundle generation complete.
+
+2025-11-10 16:08:18.972 -06:00 [ERR] ./src/app/shared/components/viewing-filter/viewing-filter.component.css?ngResource - Warning: Module Warning (from ./node_modules/postcss-loader/dist/cjs.js):
+
+2025-11-10 16:08:18.973 -06:00 [ERR] (20:3) from "autoprefixer" plugin: end value has mixed support, consider using flex-end instead
+
+2025-11-10 16:08:18.973 -06:00 [ERR] Code:
+
+2025-11-10 16:08:18.973 -06:00 [ERR]   place-content: end
+
+2025-11-10 16:08:18.973 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.array.index-of.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-10 16:08:18.973 -06:00 [ERR] For more info see: https://angular.io/guide/build#configuring-commonjs-dependencies
+
+2025-11-10 16:08:18.973 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.array.iterator.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-10 16:08:18.973 -06:00 [ERR] For more info see: https://angular.io/guide/build#configuring-commonjs-dependencies
+
+2025-11-10 16:08:18.973 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.array.reduce.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-10 16:08:18.973 -06:00 [ERR] For more info see: https://angular.io/guide/build#configuring-commonjs-dependencies
+
+2025-11-10 16:08:18.974 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.array.reverse.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-10 16:08:18.974 -06:00 [ERR] For more info see: https://angular.io/guide/build#configuring-commonjs-dependencies
+
+2025-11-10 16:08:18.974 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.promise.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-10 16:08:18.974 -06:00 [ERR] For more info see: https://angular.io/guide/build#configuring-commonjs-dependencies
+
+2025-11-10 16:08:18.974 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.regexp.to-string.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-10 16:08:18.974 -06:00 [ERR] For more info see: https://angular.io/guide/build#configuring-commonjs-dependencies
+
+2025-11-10 16:08:18.974 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.string.ends-with.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-10 16:08:18.974 -06:00 [ERR] For more info see: https://angular.io/guide/build#configuring-commonjs-dependencies
+
+2025-11-10 16:08:18.974 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.string.includes.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-10 16:08:18.974 -06:00 [ERR] For more info see: https://angular.io/guide/build#configuring-commonjs-dependencies
+
+2025-11-10 16:08:18.974 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.string.match.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-10 16:08:18.975 -06:00 [ERR] For more info see: https://angular.io/guide/build#configuring-commonjs-dependencies
+
+2025-11-10 16:08:18.975 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.string.replace.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-10 16:08:18.975 -06:00 [ERR] For more info see: https://angular.io/guide/build#configuring-commonjs-dependencies
+
+2025-11-10 16:08:18.975 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.string.split.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-10 16:08:18.975 -06:00 [ERR] For more info see: https://angular.io/guide/build#configuring-commonjs-dependencies
+
+2025-11-10 16:08:18.975 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.string.starts-with.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-10 16:08:18.975 -06:00 [ERR] For more info see: https://angular.io/guide/build#configuring-commonjs-dependencies
+
+2025-11-10 16:08:18.975 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.string.trim.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-10 16:08:18.975 -06:00 [ERR] For more info see: https://angular.io/guide/build#configuring-commonjs-dependencies
+
+2025-11-10 16:08:18.975 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/web.dom-collections.iterator.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-10 16:08:18.976 -06:00 [ERR] For more info see: https://angular.io/guide/build#configuring-commonjs-dependencies
+
+2025-11-10 16:08:18.976 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'raf'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-10 16:08:18.976 -06:00 [ERR] For more info see: https://angular.io/guide/build#configuring-commonjs-dependencies
+
+2025-11-10 16:08:18.976 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'rgbcolor'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-10 16:08:18.976 -06:00 [ERR] For more info see: https://angular.io/guide/build#configuring-commonjs-dependencies
+
+2025-11-10 16:08:18.976 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\primeng\fesm2022\primeng-editor.mjs depends on 'quill'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-10 16:08:18.976 -06:00 [ERR] For more info see: https://angular.io/guide/build#configuring-commonjs-dependencies
+
+2025-11-10 16:08:18.976 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\src\app\measure-summary\trending\trending.component.ts depends on 'html2canvas'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-10 16:08:18.976 -06:00 [ERR] For more info see: https://angular.io/guide/build#configuring-commonjs-dependencies
+
+2025-11-10 16:08:18.976 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\src\app\shared\components\drills\drills.component.ts depends on 'file-saver'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-10 16:08:18.976 -06:00 [ERR] For more info see: https://angular.io/guide/build#configuring-commonjs-dependencies
+
+2025-11-10 16:12:22.606 -06:00 [ERR] Error during request processing.
+ {"Method":"POST","Path":"/Submission/Generate/6/CSV","QueryString":"","Headers":{"Accept":"application/json, text/plain, */*","Accept-Encoding":"gzip, deflate, br, zstd","Accept-Language":"en-US,en;q=0.9","Authorization":"Bearer 77767d5b-0d85-4de9-9e6a-7adf466fd0f1","Connection":"keep-alive","Content-Length":"229","Content-Type":"application/json","Host":"localhost:61368","Referer":"http://localhost:61368/2024/submissions/sc-extract-submission","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36","sec-ch-ua-platform":"\\u0022Windows\\u0022","Timezone":"America/Chicago","sec-ch-ua":"\\u0022Chromium\\u0022;v=\\u0022142\\u0022, \\u0022Google Chrome\\u0022;v=\\u0022142\\u0022, \\u0022Not_A Brand\\u0022;v=\\u002299\\u0022","sec-ch-ua-mobile":"?0","Origin":"http://localhost:61368","Sec-Fetch-Site":"same-origin","Sec-Fetch-Mode":"cors","Sec-Fetch-Dest":"empty"},"ContentLength":229,"Body":"{\\u0022submissionGuid\\u0022:\\u0022\\u0022,\\u0022reportTypeId\\u0022:\\u00221006\\u0022,\\u0022productLineIds\\u0022:[\\u00223\\u0022],\\u0022submissionInputs\\u0022:[{\\u0022contractNumber\\u0022:\\u00228006\\u0022,\\u0022orgName\\u0022:\\u0022COTIVITI_MO\\u0022,\\u0022productRollupId\\u0022:93,\\u0022submissionId\\u0022:\\u0022client2\\u0022,\\u0022productRollupDescription\\u0022:\\u0022PLAN2 - MEDICAID\\u0022}]}","$type":"HttpLogInfo"}
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at QI.QR.Business.Services.SubmissionService.GenerateSCSubmissionReport(String reportTypeId, String downloadFormat, SubmissionReportGenerationModel submissionReportInput) in C:\Projects\QRI\QI.QR.Business\Services\SubmissionService.cs:line 449
+   at QI.QR.Controllers.SubmissionController.GenerateScSubmission(String reportTypeId, String downloadType, SubmissionReportGenerationModel pldReportInput) in C:\Projects\QRI\QI.QR\Controllers\SubmissionController.cs:line 78
+   at lambda_method418(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at QI.QR.ErrorHandling.ErrorHandlingMiddleware.InvokeAsync(HttpContext context, RequestDelegate next) in C:\Projects\QRI\QI.QR\ErrorHandling\ErrorHandlingMiddleware.cs:line 36
+2025-11-10 16:14:15.769 -06:00 [ERR] Error during request processing.
+ {"Method":"POST","Path":"/Submission/Generate/5/CSV","QueryString":"","Headers":{"Accept":"application/json, text/plain, */*","Accept-Encoding":"gzip, deflate, br, zstd","Accept-Language":"en-US,en;q=0.9","Authorization":"Bearer 77767d5b-0d85-4de9-9e6a-7adf466fd0f1","Connection":"keep-alive","Content-Length":"226","Content-Type":"application/json","Host":"localhost:61368","Referer":"http://localhost:61368/2024/submissions/sc-extract-submission","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36","sec-ch-ua-platform":"\\u0022Windows\\u0022","Timezone":"America/Chicago","sec-ch-ua":"\\u0022Chromium\\u0022;v=\\u0022142\\u0022, \\u0022Google Chrome\\u0022;v=\\u0022142\\u0022, \\u0022Not_A Brand\\u0022;v=\\u002299\\u0022","sec-ch-ua-mobile":"?0","Origin":"http://localhost:61368","Sec-Fetch-Site":"same-origin","Sec-Fetch-Mode":"cors","Sec-Fetch-Dest":"empty"},"ContentLength":226,"Body":"{\\u0022submissionGuid\\u0022:\\u0022\\u0022,\\u0022reportTypeId\\u0022:\\u00221005\\u0022,\\u0022productLineIds\\u0022:[\\u00223\\u0022],\\u0022submissionInputs\\u0022:[{\\u0022contractNumber\\u0022:\\u0022H1234\\u0022,\\u0022orgName\\u0022:\\u0022CBP\\u0022,\\u0022productRollupId\\u0022:3,\\u0022submissionId\\u0022:\\u0022CLIENT ID 1\\u0022,\\u0022productRollupDescription\\u0022:\\u0022Medicaid Combined\\u0022}]}","$type":"HttpLogInfo"}
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at QI.QR.Business.Services.SubmissionService.GenerateSCSubmissionReport(String reportTypeId, String downloadFormat, SubmissionReportGenerationModel submissionReportInput) in C:\Projects\QRI\QI.QR.Business\Services\SubmissionService.cs:line 449
+   at QI.QR.Controllers.SubmissionController.GenerateScSubmission(String reportTypeId, String downloadType, SubmissionReportGenerationModel pldReportInput) in C:\Projects\QRI\QI.QR\Controllers\SubmissionController.cs:line 78
+   at lambda_method418(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at QI.QR.ErrorHandling.ErrorHandlingMiddleware.InvokeAsync(HttpContext context, RequestDelegate next) in C:\Projects\QRI\QI.QR\ErrorHandling\ErrorHandlingMiddleware.cs:line 36
+2025-11-10 16:16:08.230 -06:00 [ERR] Error during request processing.
+ {"Method":"POST","Path":"/Submission/Generate/5/CSV","QueryString":"","Headers":{"Accept":"application/json, text/plain, */*","Accept-Encoding":"gzip, deflate, br, zstd","Accept-Language":"en-US,en;q=0.9","Authorization":"Bearer 77767d5b-0d85-4de9-9e6a-7adf466fd0f1","Connection":"keep-alive","Content-Length":"222","Content-Type":"application/json","Host":"localhost:61368","Referer":"http://localhost:61368/2024/submissions/sc-extract-submission","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36","sec-ch-ua-platform":"\\u0022Windows\\u0022","Timezone":"America/Chicago","sec-ch-ua":"\\u0022Chromium\\u0022;v=\\u0022142\\u0022, \\u0022Google Chrome\\u0022;v=\\u0022142\\u0022, \\u0022Not_A Brand\\u0022;v=\\u002299\\u0022","sec-ch-ua-mobile":"?0","Origin":"http://localhost:61368","Sec-Fetch-Site":"same-origin","Sec-Fetch-Mode":"cors","Sec-Fetch-Dest":"empty"},"ContentLength":222,"Body":"{\\u0022submissionGuid\\u0022:\\u0022\\u0022,\\u0022reportTypeId\\u0022:\\u00221005\\u0022,\\u0022productLineIds\\u0022:[\\u00223\\u0022],\\u0022submissionInputs\\u0022:[{\\u0022contractNumber\\u0022:\\u0022H3567\\u0022,\\u0022orgName\\u0022:\\u0022SPC\\u0022,\\u0022productRollupId\\u0022:10,\\u0022submissionId\\u0022:\\u0022CLIENT ID 5\\u0022,\\u0022productRollupDescription\\u0022:\\u0022Medicaid HMO\\u0022}]}","$type":"HttpLogInfo"}
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at QI.QR.Business.Services.SubmissionService.GenerateSCSubmissionReport(String reportTypeId, String downloadFormat, SubmissionReportGenerationModel submissionReportInput) in C:\Projects\QRI\QI.QR.Business\Services\SubmissionService.cs:line 449
+   at QI.QR.Controllers.SubmissionController.GenerateScSubmission(String reportTypeId, String downloadType, SubmissionReportGenerationModel pldReportInput) in C:\Projects\QRI\QI.QR\Controllers\SubmissionController.cs:line 78
+   at lambda_method418(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at QI.QR.ErrorHandling.ErrorHandlingMiddleware.InvokeAsync(HttpContext context, RequestDelegate next) in C:\Projects\QRI\QI.QR\ErrorHandling\ErrorHandlingMiddleware.cs:line 36

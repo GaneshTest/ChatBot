@@ -1,0 +1,110 @@
+2025-11-23 19:25:16.412 -06:00 [ERR] - Generating browser application bundles (phase: setup)...
+
+2025-11-23 19:27:59.893 -06:00 [ERR] ΓêÜ Browser application bundle generation complete.
+
+2025-11-23 19:27:59.967 -06:00 [ERR] 
+
+2025-11-23 19:27:59.968 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.array.index-of.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-23 19:27:59.968 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2025-11-23 19:27:59.969 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.array.iterator.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-23 19:27:59.969 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2025-11-23 19:27:59.969 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.array.reduce.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-23 19:27:59.970 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2025-11-23 19:27:59.971 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.array.reverse.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-23 19:27:59.971 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2025-11-23 19:27:59.971 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.promise.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-23 19:27:59.972 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2025-11-23 19:27:59.972 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.regexp.to-string.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-23 19:27:59.972 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2025-11-23 19:27:59.972 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.string.ends-with.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-23 19:27:59.972 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2025-11-23 19:27:59.972 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.string.includes.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-23 19:27:59.973 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2025-11-23 19:27:59.973 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.string.match.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-23 19:27:59.973 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2025-11-23 19:27:59.973 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.string.replace.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-23 19:27:59.973 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2025-11-23 19:27:59.973 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.string.split.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-23 19:27:59.974 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2025-11-23 19:27:59.974 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.string.starts-with.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-23 19:27:59.974 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2025-11-23 19:27:59.974 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.string.trim.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-23 19:27:59.975 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2025-11-23 19:27:59.975 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/web.dom-collections.iterator.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-23 19:27:59.975 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2025-11-23 19:27:59.975 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'raf'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-23 19:27:59.975 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2025-11-23 19:27:59.976 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'rgbcolor'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-23 19:27:59.976 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2025-11-23 19:27:59.976 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\primeng\fesm2022\primeng-editor.mjs depends on 'quill'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-23 19:27:59.976 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2025-11-23 19:27:59.977 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\src\app\measure-summary\trending\trending.component.ts depends on 'html2canvas'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-23 19:27:59.977 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2025-11-23 19:27:59.977 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\src\app\shared\components\drills\drills.component.ts depends on 'file-saver'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-23 19:27:59.977 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2025-11-23 19:27:59.978 -06:00 [ERR] 
+
+2025-11-23 19:31:39.728 -06:00 [ERR] ΓêÜ Browser application bundle generation complete.
+
+2025-11-23 19:31:39.792 -06:00 [ERR] 
+
+2025-11-23 19:31:39.794 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\src\app\dashboard\measure-config\measure-config.component.ts depends on 'file-saver'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-23 19:31:39.795 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2025-11-23 19:31:39.795 -06:00 [ERR] 
+
+2025-11-23 19:43:50.447 -06:00 [ERR] ΓêÜ Browser application bundle generation complete.
+
+2025-11-23 19:54:44.534 -06:00 [ERR] ΓêÜ Browser application bundle generation complete.
+
+2025-11-23 19:55:19.722 -06:00 [ERR] ΓêÜ Browser application bundle generation complete.
+
+2025-11-23 19:55:59.331 -06:00 [ERR] ΓêÜ Browser application bundle generation complete.
+
+2025-11-23 19:59:04.865 -06:00 [ERR] ΓêÜ Browser application bundle generation complete.
+
+2025-11-23 20:00:45.933 -06:00 [ERR] ΓêÜ Browser application bundle generation complete.
+
+2025-11-23 20:06:02.940 -06:00 [ERR] ΓêÜ Browser application bundle generation complete.
+
+2025-11-23 20:06:57.987 -06:00 [ERR] ΓêÜ Browser application bundle generation complete.
+

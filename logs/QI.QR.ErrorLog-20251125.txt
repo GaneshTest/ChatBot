@@ -1,0 +1,1994 @@
+2025-11-25 11:08:39.498 -06:00 [ERR] - Generating browser application bundles (phase: setup)...
+
+2025-11-25 11:10:02.910 -06:00 [ERR] ΓêÜ Browser application bundle generation complete.
+
+2025-11-25 11:10:02.967 -06:00 [ERR] 
+
+2025-11-25 11:10:02.967 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.array.index-of.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-25 11:10:02.967 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2025-11-25 11:10:02.968 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.array.iterator.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-25 11:10:02.969 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2025-11-25 11:10:02.969 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.array.reduce.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-25 11:10:02.969 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2025-11-25 11:10:02.969 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.array.reverse.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-25 11:10:02.969 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2025-11-25 11:10:02.969 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.promise.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-25 11:10:02.970 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2025-11-25 11:10:02.970 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.regexp.to-string.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-25 11:10:02.970 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2025-11-25 11:10:02.971 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.string.ends-with.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-25 11:10:02.971 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2025-11-25 11:10:02.971 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.string.includes.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-25 11:10:02.972 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2025-11-25 11:10:02.973 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.string.match.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-25 11:10:02.974 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2025-11-25 11:10:02.974 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.string.replace.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-25 11:10:02.975 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2025-11-25 11:10:02.975 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.string.split.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-25 11:10:02.975 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2025-11-25 11:10:02.976 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.string.starts-with.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-25 11:10:02.976 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2025-11-25 11:10:02.977 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.string.trim.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-25 11:10:02.977 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2025-11-25 11:10:02.977 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/web.dom-collections.iterator.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-25 11:10:02.977 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2025-11-25 11:10:02.977 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'raf'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-25 11:10:02.977 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2025-11-25 11:10:02.978 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'rgbcolor'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-25 11:10:02.979 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2025-11-25 11:10:02.979 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\primeng\fesm2022\primeng-editor.mjs depends on 'quill'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-25 11:10:02.979 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2025-11-25 11:10:02.980 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\src\app\dashboard\measure-config\measure-config.component.ts depends on 'file-saver'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-25 11:10:02.980 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2025-11-25 11:10:02.980 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\src\app\measure-summary\trending\trending.component.ts depends on 'html2canvas'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-25 11:10:02.981 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2025-11-25 11:10:02.981 -06:00 [ERR] 
+
+2025-11-25 11:13:48.466 -06:00 [ERR] ΓêÜ Browser application bundle generation complete.
+
+2025-11-25 11:13:48.501 -06:00 [ERR] 
+
+2025-11-25 11:13:48.501 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:114:10 - error TS2339: Property 'setTRCAdmitDischargeDateValidation' does not exist on type 'InpatientAdmissionComponent'.
+
+2025-11-25 11:13:48.501 -06:00 [ERR] 114     this.setTRCAdmitDischargeDateValidation();
+
+2025-11-25 11:13:48.501 -06:00 [ERR]              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+2025-11-25 11:13:48.501 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:121:10 - error TS2551: Property 'gethybridCompliance' does not exist on type 'InpatientAdmissionComponent'. Did you mean 'hybridCompliant'?
+
+2025-11-25 11:13:48.502 -06:00 [ERR] 121     this.gethybridCompliance();
+
+2025-11-25 11:13:48.502 -06:00 [ERR]              ~~~~~~~~~~~~~~~~~~~
+
+2025-11-25 11:13:48.502 -06:00 [ERR]   src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:51:3
+
+2025-11-25 11:13:48.502 -06:00 [ERR]     51   hybridCompliant: boolean;
+
+2025-11-25 11:13:48.502 -06:00 [ERR]          ~~~~~~~~~~~~~~~
+
+2025-11-25 11:13:48.502 -06:00 [ERR]     'hybridCompliant' is declared here.
+
+2025-11-25 11:13:48.502 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:186:16 - error TS2339: Property 'onDateSelect' does not exist on type 'InpatientAdmissionComponent'.
+
+2025-11-25 11:13:48.503 -06:00 [ERR] 186           this.onDateSelect('HybridDischDt');
+
+2025-11-25 11:13:48.503 -06:00 [ERR]                    ~~~~~~~~~~~~
+
+2025-11-25 11:13:48.503 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:190:16 - error TS2339: Property 'onDateSelect' does not exist on type 'InpatientAdmissionComponent'.
+
+2025-11-25 11:13:48.503 -06:00 [ERR] 190           this.onDateSelect('HybridAdmitDt');
+
+2025-11-25 11:13:48.503 -06:00 [ERR]                    ~~~~~~~~~~~~
+
+2025-11-25 11:13:48.504 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:196:17 - error TS2339: Property 'isValidDate' does not exist on type 'InpatientAdmissionComponent'.
+
+2025-11-25 11:13:48.504 -06:00 [ERR] 196       if (!this.isValidDate()) {
+
+2025-11-25 11:13:48.504 -06:00 [ERR]                     ~~~~~~~~~~~
+
+2025-11-25 11:13:48.504 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:282:14 - error TS2551: Property 'gethybridCompliance' does not exist on type 'InpatientAdmissionComponent'. Did you mean 'hybridCompliant'?
+
+2025-11-25 11:13:48.504 -06:00 [ERR] 282         this.gethybridCompliance();
+
+2025-11-25 11:13:48.504 -06:00 [ERR]                  ~~~~~~~~~~~~~~~~~~~
+
+2025-11-25 11:13:48.504 -06:00 [ERR]   src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:51:3
+
+2025-11-25 11:13:48.505 -06:00 [ERR]     51   hybridCompliant: boolean;
+
+2025-11-25 11:13:48.505 -06:00 [ERR]          ~~~~~~~~~~~~~~~
+
+2025-11-25 11:13:48.505 -06:00 [ERR]     'hybridCompliant' is declared here.
+
+2025-11-25 11:13:48.505 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:283:14 - error TS2339: Property 'onDateSelect' does not exist on type 'InpatientAdmissionComponent'.
+
+2025-11-25 11:13:48.505 -06:00 [ERR] 283         this.onDateSelect('HybridDischDt');
+
+2025-11-25 11:13:48.506 -06:00 [ERR]                  ~~~~~~~~~~~~
+
+2025-11-25 11:13:48.506 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:313:10 - error TS2339: Property 'setTRCAdmitDischargeDateValidation' does not exist on type 'InpatientAdmissionComponent'.
+
+2025-11-25 11:13:48.506 -06:00 [ERR] 313     this.setTRCAdmitDischargeDateValidation();
+
+2025-11-25 11:13:48.506 -06:00 [ERR]              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+2025-11-25 11:13:48.506 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:324:52 - error TS2339: Property 'getDischargeDateForCalculation' does not exist on type 'InpatientAdmissionComponent'.
+
+2025-11-25 11:13:48.506 -06:00 [ERR] 324         this.trcService.GetValidDischargeDate(this.getDischargeDateForCalculation());
+
+2025-11-25 11:13:48.506 -06:00 [ERR]                                                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+2025-11-25 11:13:48.506 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:338:12 - error TS2339: Property 'setDateRange' does not exist on type 'InpatientAdmissionComponent'.
+
+2025-11-25 11:13:48.506 -06:00 [ERR] 338       this.setDateRange(this.selectedEvidences);
+
+2025-11-25 11:13:48.506 -06:00 [ERR]                ~~~~~~~~~~~~
+
+2025-11-25 11:13:48.507 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:340:12 - error TS2339: Property 'setSuppleDateRange' does not exist on type 'InpatientAdmissionComponent'.
+
+2025-11-25 11:13:48.507 -06:00 [ERR] 340       this.setSuppleDateRange();
+
+2025-11-25 11:13:48.507 -06:00 [ERR]                ~~~~~~~~~~~~~~~~~~
+
+2025-11-25 11:13:48.507 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:386:10 - error TS2339: Property 'setTRCAdmitDischargeDateValidation' does not exist on type 'InpatientAdmissionComponent'.
+
+2025-11-25 11:13:48.507 -06:00 [ERR] 386     this.setTRCAdmitDischargeDateValidation();
+
+2025-11-25 11:13:48.507 -06:00 [ERR]              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+2025-11-25 11:13:48.508 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:387:48 - error TS2339: Property 'getDischargeDateForCalculation' does not exist on type 'InpatientAdmissionComponent'.
+
+2025-11-25 11:13:48.508 -06:00 [ERR] 387     this.trcService.GetValidDischargeDate(this.getDischargeDateForCalculation());
+
+2025-11-25 11:13:48.508 -06:00 [ERR]                                                    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+2025-11-25 11:13:48.508 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:389:10 - error TS2339: Property 'onChange' does not exist on type 'InpatientAdmissionComponent'.
+
+2025-11-25 11:13:48.508 -06:00 [ERR] 389     this.onChange();
+
+2025-11-25 11:13:48.508 -06:00 [ERR]              ~~~~~~~~
+
+2025-11-25 11:13:48.508 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:439:24 - error TS2551: Property 'inpatientAdmitDtPriorto365' does not exist on type 'InpatientAdmissionComponent'. Did you mean 'InpatientAdmitDateTo'?
+
+2025-11-25 11:13:48.508 -06:00 [ERR] 439               if (this.inpatientAdmitDtPriorto365() && this.isInpatinetValidDate()) {
+
+2025-11-25 11:13:48.508 -06:00 [ERR]                            ~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+2025-11-25 11:13:48.508 -06:00 [ERR]   src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:61:3
+
+2025-11-25 11:13:48.508 -06:00 [ERR]     61   InpatientAdmitDateTo: Date;
+
+2025-11-25 11:13:48.508 -06:00 [ERR]          ~~~~~~~~~~~~~~~~~~~~
+
+2025-11-25 11:13:48.509 -06:00 [ERR]     'InpatientAdmitDateTo' is declared here.
+
+2025-11-25 11:13:48.509 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:439:61 - error TS2339: Property 'isInpatinetValidDate' does not exist on type 'InpatientAdmissionComponent'.
+
+2025-11-25 11:13:48.509 -06:00 [ERR] 439               if (this.inpatientAdmitDtPriorto365() && this.isInpatinetValidDate()) {
+
+2025-11-25 11:13:48.509 -06:00 [ERR]                                                                 ~~~~~~~~~~~~~~~~~~~~
+
+2025-11-25 11:13:48.510 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:467:22 - error TS2551: Property 'inpatientAdmitDtPriorto365' does not exist on type 'InpatientAdmissionComponent'. Did you mean 'InpatientAdmitDateTo'?
+
+2025-11-25 11:13:48.510 -06:00 [ERR] 467             if (this.inpatientAdmitDtPriorto365() && this.isInpatinetValidDate()) {
+
+2025-11-25 11:13:48.510 -06:00 [ERR]                          ~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+2025-11-25 11:13:48.511 -06:00 [ERR]   src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:61:3
+
+2025-11-25 11:13:48.511 -06:00 [ERR]     61   InpatientAdmitDateTo: Date;
+
+2025-11-25 11:13:48.511 -06:00 [ERR]          ~~~~~~~~~~~~~~~~~~~~
+
+2025-11-25 11:13:48.511 -06:00 [ERR]     'InpatientAdmitDateTo' is declared here.
+
+2025-11-25 11:13:48.512 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:467:59 - error TS2339: Property 'isInpatinetValidDate' does not exist on type 'InpatientAdmissionComponent'.
+
+2025-11-25 11:13:48.513 -06:00 [ERR] 467             if (this.inpatientAdmitDtPriorto365() && this.isInpatinetValidDate()) {
+
+2025-11-25 11:13:48.513 -06:00 [ERR]                                                               ~~~~~~~~~~~~~~~~~~~~
+
+2025-11-25 11:13:48.513 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:486:144 - error TS2339: Property 'isValidDate' does not exist on type 'InpatientAdmissionComponent'.
+
+2025-11-25 11:13:48.513 -06:00 [ERR] 486           if (this.inpatientAdmissionForm.get('HybridDischDt').errors.dateRange.message == "Discharge date should be after admit date" && this.isValidDate()) {
+
+2025-11-25 11:13:48.514 -06:00 [ERR]                                                                                                                                                    ~~~~~~~~~~~
+
+2025-11-25 11:13:48.514 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:490:145 - error TS2339: Property 'isValidDate' does not exist on type 'InpatientAdmissionComponent'.
+
+2025-11-25 11:13:48.514 -06:00 [ERR] 490           else if (this.inpatientAdmissionForm.get('HybridDischDt').errors.dateRange.message == "Hybrid date > 30 days from admin date" && this.isValidDate()) {
+
+2025-11-25 11:13:48.514 -06:00 [ERR]                                                                                                                                                     ~~~~~~~~~~~
+
+2025-11-25 11:13:48.515 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:527:5 - error TS2552: Cannot find name 'onDateSelect'. Did you mean 'onselect'?
+
+2025-11-25 11:13:48.515 -06:00 [ERR] 527     onDateSelect(controls) {
+
+2025-11-25 11:13:48.515 -06:00 [ERR]         ~~~~~~~~~~~~
+
+2025-11-25 11:13:48.515 -06:00 [ERR]   node_modules/typescript/lib/lib.dom.d.ts:28167:13
+
+2025-11-25 11:13:48.515 -06:00 [ERR]     28167 declare var onselect: ((this: Window, ev: Event) => any) | null;
+
+2025-11-25 11:13:48.515 -06:00 [ERR]                       ~~~~~~~~
+
+2025-11-25 11:13:48.515 -06:00 [ERR]     'onselect' is declared here.
+
+2025-11-25 11:13:48.515 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:527:18 - error TS2552: Cannot find name 'controls'. Did you mean 'control'?
+
+2025-11-25 11:13:48.516 -06:00 [ERR] 527     onDateSelect(controls) {
+
+2025-11-25 11:13:48.516 -06:00 [ERR]                      ~~~~~~~~
+
+2025-11-25 11:13:48.516 -06:00 [ERR]   src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:385:25
+
+2025-11-25 11:13:48.516 -06:00 [ERR]     385   setMrpDateBorderStyle(control) {
+
+2025-11-25 11:13:48.516 -06:00 [ERR]                                 ~~~~~~~
+
+2025-11-25 11:13:48.517 -06:00 [ERR]     'control' is declared here.
+
+2025-11-25 11:13:48.517 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:527:28 - error TS1005: ';' expected.
+
+2025-11-25 11:13:48.517 -06:00 [ERR] 527     onDateSelect(controls) {
+
+2025-11-25 11:13:48.517 -06:00 [ERR]                                ~
+
+2025-11-25 11:13:48.517 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:528:11 - error TS2552: Cannot find name 'controls'. Did you mean 'control'?
+
+2025-11-25 11:13:48.517 -06:00 [ERR] 528       if (controls === 'HybridDischDt') {
+
+2025-11-25 11:13:48.517 -06:00 [ERR]               ~~~~~~~~
+
+2025-11-25 11:13:48.518 -06:00 [ERR]   src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:385:25
+
+2025-11-25 11:13:48.518 -06:00 [ERR]     385   setMrpDateBorderStyle(control) {
+
+2025-11-25 11:13:48.518 -06:00 [ERR]                                 ~~~~~~~
+
+2025-11-25 11:13:48.518 -06:00 [ERR]     'control' is declared here.
+
+2025-11-25 11:13:48.518 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:529:80 - error TS2552: Cannot find name 'controls'. Did you mean 'control'?
+
+2025-11-25 11:13:48.518 -06:00 [ERR] 529         this.trcService.GetHybridDischargeDate(this.inpatientAdmissionForm.get(controls));
+
+2025-11-25 11:13:48.518 -06:00 [ERR]                                                                                    ~~~~~~~~
+
+2025-11-25 11:13:48.518 -06:00 [ERR]   src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:385:25
+
+2025-11-25 11:13:48.519 -06:00 [ERR]     385   setMrpDateBorderStyle(control) {
+
+2025-11-25 11:13:48.519 -06:00 [ERR]                                 ~~~~~~~
+
+2025-11-25 11:13:48.519 -06:00 [ERR]     'control' is declared here.
+
+2025-11-25 11:13:48.519 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:532:12 - error TS2339: Property 'onChange' does not exist on type 'InpatientAdmissionComponent'.
+
+2025-11-25 11:13:48.519 -06:00 [ERR] 532       this.onChange();
+
+2025-11-25 11:13:48.519 -06:00 [ERR]                ~~~~~~~~
+
+2025-11-25 11:13:48.519 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:535:5 - error TS2304: Cannot find name 'onDateInput'.
+
+2025-11-25 11:13:48.519 -06:00 [ERR] 535     onDateInput(event) {
+
+2025-11-25 11:13:48.519 -06:00 [ERR]         ~~~~~~~~~~~
+
+2025-11-25 11:13:48.519 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:535:24 - error TS1005: ';' expected.
+
+2025-11-25 11:13:48.519 -06:00 [ERR] 535     onDateInput(event) {
+
+2025-11-25 11:13:48.519 -06:00 [ERR]                            ~
+
+2025-11-25 11:13:48.519 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:538:48 - error TS2339: Property 'name' does not exist on type 'EventTarget'.
+
+2025-11-25 11:13:48.520 -06:00 [ERR] 538         let controlName: string = event.target.name;
+
+2025-11-25 11:13:48.520 -06:00 [ERR]                                                    ~~~~
+
+2025-11-25 11:13:48.520 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:559:16 - error TS2339: Property 'onDateSelect' does not exist on type 'InpatientAdmissionComponent'.
+
+2025-11-25 11:13:48.520 -06:00 [ERR] 559           this.onDateSelect(controlName);
+
+2025-11-25 11:13:48.520 -06:00 [ERR]                    ~~~~~~~~~~~~
+
+2025-11-25 11:13:48.520 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:564:5 - error TS2304: Cannot find name 'onInpatientDateSelect'.
+
+2025-11-25 11:13:48.520 -06:00 [ERR] 564     onInpatientDateSelect() {
+
+2025-11-25 11:13:48.520 -06:00 [ERR]         ~~~~~~~~~~~~~~~~~~~~~
+
+2025-11-25 11:13:48.520 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:564:29 - error TS1005: ';' expected.
+
+2025-11-25 11:13:48.520 -06:00 [ERR] 564     onInpatientDateSelect() {
+
+2025-11-25 11:13:48.520 -06:00 [ERR]                                 ~
+
+2025-11-25 11:13:48.520 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:565:12 - error TS2551: Property 'gethybridCompliance' does not exist on type 'InpatientAdmissionComponent'. Did you mean 'hybridCompliant'?
+
+2025-11-25 11:13:48.521 -06:00 [ERR] 565       this.gethybridCompliance();
+
+2025-11-25 11:13:48.521 -06:00 [ERR]                ~~~~~~~~~~~~~~~~~~~
+
+2025-11-25 11:13:48.521 -06:00 [ERR]   src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:51:3
+
+2025-11-25 11:13:48.521 -06:00 [ERR]     51   hybridCompliant: boolean;
+
+2025-11-25 11:13:48.521 -06:00 [ERR]          ~~~~~~~~~~~~~~~
+
+2025-11-25 11:13:48.521 -06:00 [ERR]     'hybridCompliant' is declared here.
+
+2025-11-25 11:13:48.521 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:568:5 - error TS2304: Cannot find name 'onInpatDateInput'.
+
+2025-11-25 11:13:48.521 -06:00 [ERR] 568     onInpatDateInput(event) {
+
+2025-11-25 11:13:48.521 -06:00 [ERR]         ~~~~~~~~~~~~~~~~
+
+2025-11-25 11:13:48.522 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:568:29 - error TS1005: ';' expected.
+
+2025-11-25 11:13:48.522 -06:00 [ERR] 568     onInpatDateInput(event) {
+
+2025-11-25 11:13:48.522 -06:00 [ERR]                                 ~
+
+2025-11-25 11:13:48.522 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:580:16 - error TS2551: Property 'gethybridCompliance' does not exist on type 'InpatientAdmissionComponent'. Did you mean 'hybridCompliant'?
+
+2025-11-25 11:13:48.522 -06:00 [ERR] 580           this.gethybridCompliance();
+
+2025-11-25 11:13:48.523 -06:00 [ERR]                    ~~~~~~~~~~~~~~~~~~~
+
+2025-11-25 11:13:48.523 -06:00 [ERR]   src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:51:3
+
+2025-11-25 11:13:48.523 -06:00 [ERR]     51   hybridCompliant: boolean;
+
+2025-11-25 11:13:48.524 -06:00 [ERR]          ~~~~~~~~~~~~~~~
+
+2025-11-25 11:13:48.524 -06:00 [ERR]     'hybridCompliant' is declared here.
+
+2025-11-25 11:13:48.524 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:584:14 - error TS2551: Property 'gethybridCompliance' does not exist on type 'InpatientAdmissionComponent'. Did you mean 'hybridCompliant'?
+
+2025-11-25 11:13:48.524 -06:00 [ERR] 584         this.gethybridCompliance();
+
+2025-11-25 11:13:48.524 -06:00 [ERR]                  ~~~~~~~~~~~~~~~~~~~
+
+2025-11-25 11:13:48.524 -06:00 [ERR]   src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:51:3
+
+2025-11-25 11:13:48.524 -06:00 [ERR]     51   hybridCompliant: boolean;
+
+2025-11-25 11:13:48.524 -06:00 [ERR]          ~~~~~~~~~~~~~~~
+
+2025-11-25 11:13:48.524 -06:00 [ERR]     'hybridCompliant' is declared here.
+
+2025-11-25 11:13:48.524 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:587:5 - error TS2304: Cannot find name 'setMultiselectBorderClass'.
+
+2025-11-25 11:13:48.524 -06:00 [ERR] 587     setMultiselectBorderClass() {
+
+2025-11-25 11:13:48.524 -06:00 [ERR]         ~~~~~~~~~~~~~~~~~~~~~~~~~
+
+2025-11-25 11:13:48.525 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:587:33 - error TS1005: ';' expected.
+
+2025-11-25 11:13:48.525 -06:00 [ERR] 587     setMultiselectBorderClass() {
+
+2025-11-25 11:13:48.525 -06:00 [ERR]                                     ~
+
+2025-11-25 11:13:48.525 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:619:5 - error TS2552: Cannot find name 'onChange'. Did you mean 'onchange'?
+
+2025-11-25 11:13:48.525 -06:00 [ERR] 619     onChange() {
+
+2025-11-25 11:13:48.525 -06:00 [ERR]         ~~~~~~~~
+
+2025-11-25 11:13:48.525 -06:00 [ERR]   node_modules/typescript/lib/lib.dom.d.ts:27866:13
+
+2025-11-25 11:13:48.525 -06:00 [ERR]     27866 declare var onchange: ((this: Window, ev: Event) => any) | null;
+
+2025-11-25 11:13:48.525 -06:00 [ERR]                       ~~~~~~~~
+
+2025-11-25 11:13:48.525 -06:00 [ERR]     'onchange' is declared here.
+
+2025-11-25 11:13:48.526 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:619:16 - error TS1005: ';' expected.
+
+2025-11-25 11:13:48.526 -06:00 [ERR] 619     onChange() {
+
+2025-11-25 11:13:48.526 -06:00 [ERR]                    ~
+
+2025-11-25 11:13:48.526 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:622:14 - error TS2339: Property 'setDateRange' does not exist on type 'InpatientAdmissionComponent'.
+
+2025-11-25 11:13:48.526 -06:00 [ERR] 622         this.setDateRange(selEvidences);
+
+2025-11-25 11:13:48.526 -06:00 [ERR]                  ~~~~~~~~~~~~
+
+2025-11-25 11:13:48.526 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:623:14 - error TS2551: Property 'gethybridCompliance' does not exist on type 'InpatientAdmissionComponent'. Did you mean 'hybridCompliant'?
+
+2025-11-25 11:13:48.526 -06:00 [ERR] 623         this.gethybridCompliance();
+
+2025-11-25 11:13:48.526 -06:00 [ERR]                  ~~~~~~~~~~~~~~~~~~~
+
+2025-11-25 11:13:48.526 -06:00 [ERR]   src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:51:3
+
+2025-11-25 11:13:48.526 -06:00 [ERR]     51   hybridCompliant: boolean;
+
+2025-11-25 11:13:48.527 -06:00 [ERR]          ~~~~~~~~~~~~~~~
+
+2025-11-25 11:13:48.527 -06:00 [ERR]     'hybridCompliant' is declared here.
+
+2025-11-25 11:13:48.527 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:625:14 - error TS2339: Property 'setSuppleDateRange' does not exist on type 'InpatientAdmissionComponent'.
+
+2025-11-25 11:13:48.527 -06:00 [ERR] 625         this.setSuppleDateRange();
+
+2025-11-25 11:13:48.527 -06:00 [ERR]                  ~~~~~~~~~~~~~~~~~~
+
+2025-11-25 11:13:48.527 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:626:14 - error TS2551: Property 'gethybridCompliance' does not exist on type 'InpatientAdmissionComponent'. Did you mean 'hybridCompliant'?
+
+2025-11-25 11:13:48.527 -06:00 [ERR] 626         this.gethybridCompliance();
+
+2025-11-25 11:13:48.527 -06:00 [ERR]                  ~~~~~~~~~~~~~~~~~~~
+
+2025-11-25 11:13:48.527 -06:00 [ERR]   src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:51:3
+
+2025-11-25 11:13:48.527 -06:00 [ERR]     51   hybridCompliant: boolean;
+
+2025-11-25 11:13:48.527 -06:00 [ERR]          ~~~~~~~~~~~~~~~
+
+2025-11-25 11:13:48.527 -06:00 [ERR]     'hybridCompliant' is declared here.
+
+2025-11-25 11:13:48.527 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:629:5 - error TS2304: Cannot find name 'isAdmitDt30DaysApart'.
+
+2025-11-25 11:13:48.527 -06:00 [ERR] 629     isAdmitDt30DaysApart(): boolean {
+
+2025-11-25 11:13:48.528 -06:00 [ERR]         ~~~~~~~~~~~~~~~~~~~~
+
+2025-11-25 11:13:48.528 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:629:27 - error TS1005: ';' expected.
+
+2025-11-25 11:13:48.528 -06:00 [ERR] 629     isAdmitDt30DaysApart(): boolean {
+
+2025-11-25 11:13:48.528 -06:00 [ERR]                               ~
+
+2025-11-25 11:13:48.528 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:629:29 - error TS1434: Unexpected keyword or identifier.
+
+2025-11-25 11:13:48.528 -06:00 [ERR] 629     isAdmitDt30DaysApart(): boolean {
+
+2025-11-25 11:13:48.528 -06:00 [ERR]                                 ~~~~~~~
+
+2025-11-25 11:13:48.528 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:629:29 - error TS2693: 'boolean' only refers to a type, but is being used as a value here.
+
+2025-11-25 11:13:48.528 -06:00 [ERR] 629     isAdmitDt30DaysApart(): boolean {
+
+2025-11-25 11:13:48.528 -06:00 [ERR]                                 ~~~~~~~
+
+2025-11-25 11:13:48.528 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:637:5 - error TS2304: Cannot find name 'isDischargeDt30DaysApart'.
+
+2025-11-25 11:13:48.528 -06:00 [ERR] 637     isDischargeDt30DaysApart(): boolean {
+
+2025-11-25 11:13:48.528 -06:00 [ERR]         ~~~~~~~~~~~~~~~~~~~~~~~~
+
+2025-11-25 11:13:48.529 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:637:31 - error TS1005: ';' expected.
+
+2025-11-25 11:13:48.529 -06:00 [ERR] 637     isDischargeDt30DaysApart(): boolean {
+
+2025-11-25 11:13:48.529 -06:00 [ERR]                                   ~
+
+2025-11-25 11:13:48.529 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:637:33 - error TS1434: Unexpected keyword or identifier.
+
+2025-11-25 11:13:48.529 -06:00 [ERR] 637     isDischargeDt30DaysApart(): boolean {
+
+2025-11-25 11:13:48.529 -06:00 [ERR]                                     ~~~~~~~
+
+2025-11-25 11:13:48.529 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:637:33 - error TS2693: 'boolean' only refers to a type, but is being used as a value here.
+
+2025-11-25 11:13:48.529 -06:00 [ERR] 637     isDischargeDt30DaysApart(): boolean {
+
+2025-11-25 11:13:48.529 -06:00 [ERR]                                     ~~~~~~~
+
+2025-11-25 11:13:48.529 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:645:5 - error TS2304: Cannot find name 'isAdmiDtValid'.
+
+2025-11-25 11:13:48.530 -06:00 [ERR] 645     isAdmiDtValid(): boolean {
+
+2025-11-25 11:13:48.530 -06:00 [ERR]         ~~~~~~~~~~~~~
+
+2025-11-25 11:13:48.530 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:645:20 - error TS1005: ';' expected.
+
+2025-11-25 11:13:48.530 -06:00 [ERR] 645     isAdmiDtValid(): boolean {
+
+2025-11-25 11:13:48.530 -06:00 [ERR]                        ~
+
+2025-11-25 11:13:48.530 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:645:22 - error TS1434: Unexpected keyword or identifier.
+
+2025-11-25 11:13:48.530 -06:00 [ERR] 645     isAdmiDtValid(): boolean {
+
+2025-11-25 11:13:48.530 -06:00 [ERR]                          ~~~~~~~
+
+2025-11-25 11:13:48.531 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:645:22 - error TS2693: 'boolean' only refers to a type, but is being used as a value here.
+
+2025-11-25 11:13:48.532 -06:00 [ERR] 645     isAdmiDtValid(): boolean {
+
+2025-11-25 11:13:48.533 -06:00 [ERR]                          ~~~~~~~
+
+2025-11-25 11:13:48.533 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:664:5 - error TS2304: Cannot find name 'setDateRange'.
+
+2025-11-25 11:13:48.533 -06:00 [ERR] 664     setDateRange(slectedEvidence: string) {
+
+2025-11-25 11:13:48.533 -06:00 [ERR]         ~~~~~~~~~~~~
+
+2025-11-25 11:13:48.533 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:664:18 - error TS2304: Cannot find name 'slectedEvidence'.
+
+2025-11-25 11:13:48.533 -06:00 [ERR] 664     setDateRange(slectedEvidence: string) {
+
+2025-11-25 11:13:48.533 -06:00 [ERR]                      ~~~~~~~~~~~~~~~
+
+2025-11-25 11:13:48.533 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:664:33 - error TS1005: ',' expected.
+
+2025-11-25 11:13:48.533 -06:00 [ERR] 664     setDateRange(slectedEvidence: string) {
+
+2025-11-25 11:13:48.533 -06:00 [ERR]                                     ~
+
+2025-11-25 11:13:48.534 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:664:35 - error TS2693: 'string' only refers to a type, but is being used as a value here.
+
+2025-11-25 11:13:48.534 -06:00 [ERR] 664     setDateRange(slectedEvidence: string) {
+
+2025-11-25 11:13:48.534 -06:00 [ERR]                                       ~~~~~~
+
+2025-11-25 11:13:48.534 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:664:43 - error TS1005: ';' expected.
+
+2025-11-25 11:13:48.534 -06:00 [ERR] 664     setDateRange(slectedEvidence: string) {
+
+2025-11-25 11:13:48.534 -06:00 [ERR]                                               ~
+
+2025-11-25 11:13:48.534 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:665:35 - error TS2304: Cannot find name 'slectedEvidence'.
+
+2025-11-25 11:13:48.534 -06:00 [ERR] 665       if (this.optionArr.includes(slectedEvidence)) {
+
+2025-11-25 11:13:48.535 -06:00 [ERR]                                       ~~~~~~~~~~~~~~~
+
+2025-11-25 11:13:48.535 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:666:44 - error TS2339: Property 'getAdmitDateForCalculation' does not exist on type 'InpatientAdmissionComponent'.
+
+2025-11-25 11:13:48.536 -06:00 [ERR] 666         this.InpatientAdmitDateFrom = this.getAdmitDateForCalculation();
+
+2025-11-25 11:13:48.536 -06:00 [ERR]                                                ~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+2025-11-25 11:13:48.536 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:669:11 - error TS2304: Cannot find name 'slectedEvidence'.
+
+2025-11-25 11:13:48.536 -06:00 [ERR] 669       if (slectedEvidence == "9") {
+
+2025-11-25 11:13:48.536 -06:00 [ERR]               ~~~~~~~~~~~~~~~
+
+2025-11-25 11:13:48.536 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:671:60 - error TS2339: Property 'getAdmitDateForCalculation' does not exist on type 'InpatientAdmissionComponent'.
+
+2025-11-25 11:13:48.537 -06:00 [ERR] 671         this.InpatientAdmitDateTo = new Date(new Date(this.getAdmitDateForCalculation()).setDate(new Date(this.getAdmitDateForCalculation()).getDate() + 2));
+
+2025-11-25 11:13:48.537 -06:00 [ERR]                                                                ~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+2025-11-25 11:13:48.537 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:671:112 - error TS2339: Property 'getAdmitDateForCalculation' does not exist on type 'InpatientAdmissionComponent'.
+
+2025-11-25 11:13:48.537 -06:00 [ERR] 671         this.InpatientAdmitDateTo = new Date(new Date(this.getAdmitDateForCalculation()).setDate(new Date(this.getAdmitDateForCalculation()).getDate() + 2));
+
+2025-11-25 11:13:48.537 -06:00 [ERR]                                                                                                                    ~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+2025-11-25 11:13:48.537 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:673:11 - error TS2304: Cannot find name 'slectedEvidence'.
+
+2025-11-25 11:13:48.537 -06:00 [ERR] 673       if (slectedEvidence == "8") {
+
+2025-11-25 11:13:48.537 -06:00 [ERR]               ~~~~~~~~~~~~~~~
+
+2025-11-25 11:13:48.537 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:674:44 - error TS2339: Property 'getAdmitDateForCalculation' does not exist on type 'InpatientAdmissionComponent'.
+
+2025-11-25 11:13:48.537 -06:00 [ERR] 674         this.InpatientAdmitDateFrom = this.getAdmitDateForCalculation();
+
+2025-11-25 11:13:48.537 -06:00 [ERR]                                                ~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+2025-11-25 11:13:48.539 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:675:42 - error TS2339: Property 'getDischargeDateForCalculation' does not exist on type 'InpatientAdmissionComponent'.
+
+2025-11-25 11:13:48.539 -06:00 [ERR] 675         this.InpatientAdmitDateTo = this.getDischargeDateForCalculation();
+
+2025-11-25 11:13:48.539 -06:00 [ERR]                                              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+2025-11-25 11:13:48.539 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:677:11 - error TS2304: Cannot find name 'slectedEvidence'.
+
+2025-11-25 11:13:48.539 -06:00 [ERR] 677       if (slectedEvidence == "7") {
+
+2025-11-25 11:13:48.540 -06:00 [ERR]               ~~~~~~~~~~~~~~~
+
+2025-11-25 11:13:48.540 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:678:148 - error TS2339: Property 'getAdmitDateForCalculation' does not exist on type 'InpatientAdmissionComponent'.
+
+2025-11-25 11:13:48.540 -06:00 [ERR] 678         this.inpatientAdmissionForm.get('InpatientAdmitDt').setValidators(CustomValidators.trcInpatientDateValidationAnd365DaysRuleValidation(this.getAdmitDateForCalculation(), this.InpatientAdmitDateFrom, this.InpatientAdmitDateTo));
+
+2025-11-25 11:13:48.540 -06:00 [ERR]                                                                                                                                                        ~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+2025-11-25 11:13:48.540 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:685:5 - error TS2304: Cannot find name 'gethybridCompliance'.
+
+2025-11-25 11:13:48.540 -06:00 [ERR] 685     gethybridCompliance() {
+
+2025-11-25 11:13:48.540 -06:00 [ERR]         ~~~~~~~~~~~~~~~~~~~
+
+2025-11-25 11:13:48.540 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:685:27 - error TS1005: ';' expected.
+
+2025-11-25 11:13:48.540 -06:00 [ERR] 685     gethybridCompliance() {
+
+2025-11-25 11:13:48.540 -06:00 [ERR]                               ~
+
+2025-11-25 11:13:48.540 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:760:5 - error TS2304: Cannot find name 'getAdmitDateForCalculation'.
+
+2025-11-25 11:13:48.540 -06:00 [ERR] 760     getAdmitDateForCalculation() {
+
+2025-11-25 11:13:48.540 -06:00 [ERR]         ~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+2025-11-25 11:13:48.540 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:760:34 - error TS1005: ';' expected.
+
+2025-11-25 11:13:48.542 -06:00 [ERR] 760     getAdmitDateForCalculation() {
+
+2025-11-25 11:13:48.542 -06:00 [ERR]                                      ~
+
+2025-11-25 11:13:48.542 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:770:5 - error TS2304: Cannot find name 'getDischargeDateForCalculation1'.
+
+2025-11-25 11:13:48.542 -06:00 [ERR] 770     getDischargeDateForCalculation1() {
+
+2025-11-25 11:13:48.542 -06:00 [ERR]         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+2025-11-25 11:13:48.542 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:770:39 - error TS1005: ';' expected.
+
+2025-11-25 11:13:48.542 -06:00 [ERR] 770     getDischargeDateForCalculation1() {
+
+2025-11-25 11:13:48.543 -06:00 [ERR]                                           ~
+
+2025-11-25 11:13:48.543 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:782:5 - error TS2304: Cannot find name 'getDischargeDateForCalculation'.
+
+2025-11-25 11:13:48.544 -06:00 [ERR] 782     getDischargeDateForCalculation() {
+
+2025-11-25 11:13:48.544 -06:00 [ERR]         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+2025-11-25 11:13:48.544 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:782:38 - error TS1005: ';' expected.
+
+2025-11-25 11:13:48.544 -06:00 [ERR] 782     getDischargeDateForCalculation() {
+
+2025-11-25 11:13:48.544 -06:00 [ERR]                                          ~
+
+2025-11-25 11:13:48.544 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:806:5 - error TS2304: Cannot find name 'getDischargeDateForAdmitDtValidation'.
+
+2025-11-25 11:13:48.545 -06:00 [ERR] 806     getDischargeDateForAdmitDtValidation() {
+
+2025-11-25 11:13:48.545 -06:00 [ERR]         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+2025-11-25 11:13:48.545 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:806:44 - error TS1005: ';' expected.
+
+2025-11-25 11:13:48.545 -06:00 [ERR] 806     getDischargeDateForAdmitDtValidation() {
+
+2025-11-25 11:13:48.545 -06:00 [ERR]                                                ~
+
+2025-11-25 11:13:48.545 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:808:74 - error TS2339: Property 'isValidDate' does not exist on type 'InpatientAdmissionComponent'.
+
+2025-11-25 11:13:48.545 -06:00 [ERR] 808       if (this.inpatientAdmissionForm.get('HybridDischDt').value && this.isValidDate()) {
+
+2025-11-25 11:13:48.545 -06:00 [ERR]                                                                              ~~~~~~~~~~~
+
+2025-11-25 11:13:48.545 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:816:5 - error TS2304: Cannot find name 'setTRCAdmitDischargeDateValidation'.
+
+2025-11-25 11:13:48.545 -06:00 [ERR] 816     setTRCAdmitDischargeDateValidation() {
+
+2025-11-25 11:13:48.545 -06:00 [ERR]         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+2025-11-25 11:13:48.545 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:816:42 - error TS1005: ';' expected.
+
+2025-11-25 11:13:48.545 -06:00 [ERR] 816     setTRCAdmitDischargeDateValidation() {
+
+2025-11-25 11:13:48.545 -06:00 [ERR]                                              ~
+
+2025-11-25 11:13:48.546 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:820:118 - error TS2339: Property 'getDischargeDateForAdmitDtValidation' does not exist on type 'InpatientAdmissionComponent'.
+
+2025-11-25 11:13:48.546 -06:00 [ERR] 820           CustomValidators.trc_30DaysRuleValidation(new Date(this.inpatientAdmissionForm.get('AdmitDt').value), this.getDischargeDateForAdmitDtValidation()),
+
+2025-11-25 11:13:48.546 -06:00 [ERR]                                                                                                                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+2025-11-25 11:13:48.546 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:825:127 - error TS2339: Property 'getAdmitDateForCalculation' does not exist on type 'InpatientAdmissionComponent'.
+
+2025-11-25 11:13:48.547 -06:00 [ERR] 825           CustomValidators.trc_30DaysRuleValidationDischDate(new Date(this.inpatientAdmissionForm.get('DischDt').value), this.getAdmitDateForCalculation())
+
+2025-11-25 11:13:48.547 -06:00 [ERR]                                                                                                                                   ~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+2025-11-25 11:13:48.548 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:835:5 - error TS2304: Cannot find name 'isValidDate'.
+
+2025-11-25 11:13:48.548 -06:00 [ERR] 835     isValidDate(): boolean {
+
+2025-11-25 11:13:48.548 -06:00 [ERR]         ~~~~~~~~~~~
+
+2025-11-25 11:13:48.548 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:835:18 - error TS1005: ';' expected.
+
+2025-11-25 11:13:48.548 -06:00 [ERR] 835     isValidDate(): boolean {
+
+2025-11-25 11:13:48.549 -06:00 [ERR]                      ~
+
+2025-11-25 11:13:48.549 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:835:20 - error TS1434: Unexpected keyword or identifier.
+
+2025-11-25 11:13:48.549 -06:00 [ERR] 835     isValidDate(): boolean {
+
+2025-11-25 11:13:48.549 -06:00 [ERR]                        ~~~~~~~
+
+2025-11-25 11:13:48.549 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:835:20 - error TS2693: 'boolean' only refers to a type, but is being used as a value here.
+
+2025-11-25 11:13:48.549 -06:00 [ERR] 835     isValidDate(): boolean {
+
+2025-11-25 11:13:48.549 -06:00 [ERR]                        ~~~~~~~
+
+2025-11-25 11:13:48.549 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:842:5 - error TS2304: Cannot find name 'isInpatinetValidDate'.
+
+2025-11-25 11:13:48.549 -06:00 [ERR] 842     isInpatinetValidDate(): boolean {
+
+2025-11-25 11:13:48.549 -06:00 [ERR]         ~~~~~~~~~~~~~~~~~~~~
+
+2025-11-25 11:13:48.549 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:842:27 - error TS1005: ';' expected.
+
+2025-11-25 11:13:48.549 -06:00 [ERR] 842     isInpatinetValidDate(): boolean {
+
+2025-11-25 11:13:48.549 -06:00 [ERR]                               ~
+
+2025-11-25 11:13:48.549 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:842:29 - error TS1434: Unexpected keyword or identifier.
+
+2025-11-25 11:13:48.550 -06:00 [ERR] 842     isInpatinetValidDate(): boolean {
+
+2025-11-25 11:13:48.551 -06:00 [ERR]                                 ~~~~~~~
+
+2025-11-25 11:13:48.551 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:842:29 - error TS2693: 'boolean' only refers to a type, but is being used as a value here.
+
+2025-11-25 11:13:48.551 -06:00 [ERR] 842     isInpatinetValidDate(): boolean {
+
+2025-11-25 11:13:48.551 -06:00 [ERR]                                 ~~~~~~~
+
+2025-11-25 11:13:48.551 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:849:5 - error TS2304: Cannot find name 'inpatientAdmitDtPriorto365'.
+
+2025-11-25 11:13:48.551 -06:00 [ERR] 849     inpatientAdmitDtPriorto365(): boolean {
+
+2025-11-25 11:13:48.551 -06:00 [ERR]         ~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+2025-11-25 11:13:48.551 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:849:33 - error TS1005: ';' expected.
+
+2025-11-25 11:13:48.551 -06:00 [ERR] 849     inpatientAdmitDtPriorto365(): boolean {
+
+2025-11-25 11:13:48.551 -06:00 [ERR]                                     ~
+
+2025-11-25 11:13:48.551 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:849:35 - error TS1434: Unexpected keyword or identifier.
+
+2025-11-25 11:13:48.551 -06:00 [ERR] 849     inpatientAdmitDtPriorto365(): boolean {
+
+2025-11-25 11:13:48.552 -06:00 [ERR]                                       ~~~~~~~
+
+2025-11-25 11:13:48.552 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:849:35 - error TS2693: 'boolean' only refers to a type, but is being used as a value here.
+
+2025-11-25 11:13:48.552 -06:00 [ERR] 849     inpatientAdmitDtPriorto365(): boolean {
+
+2025-11-25 11:13:48.552 -06:00 [ERR]                                       ~~~~~~~
+
+2025-11-25 11:13:48.552 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:864:5 - error TS2304: Cannot find name 'isAdmitDatePriorToDischargeDate'.
+
+2025-11-25 11:13:48.552 -06:00 [ERR] 864     isAdmitDatePriorToDischargeDate() {
+
+2025-11-25 11:13:48.552 -06:00 [ERR]         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+2025-11-25 11:13:48.552 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:864:39 - error TS1005: ';' expected.
+
+2025-11-25 11:13:48.553 -06:00 [ERR] 864     isAdmitDatePriorToDischargeDate() {
+
+2025-11-25 11:13:48.554 -06:00 [ERR]                                           ~
+
+2025-11-25 11:13:48.554 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:878:5 - error TS2304: Cannot find name 'setAdminReconciliationStyle'.
+
+2025-11-25 11:13:48.554 -06:00 [ERR] 878     setAdminReconciliationStyle() {
+
+2025-11-25 11:13:48.554 -06:00 [ERR]         ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+2025-11-25 11:13:48.554 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:878:35 - error TS1005: ';' expected.
+
+2025-11-25 11:13:48.554 -06:00 [ERR] 878     setAdminReconciliationStyle() {
+
+2025-11-25 11:13:48.554 -06:00 [ERR]                                       ~
+
+2025-11-25 11:13:48.554 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:892:5 - error TS2304: Cannot find name 'setSuppleDateRange'.
+
+2025-11-25 11:13:48.554 -06:00 [ERR] 892     setSuppleDateRange() {
+
+2025-11-25 11:13:48.555 -06:00 [ERR]         ~~~~~~~~~~~~~~~~~~
+
+2025-11-25 11:13:48.555 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:892:26 - error TS1005: ';' expected.
+
+2025-11-25 11:13:48.555 -06:00 [ERR] 892     setSuppleDateRange() {
+
+2025-11-25 11:13:48.555 -06:00 [ERR]                              ~
+
+2025-11-25 11:13:48.555 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:893:42 - error TS2339: Property 'getAdmitDateForCalculation' does not exist on type 'InpatientAdmissionComponent'.
+
+2025-11-25 11:13:48.555 -06:00 [ERR] 893       this.InpatientAdmitDateFrom = this.getAdmitDateForCalculation();;
+
+2025-11-25 11:13:48.555 -06:00 [ERR]                                              ~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+2025-11-25 11:13:48.555 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:894:40 - error TS2551: Property 'getInpatientAdmitDateTo' does not exist on type 'InpatientAdmissionComponent'. Did you mean 'InpatientAdmitDateTo'?
+
+2025-11-25 11:13:48.555 -06:00 [ERR] 894       this.InpatientAdmitDateTo = this.getInpatientAdmitDateTo();// new Date(new Date(this.InpatientAdmitDateFrom).setDate(new Date(this.InpatientAdmitDateFrom).getDate() + 2));
+
+2025-11-25 11:13:48.556 -06:00 [ERR]                                            ~~~~~~~~~~~~~~~~~~~~~~~
+
+2025-11-25 11:13:48.557 -06:00 [ERR]   src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:61:3
+
+2025-11-25 11:13:48.557 -06:00 [ERR]     61   InpatientAdmitDateTo: Date;
+
+2025-11-25 11:13:48.557 -06:00 [ERR]          ~~~~~~~~~~~~~~~~~~~~
+
+2025-11-25 11:13:48.557 -06:00 [ERR]     'InpatientAdmitDateTo' is declared here.
+
+2025-11-25 11:13:48.557 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:896:5 - error TS2304: Cannot find name 'getInpatientAdmitDateTo'.
+
+2025-11-25 11:13:48.557 -06:00 [ERR] 896     getInpatientAdmitDateTo() {
+
+2025-11-25 11:13:48.557 -06:00 [ERR]         ~~~~~~~~~~~~~~~~~~~~~~~
+
+2025-11-25 11:13:48.557 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:896:31 - error TS1005: ';' expected.
+
+2025-11-25 11:13:48.557 -06:00 [ERR] 896     getInpatientAdmitDateTo() {
+
+2025-11-25 11:13:48.557 -06:00 [ERR]                                   ~
+
+2025-11-25 11:13:48.557 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:924:1 - error TS1005: '}' expected.
+
+2025-11-25 11:13:48.557 -06:00 [ERR] 924 
+
+2025-11-25 11:13:48.557 -06:00 [ERR]     
+
+2025-11-25 11:13:48.557 -06:00 [ERR] 
+
+2025-11-25 11:14:02.748 -06:00 [ERR] ΓêÜ Browser application bundle generation complete.
+
+2025-11-25 11:14:02.782 -06:00 [ERR] 
+
+2025-11-25 11:14:02.782 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:114:10 - error TS2339: Property 'setTRCAdmitDischargeDateValidation' does not exist on type 'InpatientAdmissionComponent'.
+
+2025-11-25 11:14:02.783 -06:00 [ERR] 114     this.setTRCAdmitDischargeDateValidation();
+
+2025-11-25 11:14:02.783 -06:00 [ERR]              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+2025-11-25 11:14:02.783 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:121:10 - error TS2551: Property 'gethybridCompliance' does not exist on type 'InpatientAdmissionComponent'. Did you mean 'hybridCompliant'?
+
+2025-11-25 11:14:02.783 -06:00 [ERR] 121     this.gethybridCompliance();
+
+2025-11-25 11:14:02.783 -06:00 [ERR]              ~~~~~~~~~~~~~~~~~~~
+
+2025-11-25 11:14:02.783 -06:00 [ERR]   src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:51:3
+
+2025-11-25 11:14:02.783 -06:00 [ERR]     51   hybridCompliant: boolean;
+
+2025-11-25 11:14:02.783 -06:00 [ERR]          ~~~~~~~~~~~~~~~
+
+2025-11-25 11:14:02.783 -06:00 [ERR]     'hybridCompliant' is declared here.
+
+2025-11-25 11:14:02.783 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:186:16 - error TS2339: Property 'onDateSelect' does not exist on type 'InpatientAdmissionComponent'.
+
+2025-11-25 11:14:02.783 -06:00 [ERR] 186           this.onDateSelect('HybridDischDt');
+
+2025-11-25 11:14:02.783 -06:00 [ERR]                    ~~~~~~~~~~~~
+
+2025-11-25 11:14:02.783 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:190:16 - error TS2339: Property 'onDateSelect' does not exist on type 'InpatientAdmissionComponent'.
+
+2025-11-25 11:14:02.783 -06:00 [ERR] 190           this.onDateSelect('HybridAdmitDt');
+
+2025-11-25 11:14:02.783 -06:00 [ERR]                    ~~~~~~~~~~~~
+
+2025-11-25 11:14:02.783 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:196:17 - error TS2339: Property 'isValidDate' does not exist on type 'InpatientAdmissionComponent'.
+
+2025-11-25 11:14:02.783 -06:00 [ERR] 196       if (!this.isValidDate()) {
+
+2025-11-25 11:14:02.783 -06:00 [ERR]                     ~~~~~~~~~~~
+
+2025-11-25 11:14:02.784 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:282:14 - error TS2551: Property 'gethybridCompliance' does not exist on type 'InpatientAdmissionComponent'. Did you mean 'hybridCompliant'?
+
+2025-11-25 11:14:02.784 -06:00 [ERR] 282         this.gethybridCompliance();
+
+2025-11-25 11:14:02.784 -06:00 [ERR]                  ~~~~~~~~~~~~~~~~~~~
+
+2025-11-25 11:14:02.784 -06:00 [ERR]   src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:51:3
+
+2025-11-25 11:14:02.784 -06:00 [ERR]     51   hybridCompliant: boolean;
+
+2025-11-25 11:14:02.784 -06:00 [ERR]          ~~~~~~~~~~~~~~~
+
+2025-11-25 11:14:02.784 -06:00 [ERR]     'hybridCompliant' is declared here.
+
+2025-11-25 11:14:02.784 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:283:14 - error TS2339: Property 'onDateSelect' does not exist on type 'InpatientAdmissionComponent'.
+
+2025-11-25 11:14:02.784 -06:00 [ERR] 283         this.onDateSelect('HybridDischDt');
+
+2025-11-25 11:14:02.784 -06:00 [ERR]                  ~~~~~~~~~~~~
+
+2025-11-25 11:14:02.784 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:313:10 - error TS2339: Property 'setTRCAdmitDischargeDateValidation' does not exist on type 'InpatientAdmissionComponent'.
+
+2025-11-25 11:14:02.784 -06:00 [ERR] 313     this.setTRCAdmitDischargeDateValidation();
+
+2025-11-25 11:14:02.784 -06:00 [ERR]              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+2025-11-25 11:14:02.784 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:324:52 - error TS2339: Property 'getDischargeDateForCalculation' does not exist on type 'InpatientAdmissionComponent'.
+
+2025-11-25 11:14:02.784 -06:00 [ERR] 324         this.trcService.GetValidDischargeDate(this.getDischargeDateForCalculation());
+
+2025-11-25 11:14:02.784 -06:00 [ERR]                                                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+2025-11-25 11:14:02.784 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:338:12 - error TS2339: Property 'setDateRange' does not exist on type 'InpatientAdmissionComponent'.
+
+2025-11-25 11:14:02.784 -06:00 [ERR] 338       this.setDateRange(this.selectedEvidences);
+
+2025-11-25 11:14:02.784 -06:00 [ERR]                ~~~~~~~~~~~~
+
+2025-11-25 11:14:02.784 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:340:12 - error TS2339: Property 'setSuppleDateRange' does not exist on type 'InpatientAdmissionComponent'.
+
+2025-11-25 11:14:02.784 -06:00 [ERR] 340       this.setSuppleDateRange();
+
+2025-11-25 11:14:02.784 -06:00 [ERR]                ~~~~~~~~~~~~~~~~~~
+
+2025-11-25 11:14:02.784 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:386:10 - error TS2339: Property 'setTRCAdmitDischargeDateValidation' does not exist on type 'InpatientAdmissionComponent'.
+
+2025-11-25 11:14:02.784 -06:00 [ERR] 386     this.setTRCAdmitDischargeDateValidation();
+
+2025-11-25 11:14:02.784 -06:00 [ERR]              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+2025-11-25 11:14:02.784 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:387:48 - error TS2339: Property 'getDischargeDateForCalculation' does not exist on type 'InpatientAdmissionComponent'.
+
+2025-11-25 11:14:02.785 -06:00 [ERR] 387     this.trcService.GetValidDischargeDate(this.getDischargeDateForCalculation());
+
+2025-11-25 11:14:02.785 -06:00 [ERR]                                                    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+2025-11-25 11:14:02.785 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:389:10 - error TS2339: Property 'onChange' does not exist on type 'InpatientAdmissionComponent'.
+
+2025-11-25 11:14:02.785 -06:00 [ERR] 389     this.onChange();
+
+2025-11-25 11:14:02.785 -06:00 [ERR]              ~~~~~~~~
+
+2025-11-25 11:14:02.785 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:439:24 - error TS2551: Property 'inpatientAdmitDtPriorto365' does not exist on type 'InpatientAdmissionComponent'. Did you mean 'InpatientAdmitDateTo'?
+
+2025-11-25 11:14:02.785 -06:00 [ERR] 439               if (this.inpatientAdmitDtPriorto365() && this.isInpatinetValidDate()) {
+
+2025-11-25 11:14:02.785 -06:00 [ERR]                            ~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+2025-11-25 11:14:02.785 -06:00 [ERR]   src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:61:3
+
+2025-11-25 11:14:02.785 -06:00 [ERR]     61   InpatientAdmitDateTo: Date;
+
+2025-11-25 11:14:02.785 -06:00 [ERR]          ~~~~~~~~~~~~~~~~~~~~
+
+2025-11-25 11:14:02.785 -06:00 [ERR]     'InpatientAdmitDateTo' is declared here.
+
+2025-11-25 11:14:02.786 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:439:61 - error TS2339: Property 'isInpatinetValidDate' does not exist on type 'InpatientAdmissionComponent'.
+
+2025-11-25 11:14:02.786 -06:00 [ERR] 439               if (this.inpatientAdmitDtPriorto365() && this.isInpatinetValidDate()) {
+
+2025-11-25 11:14:02.786 -06:00 [ERR]                                                                 ~~~~~~~~~~~~~~~~~~~~
+
+2025-11-25 11:14:02.786 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:467:22 - error TS2551: Property 'inpatientAdmitDtPriorto365' does not exist on type 'InpatientAdmissionComponent'. Did you mean 'InpatientAdmitDateTo'?
+
+2025-11-25 11:14:02.786 -06:00 [ERR] 467             if (this.inpatientAdmitDtPriorto365() && this.isInpatinetValidDate()) {
+
+2025-11-25 11:14:02.786 -06:00 [ERR]                          ~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+2025-11-25 11:14:02.786 -06:00 [ERR]   src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:61:3
+
+2025-11-25 11:14:02.786 -06:00 [ERR]     61   InpatientAdmitDateTo: Date;
+
+2025-11-25 11:14:02.786 -06:00 [ERR]          ~~~~~~~~~~~~~~~~~~~~
+
+2025-11-25 11:14:02.786 -06:00 [ERR]     'InpatientAdmitDateTo' is declared here.
+
+2025-11-25 11:14:02.788 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:467:59 - error TS2339: Property 'isInpatinetValidDate' does not exist on type 'InpatientAdmissionComponent'.
+
+2025-11-25 11:14:02.788 -06:00 [ERR] 467             if (this.inpatientAdmitDtPriorto365() && this.isInpatinetValidDate()) {
+
+2025-11-25 11:14:02.788 -06:00 [ERR]                                                               ~~~~~~~~~~~~~~~~~~~~
+
+2025-11-25 11:14:02.789 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:486:144 - error TS2339: Property 'isValidDate' does not exist on type 'InpatientAdmissionComponent'.
+
+2025-11-25 11:14:02.789 -06:00 [ERR] 486           if (this.inpatientAdmissionForm.get('HybridDischDt').errors.dateRange.message == "Discharge date should be after admit date" && this.isValidDate()) {
+
+2025-11-25 11:14:02.789 -06:00 [ERR]                                                                                                                                                    ~~~~~~~~~~~
+
+2025-11-25 11:14:02.789 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:490:145 - error TS2339: Property 'isValidDate' does not exist on type 'InpatientAdmissionComponent'.
+
+2025-11-25 11:14:02.789 -06:00 [ERR] 490           else if (this.inpatientAdmissionForm.get('HybridDischDt').errors.dateRange.message == "Hybrid date > 30 days from admin date" && this.isValidDate()) {
+
+2025-11-25 11:14:02.789 -06:00 [ERR]                                                                                                                                                     ~~~~~~~~~~~
+
+2025-11-25 11:14:02.790 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:527:5 - error TS2552: Cannot find name 'onDateSelect'. Did you mean 'onselect'?
+
+2025-11-25 11:14:02.790 -06:00 [ERR] 527     onDateSelect(controls) {
+
+2025-11-25 11:14:02.790 -06:00 [ERR]         ~~~~~~~~~~~~
+
+2025-11-25 11:14:02.790 -06:00 [ERR]   node_modules/typescript/lib/lib.dom.d.ts:28167:13
+
+2025-11-25 11:14:02.790 -06:00 [ERR]     28167 declare var onselect: ((this: Window, ev: Event) => any) | null;
+
+2025-11-25 11:14:02.790 -06:00 [ERR]                       ~~~~~~~~
+
+2025-11-25 11:14:02.790 -06:00 [ERR]     'onselect' is declared here.
+
+2025-11-25 11:14:02.790 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:527:18 - error TS2552: Cannot find name 'controls'. Did you mean 'control'?
+
+2025-11-25 11:14:02.790 -06:00 [ERR] 527     onDateSelect(controls) {
+
+2025-11-25 11:14:02.790 -06:00 [ERR]                      ~~~~~~~~
+
+2025-11-25 11:14:02.790 -06:00 [ERR]   src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:385:25
+
+2025-11-25 11:14:02.790 -06:00 [ERR]     385   setMrpDateBorderStyle(control) {
+
+2025-11-25 11:14:02.790 -06:00 [ERR]                                 ~~~~~~~
+
+2025-11-25 11:14:02.793 -06:00 [ERR]     'control' is declared here.
+
+2025-11-25 11:14:02.793 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:527:28 - error TS1005: ';' expected.
+
+2025-11-25 11:14:02.793 -06:00 [ERR] 527     onDateSelect(controls) {
+
+2025-11-25 11:14:02.793 -06:00 [ERR]                                ~
+
+2025-11-25 11:14:02.793 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:528:11 - error TS2552: Cannot find name 'controls'. Did you mean 'control'?
+
+2025-11-25 11:14:02.793 -06:00 [ERR] 528       if (controls === 'HybridDischDt') {
+
+2025-11-25 11:14:02.793 -06:00 [ERR]               ~~~~~~~~
+
+2025-11-25 11:14:02.793 -06:00 [ERR]   src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:385:25
+
+2025-11-25 11:14:02.793 -06:00 [ERR]     385   setMrpDateBorderStyle(control) {
+
+2025-11-25 11:14:02.793 -06:00 [ERR]                                 ~~~~~~~
+
+2025-11-25 11:14:02.793 -06:00 [ERR]     'control' is declared here.
+
+2025-11-25 11:14:02.793 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:529:80 - error TS2552: Cannot find name 'controls'. Did you mean 'control'?
+
+2025-11-25 11:14:02.793 -06:00 [ERR] 529         this.trcService.GetHybridDischargeDate(this.inpatientAdmissionForm.get(controls));
+
+2025-11-25 11:14:02.793 -06:00 [ERR]                                                                                    ~~~~~~~~
+
+2025-11-25 11:14:02.793 -06:00 [ERR]   src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:385:25
+
+2025-11-25 11:14:02.793 -06:00 [ERR]     385   setMrpDateBorderStyle(control) {
+
+2025-11-25 11:14:02.793 -06:00 [ERR]                                 ~~~~~~~
+
+2025-11-25 11:14:02.793 -06:00 [ERR]     'control' is declared here.
+
+2025-11-25 11:14:02.794 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:532:12 - error TS2339: Property 'onChange' does not exist on type 'InpatientAdmissionComponent'.
+
+2025-11-25 11:14:02.794 -06:00 [ERR] 532       this.onChange();
+
+2025-11-25 11:14:02.794 -06:00 [ERR]                ~~~~~~~~
+
+2025-11-25 11:14:02.794 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:535:5 - error TS2304: Cannot find name 'onDateInput'.
+
+2025-11-25 11:14:02.798 -06:00 [ERR] 535     onDateInput(event) {
+
+2025-11-25 11:14:02.798 -06:00 [ERR]         ~~~~~~~~~~~
+
+2025-11-25 11:14:02.798 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:535:24 - error TS1005: ';' expected.
+
+2025-11-25 11:14:02.798 -06:00 [ERR] 535     onDateInput(event) {
+
+2025-11-25 11:14:02.798 -06:00 [ERR]                            ~
+
+2025-11-25 11:14:02.798 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:538:48 - error TS2339: Property 'name' does not exist on type 'EventTarget'.
+
+2025-11-25 11:14:02.798 -06:00 [ERR] 538         let controlName: string = event.target.name;
+
+2025-11-25 11:14:02.798 -06:00 [ERR]                                                    ~~~~
+
+2025-11-25 11:14:02.798 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:559:16 - error TS2339: Property 'onDateSelect' does not exist on type 'InpatientAdmissionComponent'.
+
+2025-11-25 11:14:02.798 -06:00 [ERR] 559           this.onDateSelect(controlName);
+
+2025-11-25 11:14:02.798 -06:00 [ERR]                    ~~~~~~~~~~~~
+
+2025-11-25 11:14:02.798 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:564:5 - error TS2304: Cannot find name 'onInpatientDateSelect'.
+
+2025-11-25 11:14:02.798 -06:00 [ERR] 564     onInpatientDateSelect() {
+
+2025-11-25 11:14:02.798 -06:00 [ERR]         ~~~~~~~~~~~~~~~~~~~~~
+
+2025-11-25 11:14:02.798 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:564:29 - error TS1005: ';' expected.
+
+2025-11-25 11:14:02.798 -06:00 [ERR] 564     onInpatientDateSelect() {
+
+2025-11-25 11:14:02.798 -06:00 [ERR]                                 ~
+
+2025-11-25 11:14:02.799 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:565:12 - error TS2551: Property 'gethybridCompliance' does not exist on type 'InpatientAdmissionComponent'. Did you mean 'hybridCompliant'?
+
+2025-11-25 11:14:02.799 -06:00 [ERR] 565       this.gethybridCompliance();
+
+2025-11-25 11:14:02.799 -06:00 [ERR]                ~~~~~~~~~~~~~~~~~~~
+
+2025-11-25 11:14:02.799 -06:00 [ERR]   src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:51:3
+
+2025-11-25 11:14:02.802 -06:00 [ERR]     51   hybridCompliant: boolean;
+
+2025-11-25 11:14:02.802 -06:00 [ERR]          ~~~~~~~~~~~~~~~
+
+2025-11-25 11:14:02.802 -06:00 [ERR]     'hybridCompliant' is declared here.
+
+2025-11-25 11:14:02.802 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:568:5 - error TS2304: Cannot find name 'onInpatDateInput'.
+
+2025-11-25 11:14:02.802 -06:00 [ERR] 568     onInpatDateInput(event) {
+
+2025-11-25 11:14:02.802 -06:00 [ERR]         ~~~~~~~~~~~~~~~~
+
+2025-11-25 11:14:02.802 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:568:29 - error TS1005: ';' expected.
+
+2025-11-25 11:14:02.802 -06:00 [ERR] 568     onInpatDateInput(event) {
+
+2025-11-25 11:14:02.802 -06:00 [ERR]                                 ~
+
+2025-11-25 11:14:02.802 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:580:16 - error TS2551: Property 'gethybridCompliance' does not exist on type 'InpatientAdmissionComponent'. Did you mean 'hybridCompliant'?
+
+2025-11-25 11:14:02.802 -06:00 [ERR] 580           this.gethybridCompliance();
+
+2025-11-25 11:14:02.804 -06:00 [ERR]                    ~~~~~~~~~~~~~~~~~~~
+
+2025-11-25 11:14:02.804 -06:00 [ERR]   src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:51:3
+
+2025-11-25 11:14:02.804 -06:00 [ERR]     51   hybridCompliant: boolean;
+
+2025-11-25 11:14:02.804 -06:00 [ERR]          ~~~~~~~~~~~~~~~
+
+2025-11-25 11:14:02.804 -06:00 [ERR]     'hybridCompliant' is declared here.
+
+2025-11-25 11:14:02.804 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:584:14 - error TS2551: Property 'gethybridCompliance' does not exist on type 'InpatientAdmissionComponent'. Did you mean 'hybridCompliant'?
+
+2025-11-25 11:14:02.804 -06:00 [ERR] 584         this.gethybridCompliance();
+
+2025-11-25 11:14:02.804 -06:00 [ERR]                  ~~~~~~~~~~~~~~~~~~~
+
+2025-11-25 11:14:02.804 -06:00 [ERR]   src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:51:3
+
+2025-11-25 11:14:02.804 -06:00 [ERR]     51   hybridCompliant: boolean;
+
+2025-11-25 11:14:02.804 -06:00 [ERR]          ~~~~~~~~~~~~~~~
+
+2025-11-25 11:14:02.807 -06:00 [ERR]     'hybridCompliant' is declared here.
+
+2025-11-25 11:14:02.807 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:587:5 - error TS2304: Cannot find name 'setMultiselectBorderClass'.
+
+2025-11-25 11:14:02.807 -06:00 [ERR] 587     setMultiselectBorderClass() {
+
+2025-11-25 11:14:02.807 -06:00 [ERR]         ~~~~~~~~~~~~~~~~~~~~~~~~~
+
+2025-11-25 11:14:02.807 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:587:33 - error TS1005: ';' expected.
+
+2025-11-25 11:14:02.807 -06:00 [ERR] 587     setMultiselectBorderClass() {
+
+2025-11-25 11:14:02.808 -06:00 [ERR]                                     ~
+
+2025-11-25 11:14:02.808 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:619:5 - error TS2552: Cannot find name 'onChange'. Did you mean 'onchange'?
+
+2025-11-25 11:14:02.808 -06:00 [ERR] 619     onChange() {
+
+2025-11-25 11:14:02.808 -06:00 [ERR]         ~~~~~~~~
+
+2025-11-25 11:14:02.808 -06:00 [ERR]   node_modules/typescript/lib/lib.dom.d.ts:27866:13
+
+2025-11-25 11:14:02.808 -06:00 [ERR]     27866 declare var onchange: ((this: Window, ev: Event) => any) | null;
+
+2025-11-25 11:14:02.808 -06:00 [ERR]                       ~~~~~~~~
+
+2025-11-25 11:14:02.808 -06:00 [ERR]     'onchange' is declared here.
+
+2025-11-25 11:14:02.808 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:619:16 - error TS1005: ';' expected.
+
+2025-11-25 11:14:02.808 -06:00 [ERR] 619     onChange() {
+
+2025-11-25 11:14:02.808 -06:00 [ERR]                    ~
+
+2025-11-25 11:14:02.808 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:622:14 - error TS2339: Property 'setDateRange' does not exist on type 'InpatientAdmissionComponent'.
+
+2025-11-25 11:14:02.808 -06:00 [ERR] 622         this.setDateRange(selEvidences);
+
+2025-11-25 11:14:02.808 -06:00 [ERR]                  ~~~~~~~~~~~~
+
+2025-11-25 11:14:02.808 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:623:14 - error TS2551: Property 'gethybridCompliance' does not exist on type 'InpatientAdmissionComponent'. Did you mean 'hybridCompliant'?
+
+2025-11-25 11:14:02.808 -06:00 [ERR] 623         this.gethybridCompliance();
+
+2025-11-25 11:14:02.812 -06:00 [ERR]                  ~~~~~~~~~~~~~~~~~~~
+
+2025-11-25 11:14:02.812 -06:00 [ERR]   src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:51:3
+
+2025-11-25 11:14:02.812 -06:00 [ERR]     51   hybridCompliant: boolean;
+
+2025-11-25 11:14:02.812 -06:00 [ERR]          ~~~~~~~~~~~~~~~
+
+2025-11-25 11:14:02.812 -06:00 [ERR]     'hybridCompliant' is declared here.
+
+2025-11-25 11:14:02.812 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:625:14 - error TS2339: Property 'setSuppleDateRange' does not exist on type 'InpatientAdmissionComponent'.
+
+2025-11-25 11:14:02.812 -06:00 [ERR] 625         this.setSuppleDateRange();
+
+2025-11-25 11:14:02.812 -06:00 [ERR]                  ~~~~~~~~~~~~~~~~~~
+
+2025-11-25 11:14:02.812 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:626:14 - error TS2551: Property 'gethybridCompliance' does not exist on type 'InpatientAdmissionComponent'. Did you mean 'hybridCompliant'?
+
+2025-11-25 11:14:02.812 -06:00 [ERR] 626         this.gethybridCompliance();
+
+2025-11-25 11:14:02.812 -06:00 [ERR]                  ~~~~~~~~~~~~~~~~~~~
+
+2025-11-25 11:14:02.812 -06:00 [ERR]   src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:51:3
+
+2025-11-25 11:14:02.812 -06:00 [ERR]     51   hybridCompliant: boolean;
+
+2025-11-25 11:14:02.812 -06:00 [ERR]          ~~~~~~~~~~~~~~~
+
+2025-11-25 11:14:02.812 -06:00 [ERR]     'hybridCompliant' is declared here.
+
+2025-11-25 11:14:02.813 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:629:5 - error TS2304: Cannot find name 'isAdmitDt30DaysApart'.
+
+2025-11-25 11:14:02.813 -06:00 [ERR] 629     isAdmitDt30DaysApart(): boolean {
+
+2025-11-25 11:14:02.813 -06:00 [ERR]         ~~~~~~~~~~~~~~~~~~~~
+
+2025-11-25 11:14:02.813 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:629:27 - error TS1005: ';' expected.
+
+2025-11-25 11:14:02.813 -06:00 [ERR] 629     isAdmitDt30DaysApart(): boolean {
+
+2025-11-25 11:14:02.813 -06:00 [ERR]                               ~
+
+2025-11-25 11:14:02.813 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:629:29 - error TS1434: Unexpected keyword or identifier.
+
+2025-11-25 11:14:02.816 -06:00 [ERR] 629     isAdmitDt30DaysApart(): boolean {
+
+2025-11-25 11:14:02.816 -06:00 [ERR]                                 ~~~~~~~
+
+2025-11-25 11:14:02.816 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:629:29 - error TS2693: 'boolean' only refers to a type, but is being used as a value here.
+
+2025-11-25 11:14:02.816 -06:00 [ERR] 629     isAdmitDt30DaysApart(): boolean {
+
+2025-11-25 11:14:02.816 -06:00 [ERR]                                 ~~~~~~~
+
+2025-11-25 11:14:02.816 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:637:5 - error TS2304: Cannot find name 'isDischargeDt30DaysApart'.
+
+2025-11-25 11:14:02.816 -06:00 [ERR] 637     isDischargeDt30DaysApart(): boolean {
+
+2025-11-25 11:14:02.816 -06:00 [ERR]         ~~~~~~~~~~~~~~~~~~~~~~~~
+
+2025-11-25 11:14:02.816 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:637:31 - error TS1005: ';' expected.
+
+2025-11-25 11:14:02.816 -06:00 [ERR] 637     isDischargeDt30DaysApart(): boolean {
+
+2025-11-25 11:14:02.816 -06:00 [ERR]                                   ~
+
+2025-11-25 11:14:02.816 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:637:33 - error TS1434: Unexpected keyword or identifier.
+
+2025-11-25 11:14:02.816 -06:00 [ERR] 637     isDischargeDt30DaysApart(): boolean {
+
+2025-11-25 11:14:02.816 -06:00 [ERR]                                     ~~~~~~~
+
+2025-11-25 11:14:02.817 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:637:33 - error TS2693: 'boolean' only refers to a type, but is being used as a value here.
+
+2025-11-25 11:14:02.817 -06:00 [ERR] 637     isDischargeDt30DaysApart(): boolean {
+
+2025-11-25 11:14:02.817 -06:00 [ERR]                                     ~~~~~~~
+
+2025-11-25 11:14:02.817 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:645:5 - error TS2304: Cannot find name 'isAdmiDtValid'.
+
+2025-11-25 11:14:02.817 -06:00 [ERR] 645     isAdmiDtValid(): boolean {
+
+2025-11-25 11:14:02.817 -06:00 [ERR]         ~~~~~~~~~~~~~
+
+2025-11-25 11:14:02.817 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:645:20 - error TS1005: ';' expected.
+
+2025-11-25 11:14:02.821 -06:00 [ERR] 645     isAdmiDtValid(): boolean {
+
+2025-11-25 11:14:02.821 -06:00 [ERR]                        ~
+
+2025-11-25 11:14:02.821 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:645:22 - error TS1434: Unexpected keyword or identifier.
+
+2025-11-25 11:14:02.821 -06:00 [ERR] 645     isAdmiDtValid(): boolean {
+
+2025-11-25 11:14:02.821 -06:00 [ERR]                          ~~~~~~~
+
+2025-11-25 11:14:02.822 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:645:22 - error TS2693: 'boolean' only refers to a type, but is being used as a value here.
+
+2025-11-25 11:14:02.822 -06:00 [ERR] 645     isAdmiDtValid(): boolean {
+
+2025-11-25 11:14:02.822 -06:00 [ERR]                          ~~~~~~~
+
+2025-11-25 11:14:02.823 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:664:5 - error TS2304: Cannot find name 'setDateRange'.
+
+2025-11-25 11:14:02.823 -06:00 [ERR] 664     setDateRange(slectedEvidence: string) {
+
+2025-11-25 11:14:02.823 -06:00 [ERR]         ~~~~~~~~~~~~
+
+2025-11-25 11:14:02.823 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:664:18 - error TS2304: Cannot find name 'slectedEvidence'.
+
+2025-11-25 11:14:02.823 -06:00 [ERR] 664     setDateRange(slectedEvidence: string) {
+
+2025-11-25 11:14:02.823 -06:00 [ERR]                      ~~~~~~~~~~~~~~~
+
+2025-11-25 11:14:02.823 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:664:33 - error TS1005: ',' expected.
+
+2025-11-25 11:14:02.823 -06:00 [ERR] 664     setDateRange(slectedEvidence: string) {
+
+2025-11-25 11:14:02.823 -06:00 [ERR]                                     ~
+
+2025-11-25 11:14:02.823 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:664:35 - error TS2693: 'string' only refers to a type, but is being used as a value here.
+
+2025-11-25 11:14:02.823 -06:00 [ERR] 664     setDateRange(slectedEvidence: string) {
+
+2025-11-25 11:14:02.823 -06:00 [ERR]                                       ~~~~~~
+
+2025-11-25 11:14:02.823 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:664:43 - error TS1005: ';' expected.
+
+2025-11-25 11:14:02.825 -06:00 [ERR] 664     setDateRange(slectedEvidence: string) {
+
+2025-11-25 11:14:02.825 -06:00 [ERR]                                               ~
+
+2025-11-25 11:14:02.825 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:665:35 - error TS2304: Cannot find name 'slectedEvidence'.
+
+2025-11-25 11:14:02.825 -06:00 [ERR] 665       if (this.optionArr.includes(slectedEvidence)) {
+
+2025-11-25 11:14:02.825 -06:00 [ERR]                                       ~~~~~~~~~~~~~~~
+
+2025-11-25 11:14:02.825 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:666:44 - error TS2339: Property 'getAdmitDateForCalculation' does not exist on type 'InpatientAdmissionComponent'.
+
+2025-11-25 11:14:02.825 -06:00 [ERR] 666         this.InpatientAdmitDateFrom = this.getAdmitDateForCalculation();
+
+2025-11-25 11:14:02.825 -06:00 [ERR]                                                ~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+2025-11-25 11:14:02.825 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:669:11 - error TS2304: Cannot find name 'slectedEvidence'.
+
+2025-11-25 11:14:02.825 -06:00 [ERR] 669       if (slectedEvidence == "9") {
+
+2025-11-25 11:14:02.825 -06:00 [ERR]               ~~~~~~~~~~~~~~~
+
+2025-11-25 11:14:02.825 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:671:60 - error TS2339: Property 'getAdmitDateForCalculation' does not exist on type 'InpatientAdmissionComponent'.
+
+2025-11-25 11:14:02.825 -06:00 [ERR] 671         this.InpatientAdmitDateTo = new Date(new Date(this.getAdmitDateForCalculation()).setDate(new Date(this.getAdmitDateForCalculation()).getDate() + 2));
+
+2025-11-25 11:14:02.825 -06:00 [ERR]                                                                ~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+2025-11-25 11:14:02.825 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:671:112 - error TS2339: Property 'getAdmitDateForCalculation' does not exist on type 'InpatientAdmissionComponent'.
+
+2025-11-25 11:14:02.825 -06:00 [ERR] 671         this.InpatientAdmitDateTo = new Date(new Date(this.getAdmitDateForCalculation()).setDate(new Date(this.getAdmitDateForCalculation()).getDate() + 2));
+
+2025-11-25 11:14:02.825 -06:00 [ERR]                                                                                                                    ~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+2025-11-25 11:14:02.825 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:673:11 - error TS2304: Cannot find name 'slectedEvidence'.
+
+2025-11-25 11:14:02.829 -06:00 [ERR] 673       if (slectedEvidence == "8") {
+
+2025-11-25 11:14:02.829 -06:00 [ERR]               ~~~~~~~~~~~~~~~
+
+2025-11-25 11:14:02.829 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:674:44 - error TS2339: Property 'getAdmitDateForCalculation' does not exist on type 'InpatientAdmissionComponent'.
+
+2025-11-25 11:14:02.829 -06:00 [ERR] 674         this.InpatientAdmitDateFrom = this.getAdmitDateForCalculation();
+
+2025-11-25 11:14:02.829 -06:00 [ERR]                                                ~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+2025-11-25 11:14:02.830 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:675:42 - error TS2339: Property 'getDischargeDateForCalculation' does not exist on type 'InpatientAdmissionComponent'.
+
+2025-11-25 11:14:02.830 -06:00 [ERR] 675         this.InpatientAdmitDateTo = this.getDischargeDateForCalculation();
+
+2025-11-25 11:14:02.830 -06:00 [ERR]                                              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+2025-11-25 11:14:02.830 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:677:11 - error TS2304: Cannot find name 'slectedEvidence'.
+
+2025-11-25 11:14:02.830 -06:00 [ERR] 677       if (slectedEvidence == "7") {
+
+2025-11-25 11:14:02.830 -06:00 [ERR]               ~~~~~~~~~~~~~~~
+
+2025-11-25 11:14:02.830 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:678:148 - error TS2339: Property 'getAdmitDateForCalculation' does not exist on type 'InpatientAdmissionComponent'.
+
+2025-11-25 11:14:02.830 -06:00 [ERR] 678         this.inpatientAdmissionForm.get('InpatientAdmitDt').setValidators(CustomValidators.trcInpatientDateValidationAnd365DaysRuleValidation(this.getAdmitDateForCalculation(), this.InpatientAdmitDateFrom, this.InpatientAdmitDateTo));
+
+2025-11-25 11:14:02.830 -06:00 [ERR]                                                                                                                                                        ~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+2025-11-25 11:14:02.830 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:685:5 - error TS2304: Cannot find name 'gethybridCompliance'.
+
+2025-11-25 11:14:02.830 -06:00 [ERR] 685     gethybridCompliance() {
+
+2025-11-25 11:14:02.830 -06:00 [ERR]         ~~~~~~~~~~~~~~~~~~~
+
+2025-11-25 11:14:02.830 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:685:27 - error TS1005: ';' expected.
+
+2025-11-25 11:14:02.833 -06:00 [ERR] 685     gethybridCompliance() {
+
+2025-11-25 11:14:02.833 -06:00 [ERR]                               ~
+
+2025-11-25 11:14:02.833 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:760:5 - error TS2304: Cannot find name 'getAdmitDateForCalculation'.
+
+2025-11-25 11:14:02.834 -06:00 [ERR] 760     getAdmitDateForCalculation() {
+
+2025-11-25 11:14:02.834 -06:00 [ERR]         ~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+2025-11-25 11:14:02.834 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:760:34 - error TS1005: ';' expected.
+
+2025-11-25 11:14:02.834 -06:00 [ERR] 760     getAdmitDateForCalculation() {
+
+2025-11-25 11:14:02.834 -06:00 [ERR]                                      ~
+
+2025-11-25 11:14:02.834 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:770:5 - error TS2304: Cannot find name 'getDischargeDateForCalculation1'.
+
+2025-11-25 11:14:02.834 -06:00 [ERR] 770     getDischargeDateForCalculation1() {
+
+2025-11-25 11:14:02.834 -06:00 [ERR]         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+2025-11-25 11:14:02.834 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:770:39 - error TS1005: ';' expected.
+
+2025-11-25 11:14:02.834 -06:00 [ERR] 770     getDischargeDateForCalculation1() {
+
+2025-11-25 11:14:02.834 -06:00 [ERR]                                           ~
+
+2025-11-25 11:14:02.835 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:782:5 - error TS2304: Cannot find name 'getDischargeDateForCalculation'.
+
+2025-11-25 11:14:02.835 -06:00 [ERR] 782     getDischargeDateForCalculation() {
+
+2025-11-25 11:14:02.836 -06:00 [ERR]         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+2025-11-25 11:14:02.836 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:782:38 - error TS1005: ';' expected.
+
+2025-11-25 11:14:02.836 -06:00 [ERR] 782     getDischargeDateForCalculation() {
+
+2025-11-25 11:14:02.836 -06:00 [ERR]                                          ~
+
+2025-11-25 11:14:02.836 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:806:5 - error TS2304: Cannot find name 'getDischargeDateForAdmitDtValidation'.
+
+2025-11-25 11:14:02.837 -06:00 [ERR] 806     getDischargeDateForAdmitDtValidation() {
+
+2025-11-25 11:14:02.837 -06:00 [ERR]         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+2025-11-25 11:14:02.837 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:806:44 - error TS1005: ';' expected.
+
+2025-11-25 11:14:02.837 -06:00 [ERR] 806     getDischargeDateForAdmitDtValidation() {
+
+2025-11-25 11:14:02.837 -06:00 [ERR]                                                ~
+
+2025-11-25 11:14:02.837 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:808:74 - error TS2339: Property 'isValidDate' does not exist on type 'InpatientAdmissionComponent'.
+
+2025-11-25 11:14:02.837 -06:00 [ERR] 808       if (this.inpatientAdmissionForm.get('HybridDischDt').value && this.isValidDate()) {
+
+2025-11-25 11:14:02.837 -06:00 [ERR]                                                                              ~~~~~~~~~~~
+
+2025-11-25 11:14:02.837 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:816:5 - error TS2304: Cannot find name 'setTRCAdmitDischargeDateValidation'.
+
+2025-11-25 11:14:02.837 -06:00 [ERR] 816     setTRCAdmitDischargeDateValidation() {
+
+2025-11-25 11:14:02.837 -06:00 [ERR]         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+2025-11-25 11:14:02.837 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:816:42 - error TS1005: ';' expected.
+
+2025-11-25 11:14:02.837 -06:00 [ERR] 816     setTRCAdmitDischargeDateValidation() {
+
+2025-11-25 11:14:02.837 -06:00 [ERR]                                              ~
+
+2025-11-25 11:14:02.837 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:820:118 - error TS2339: Property 'getDischargeDateForAdmitDtValidation' does not exist on type 'InpatientAdmissionComponent'.
+
+2025-11-25 11:14:02.837 -06:00 [ERR] 820           CustomValidators.trc_30DaysRuleValidation(new Date(this.inpatientAdmissionForm.get('AdmitDt').value), this.getDischargeDateForAdmitDtValidation()),
+
+2025-11-25 11:14:02.837 -06:00 [ERR]                                                                                                                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+2025-11-25 11:14:02.837 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:825:127 - error TS2339: Property 'getAdmitDateForCalculation' does not exist on type 'InpatientAdmissionComponent'.
+
+2025-11-25 11:14:02.837 -06:00 [ERR] 825           CustomValidators.trc_30DaysRuleValidationDischDate(new Date(this.inpatientAdmissionForm.get('DischDt').value), this.getAdmitDateForCalculation())
+
+2025-11-25 11:14:02.840 -06:00 [ERR]                                                                                                                                   ~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+2025-11-25 11:14:02.841 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:835:5 - error TS2304: Cannot find name 'isValidDate'.
+
+2025-11-25 11:14:02.841 -06:00 [ERR] 835     isValidDate(): boolean {
+
+2025-11-25 11:14:02.841 -06:00 [ERR]         ~~~~~~~~~~~
+
+2025-11-25 11:14:02.841 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:835:18 - error TS1005: ';' expected.
+
+2025-11-25 11:14:02.841 -06:00 [ERR] 835     isValidDate(): boolean {
+
+2025-11-25 11:14:02.841 -06:00 [ERR]                      ~
+
+2025-11-25 11:14:02.841 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:835:20 - error TS1434: Unexpected keyword or identifier.
+
+2025-11-25 11:14:02.841 -06:00 [ERR] 835     isValidDate(): boolean {
+
+2025-11-25 11:14:02.841 -06:00 [ERR]                        ~~~~~~~
+
+2025-11-25 11:14:02.841 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:835:20 - error TS2693: 'boolean' only refers to a type, but is being used as a value here.
+
+2025-11-25 11:14:02.841 -06:00 [ERR] 835     isValidDate(): boolean {
+
+2025-11-25 11:14:02.841 -06:00 [ERR]                        ~~~~~~~
+
+2025-11-25 11:14:02.841 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:842:5 - error TS2304: Cannot find name 'isInpatinetValidDate'.
+
+2025-11-25 11:14:02.841 -06:00 [ERR] 842     isInpatinetValidDate(): boolean {
+
+2025-11-25 11:14:02.841 -06:00 [ERR]         ~~~~~~~~~~~~~~~~~~~~
+
+2025-11-25 11:14:02.841 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:842:27 - error TS1005: ';' expected.
+
+2025-11-25 11:14:02.841 -06:00 [ERR] 842     isInpatinetValidDate(): boolean {
+
+2025-11-25 11:14:02.841 -06:00 [ERR]                               ~
+
+2025-11-25 11:14:02.841 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:842:29 - error TS1434: Unexpected keyword or identifier.
+
+2025-11-25 11:14:02.844 -06:00 [ERR] 842     isInpatinetValidDate(): boolean {
+
+2025-11-25 11:14:02.844 -06:00 [ERR]                                 ~~~~~~~
+
+2025-11-25 11:14:02.844 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:842:29 - error TS2693: 'boolean' only refers to a type, but is being used as a value here.
+
+2025-11-25 11:14:02.845 -06:00 [ERR] 842     isInpatinetValidDate(): boolean {
+
+2025-11-25 11:14:02.845 -06:00 [ERR]                                 ~~~~~~~
+
+2025-11-25 11:14:02.845 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:849:5 - error TS2304: Cannot find name 'inpatientAdmitDtPriorto365'.
+
+2025-11-25 11:14:02.845 -06:00 [ERR] 849     inpatientAdmitDtPriorto365(): boolean {
+
+2025-11-25 11:14:02.845 -06:00 [ERR]         ~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+2025-11-25 11:14:02.845 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:849:33 - error TS1005: ';' expected.
+
+2025-11-25 11:14:02.845 -06:00 [ERR] 849     inpatientAdmitDtPriorto365(): boolean {
+
+2025-11-25 11:14:02.845 -06:00 [ERR]                                     ~
+
+2025-11-25 11:14:02.845 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:849:35 - error TS1434: Unexpected keyword or identifier.
+
+2025-11-25 11:14:02.845 -06:00 [ERR] 849     inpatientAdmitDtPriorto365(): boolean {
+
+2025-11-25 11:14:02.845 -06:00 [ERR]                                       ~~~~~~~
+
+2025-11-25 11:14:02.845 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:849:35 - error TS2693: 'boolean' only refers to a type, but is being used as a value here.
+
+2025-11-25 11:14:02.845 -06:00 [ERR] 849     inpatientAdmitDtPriorto365(): boolean {
+
+2025-11-25 11:14:02.845 -06:00 [ERR]                                       ~~~~~~~
+
+2025-11-25 11:14:02.845 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:864:5 - error TS2304: Cannot find name 'isAdmitDatePriorToDischargeDate'.
+
+2025-11-25 11:14:02.845 -06:00 [ERR] 864     isAdmitDatePriorToDischargeDate() {
+
+2025-11-25 11:14:02.845 -06:00 [ERR]         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+2025-11-25 11:14:02.845 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:864:39 - error TS1005: ';' expected.
+
+2025-11-25 11:14:02.847 -06:00 [ERR] 864     isAdmitDatePriorToDischargeDate() {
+
+2025-11-25 11:14:02.849 -06:00 [ERR]                                           ~
+
+2025-11-25 11:14:02.849 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:878:5 - error TS2304: Cannot find name 'setAdminReconciliationStyle'.
+
+2025-11-25 11:14:02.849 -06:00 [ERR] 878     setAdminReconciliationStyle() {
+
+2025-11-25 11:14:02.850 -06:00 [ERR]         ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+2025-11-25 11:14:02.850 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:878:35 - error TS1005: ';' expected.
+
+2025-11-25 11:14:02.850 -06:00 [ERR] 878     setAdminReconciliationStyle() {
+
+2025-11-25 11:14:02.850 -06:00 [ERR]                                       ~
+
+2025-11-25 11:14:02.850 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:892:5 - error TS2304: Cannot find name 'setSuppleDateRange'.
+
+2025-11-25 11:14:02.850 -06:00 [ERR] 892     setSuppleDateRange() {
+
+2025-11-25 11:14:02.850 -06:00 [ERR]         ~~~~~~~~~~~~~~~~~~
+
+2025-11-25 11:14:02.850 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:892:26 - error TS1005: ';' expected.
+
+2025-11-25 11:14:02.850 -06:00 [ERR] 892     setSuppleDateRange() {
+
+2025-11-25 11:14:02.850 -06:00 [ERR]                              ~
+
+2025-11-25 11:14:02.850 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:893:42 - error TS2339: Property 'getAdmitDateForCalculation' does not exist on type 'InpatientAdmissionComponent'.
+
+2025-11-25 11:14:02.850 -06:00 [ERR] 893       this.InpatientAdmitDateFrom = this.getAdmitDateForCalculation();;
+
+2025-11-25 11:14:02.850 -06:00 [ERR]                                              ~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+2025-11-25 11:14:02.850 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:894:40 - error TS2551: Property 'getInpatientAdmitDateTo' does not exist on type 'InpatientAdmissionComponent'. Did you mean 'InpatientAdmitDateTo'?
+
+2025-11-25 11:14:02.850 -06:00 [ERR] 894       this.InpatientAdmitDateTo = this.getInpatientAdmitDateTo();// new Date(new Date(this.InpatientAdmitDateFrom).setDate(new Date(this.InpatientAdmitDateFrom).getDate() + 2));
+
+2025-11-25 11:14:02.850 -06:00 [ERR]                                            ~~~~~~~~~~~~~~~~~~~~~~~
+
+2025-11-25 11:14:02.850 -06:00 [ERR]   src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:61:3
+
+2025-11-25 11:14:02.851 -06:00 [ERR]     61   InpatientAdmitDateTo: Date;
+
+2025-11-25 11:14:02.851 -06:00 [ERR]          ~~~~~~~~~~~~~~~~~~~~
+
+2025-11-25 11:14:02.851 -06:00 [ERR]     'InpatientAdmitDateTo' is declared here.
+
+2025-11-25 11:14:02.851 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:896:5 - error TS2304: Cannot find name 'getInpatientAdmitDateTo'.
+
+2025-11-25 11:14:02.851 -06:00 [ERR] 896     getInpatientAdmitDateTo() {
+
+2025-11-25 11:14:02.851 -06:00 [ERR]         ~~~~~~~~~~~~~~~~~~~~~~~
+
+2025-11-25 11:14:02.851 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:896:31 - error TS1005: ';' expected.
+
+2025-11-25 11:14:02.851 -06:00 [ERR] 896     getInpatientAdmitDateTo() {
+
+2025-11-25 11:14:02.851 -06:00 [ERR]                                   ~
+
+2025-11-25 11:14:02.851 -06:00 [ERR] Error: src/app/abstraction/data-collection/measure/trc/inpatient-admission/inpatient-admission.component.ts:924:1 - error TS1005: '}' expected.
+
+2025-11-25 11:14:02.851 -06:00 [ERR] 924 
+
+2025-11-25 11:14:02.851 -06:00 [ERR]     
+
+2025-11-25 11:14:02.852 -06:00 [ERR] 
+
+2025-11-25 11:14:22.164 -06:00 [ERR] ΓêÜ Browser application bundle generation complete.
+
+2025-11-25 11:14:29.955 -06:00 [ERR] Error during request processing.
+ {"Method":"GET","Path":"/styles.css","QueryString":"","Headers":{"Accept":"text/css,*/*;q=0.1","Accept-Encoding":"gzip, deflate, br, zstd","Accept-Language":"en-US,en;q=0.9","Cache-Control":"no-cache","Connection":"keep-alive","Host":"localhost:61368","Pragma":"no-cache","Referer":"http://localhost:61368/2025/abstraction/datacollection","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36","sec-ch-ua-platform":"\\u0022Windows\\u0022","sec-ch-ua":"\\u0022Chromium\\u0022;v=\\u0022142\\u0022, \\u0022Google Chrome\\u0022;v=\\u0022142\\u0022, \\u0022Not_A Brand\\u0022;v=\\u002299\\u0022","sec-ch-ua-mobile":"?0","Sec-Fetch-Site":"same-origin","Sec-Fetch-Mode":"no-cors","Sec-Fetch-Dest":"style"},"ContentLength":null,"Body":null,"$type":"HttpLogInfo"}
+System.Net.Http.HttpRequestException: Failed to proxy the request to http://localhost:59064/styles.css, because the request to the proxy target failed. Check that the proxy target server is running and accepting requests to http://localhost:59064/.
+
+The underlying exception message was 'An error occurred while sending the request.'.Check the InnerException for more details.
+ ---> System.Net.Http.HttpRequestException: An error occurred while sending the request.
+ ---> System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host..
+ ---> System.Net.Sockets.SocketException (10054): An existing connection was forcibly closed by the remote host.
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at Microsoft.AspNetCore.SpaServices.Extensions.Proxy.SpaProxy.PerformProxyRequest(HttpContext context, HttpClient httpClient, Task`1 baseUriTask, CancellationToken applicationStoppingToken, Boolean proxy404s)
+   --- End of inner exception stack trace ---
+   at Microsoft.AspNetCore.SpaServices.Extensions.Proxy.SpaProxy.PerformProxyRequest(HttpContext context, HttpClient httpClient, Task`1 baseUriTask, CancellationToken applicationStoppingToken, Boolean proxy404s)
+   at Microsoft.AspNetCore.Builder.SpaProxyingExtensions.<>c__DisplayClass2_0.<<UseProxyToSpaDevelopmentServer>b__0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at QI.QR.ErrorHandling.ErrorHandlingMiddleware.InvokeAsync(HttpContext context, RequestDelegate next) in C:\Projects\QRI\QI.QR\ErrorHandling\ErrorHandlingMiddleware.cs:line 36
+2025-11-25 11:14:39.702 -06:00 [ERR] Error during request processing.
+ {"Method":"GET","Path":"/default-node_modules_primeng_fesm2022_primeng-listbox_mjs.js","QueryString":"","Headers":{"Accept":"*/*","Accept-Encoding":"gzip, deflate, br, zstd","Accept-Language":"en-US,en;q=0.9","Cache-Control":"no-cache","Connection":"keep-alive","Host":"localhost:61368","Pragma":"no-cache","Referer":"http://localhost:61368/2025/abstraction/datacollection","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36","Origin":"http://localhost:61368","sec-ch-ua-platform":"\\u0022Windows\\u0022","sec-ch-ua":"\\u0022Chromium\\u0022;v=\\u0022142\\u0022, \\u0022Google Chrome\\u0022;v=\\u0022142\\u0022, \\u0022Not_A Brand\\u0022;v=\\u002299\\u0022","sec-ch-ua-mobile":"?0","Sec-Fetch-Site":"same-origin","Sec-Fetch-Mode":"cors","Sec-Fetch-Dest":"script"},"ContentLength":null,"Body":null,"$type":"HttpLogInfo"}
+System.Net.Http.HttpRequestException: Failed to proxy the request to http://localhost:59064/default-node_modules_primeng_fesm2022_primeng-listbox_mjs.js, because the request to the proxy target failed. Check that the proxy target server is running and accepting requests to http://localhost:59064/.
+
+The underlying exception message was 'An error occurred while sending the request.'.Check the InnerException for more details.
+ ---> System.Net.Http.HttpRequestException: An error occurred while sending the request.
+ ---> System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host..
+ ---> System.Net.Sockets.SocketException (10054): An existing connection was forcibly closed by the remote host.
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at Microsoft.AspNetCore.SpaServices.Extensions.Proxy.SpaProxy.PerformProxyRequest(HttpContext context, HttpClient httpClient, Task`1 baseUriTask, CancellationToken applicationStoppingToken, Boolean proxy404s)
+   --- End of inner exception stack trace ---
+   at Microsoft.AspNetCore.SpaServices.Extensions.Proxy.SpaProxy.PerformProxyRequest(HttpContext context, HttpClient httpClient, Task`1 baseUriTask, CancellationToken applicationStoppingToken, Boolean proxy404s)
+   at Microsoft.AspNetCore.Builder.SpaProxyingExtensions.<>c__DisplayClass2_0.<<UseProxyToSpaDevelopmentServer>b__0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at QI.QR.ErrorHandling.ErrorHandlingMiddleware.InvokeAsync(HttpContext context, RequestDelegate next) in C:\Projects\QRI\QI.QR\ErrorHandling\ErrorHandlingMiddleware.cs:line 36
+2025-11-25 11:14:39.786 -06:00 [ERR] Error during request processing.
+ {"Method":"GET","Path":"/default-node_modules_primeng_fesm2022_primeng-contextmenu_mjs-node_modules_primeng_fesm2022_p-6b8c63.js","QueryString":"","Headers":{"Accept":"*/*","Accept-Encoding":"gzip, deflate, br, zstd","Accept-Language":"en-US,en;q=0.9","Cache-Control":"no-cache","Connection":"keep-alive","Host":"localhost:61368","Pragma":"no-cache","Referer":"http://localhost:61368/2025/abstraction/datacollection","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36","Origin":"http://localhost:61368","sec-ch-ua-platform":"\\u0022Windows\\u0022","sec-ch-ua":"\\u0022Chromium\\u0022;v=\\u0022142\\u0022, \\u0022Google Chrome\\u0022;v=\\u0022142\\u0022, \\u0022Not_A Brand\\u0022;v=\\u002299\\u0022","sec-ch-ua-mobile":"?0","Sec-Fetch-Site":"same-origin","Sec-Fetch-Mode":"cors","Sec-Fetch-Dest":"script"},"ContentLength":null,"Body":null,"$type":"HttpLogInfo"}
+System.Net.Http.HttpRequestException: Failed to proxy the request to http://localhost:59064/default-node_modules_primeng_fesm2022_primeng-contextmenu_mjs-node_modules_primeng_fesm2022_p-6b8c63.js, because the request to the proxy target failed. Check that the proxy target server is running and accepting requests to http://localhost:59064/.
+
+The underlying exception message was 'An error occurred while sending the request.'.Check the InnerException for more details.
+ ---> System.Net.Http.HttpRequestException: An error occurred while sending the request.
+ ---> System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host..
+ ---> System.Net.Sockets.SocketException (10054): An existing connection was forcibly closed by the remote host.
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at Microsoft.AspNetCore.SpaServices.Extensions.Proxy.SpaProxy.PerformProxyRequest(HttpContext context, HttpClient httpClient, Task`1 baseUriTask, CancellationToken applicationStoppingToken, Boolean proxy404s)
+   --- End of inner exception stack trace ---
+   at Microsoft.AspNetCore.SpaServices.Extensions.Proxy.SpaProxy.PerformProxyRequest(HttpContext context, HttpClient httpClient, Task`1 baseUriTask, CancellationToken applicationStoppingToken, Boolean proxy404s)
+   at Microsoft.AspNetCore.Builder.SpaProxyingExtensions.<>c__DisplayClass2_0.<<UseProxyToSpaDevelopmentServer>b__0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at QI.QR.ErrorHandling.ErrorHandlingMiddleware.InvokeAsync(HttpContext context, RequestDelegate next) in C:\Projects\QRI\QI.QR\ErrorHandling\ErrorHandlingMiddleware.cs:line 36
+2025-11-25 11:14:39.807 -06:00 [ERR] Error during request processing.
+ {"Method":"GET","Path":"/default-src_app_shared_utils_dialogUtill_ts-node_modules_html2canvas_dist_html2canvas_js-node-ca3cc4.js","QueryString":"","Headers":{"Accept":"*/*","Accept-Encoding":"gzip, deflate, br, zstd","Accept-Language":"en-US,en;q=0.9","Cache-Control":"no-cache","Connection":"keep-alive","Host":"localhost:61368","Pragma":"no-cache","Referer":"http://localhost:61368/2025/abstraction/datacollection","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36","Origin":"http://localhost:61368","sec-ch-ua-platform":"\\u0022Windows\\u0022","sec-ch-ua":"\\u0022Chromium\\u0022;v=\\u0022142\\u0022, \\u0022Google Chrome\\u0022;v=\\u0022142\\u0022, \\u0022Not_A Brand\\u0022;v=\\u002299\\u0022","sec-ch-ua-mobile":"?0","Sec-Fetch-Site":"same-origin","Sec-Fetch-Mode":"cors","Sec-Fetch-Dest":"script"},"ContentLength":null,"Body":null,"$type":"HttpLogInfo"}
+System.Net.Http.HttpRequestException: Failed to proxy the request to http://localhost:59064/default-src_app_shared_utils_dialogUtill_ts-node_modules_html2canvas_dist_html2canvas_js-node-ca3cc4.js, because the request to the proxy target failed. Check that the proxy target server is running and accepting requests to http://localhost:59064/.
+
+The underlying exception message was 'An error occurred while sending the request.'.Check the InnerException for more details.
+ ---> System.Net.Http.HttpRequestException: An error occurred while sending the request.
+ ---> System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host..
+ ---> System.Net.Sockets.SocketException (10054): An existing connection was forcibly closed by the remote host.
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at Microsoft.AspNetCore.SpaServices.Extensions.Proxy.SpaProxy.PerformProxyRequest(HttpContext context, HttpClient httpClient, Task`1 baseUriTask, CancellationToken applicationStoppingToken, Boolean proxy404s)
+   --- End of inner exception stack trace ---
+   at Microsoft.AspNetCore.SpaServices.Extensions.Proxy.SpaProxy.PerformProxyRequest(HttpContext context, HttpClient httpClient, Task`1 baseUriTask, CancellationToken applicationStoppingToken, Boolean proxy404s)
+   at Microsoft.AspNetCore.Builder.SpaProxyingExtensions.<>c__DisplayClass2_0.<<UseProxyToSpaDevelopmentServer>b__0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at QI.QR.ErrorHandling.ErrorHandlingMiddleware.InvokeAsync(HttpContext context, RequestDelegate next) in C:\Projects\QRI\QI.QR\ErrorHandling\ErrorHandlingMiddleware.cs:line 36
+2025-11-25 11:14:39.959 -06:00 [ERR] Error during request processing.
+ {"Method":"GET","Path":"/src_app_abstraction_abstraction_module_ts.js","QueryString":"","Headers":{"Accept":"*/*","Accept-Encoding":"gzip, deflate, br, zstd","Accept-Language":"en-US,en;q=0.9","Cache-Control":"no-cache","Connection":"keep-alive","Host":"localhost:61368","Pragma":"no-cache","Referer":"http://localhost:61368/2025/abstraction/datacollection","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36","Origin":"http://localhost:61368","sec-ch-ua-platform":"\\u0022Windows\\u0022","sec-ch-ua":"\\u0022Chromium\\u0022;v=\\u0022142\\u0022, \\u0022Google Chrome\\u0022;v=\\u0022142\\u0022, \\u0022Not_A Brand\\u0022;v=\\u002299\\u0022","sec-ch-ua-mobile":"?0","Sec-Fetch-Site":"same-origin","Sec-Fetch-Mode":"cors","Sec-Fetch-Dest":"script"},"ContentLength":null,"Body":null,"$type":"HttpLogInfo"}
+System.Net.Http.HttpRequestException: Failed to proxy the request to http://localhost:59064/src_app_abstraction_abstraction_module_ts.js, because the request to the proxy target failed. Check that the proxy target server is running and accepting requests to http://localhost:59064/.
+
+The underlying exception message was 'An error occurred while sending the request.'.Check the InnerException for more details.
+ ---> System.Net.Http.HttpRequestException: An error occurred while sending the request.
+ ---> System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host..
+ ---> System.Net.Sockets.SocketException (10054): An existing connection was forcibly closed by the remote host.
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at Microsoft.AspNetCore.SpaServices.Extensions.Proxy.SpaProxy.PerformProxyRequest(HttpContext context, HttpClient httpClient, Task`1 baseUriTask, CancellationToken applicationStoppingToken, Boolean proxy404s)
+   --- End of inner exception stack trace ---
+   at Microsoft.AspNetCore.SpaServices.Extensions.Proxy.SpaProxy.PerformProxyRequest(HttpContext context, HttpClient httpClient, Task`1 baseUriTask, CancellationToken applicationStoppingToken, Boolean proxy404s)
+   at Microsoft.AspNetCore.Builder.SpaProxyingExtensions.<>c__DisplayClass2_0.<<UseProxyToSpaDevelopmentServer>b__0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at QI.QR.ErrorHandling.ErrorHandlingMiddleware.InvokeAsync(HttpContext context, RequestDelegate next) in C:\Projects\QRI\QI.QR\ErrorHandling\ErrorHandlingMiddleware.cs:line 36
+2025-11-25 11:14:40.059 -06:00 [ERR] Error during request processing.
+ {"Method":"GET","Path":"/common.js","QueryString":"","Headers":{"Accept":"*/*","Accept-Encoding":"gzip, deflate, br, zstd","Accept-Language":"en-US,en;q=0.9","Cache-Control":"no-cache","Connection":"keep-alive","Host":"localhost:61368","Pragma":"no-cache","Referer":"http://localhost:61368/2025/abstraction/datacollection","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36","Origin":"http://localhost:61368","sec-ch-ua-platform":"\\u0022Windows\\u0022","sec-ch-ua":"\\u0022Chromium\\u0022;v=\\u0022142\\u0022, \\u0022Google Chrome\\u0022;v=\\u0022142\\u0022, \\u0022Not_A Brand\\u0022;v=\\u002299\\u0022","sec-ch-ua-mobile":"?0","Sec-Fetch-Site":"same-origin","Sec-Fetch-Mode":"cors","Sec-Fetch-Dest":"script"},"ContentLength":null,"Body":null,"$type":"HttpLogInfo"}
+System.Net.Http.HttpRequestException: Failed to proxy the request to http://localhost:59064/common.js, because the request to the proxy target failed. Check that the proxy target server is running and accepting requests to http://localhost:59064/.
+
+The underlying exception message was 'An error occurred while sending the request.'.Check the InnerException for more details.
+ ---> System.Net.Http.HttpRequestException: An error occurred while sending the request.
+ ---> System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host..
+ ---> System.Net.Sockets.SocketException (10054): An existing connection was forcibly closed by the remote host.
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at Microsoft.AspNetCore.SpaServices.Extensions.Proxy.SpaProxy.PerformProxyRequest(HttpContext context, HttpClient httpClient, Task`1 baseUriTask, CancellationToken applicationStoppingToken, Boolean proxy404s)
+   --- End of inner exception stack trace ---
+   at Microsoft.AspNetCore.SpaServices.Extensions.Proxy.SpaProxy.PerformProxyRequest(HttpContext context, HttpClient httpClient, Task`1 baseUriTask, CancellationToken applicationStoppingToken, Boolean proxy404s)
+   at Microsoft.AspNetCore.Builder.SpaProxyingExtensions.<>c__DisplayClass2_0.<<UseProxyToSpaDevelopmentServer>b__0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at QI.QR.ErrorHandling.ErrorHandlingMiddleware.InvokeAsync(HttpContext context, RequestDelegate next) in C:\Projects\QRI\QI.QR\ErrorHandling\ErrorHandlingMiddleware.cs:line 36
+2025-11-25 11:19:25.610 -06:00 [ERR] ΓêÜ Browser application bundle generation complete.
+
+2025-11-25 11:20:12.933 -06:00 [ERR] ΓêÜ Browser application bundle generation complete.
+
+2025-11-25 11:22:23.840 -06:00 [ERR] ΓêÜ Browser application bundle generation complete.
+
+2025-11-25 11:23:27.318 -06:00 [ERR] ΓêÜ Browser application bundle generation complete.
+
+2025-11-25 11:23:42.289 -06:00 [ERR] ΓêÜ Browser application bundle generation complete.
+
+2025-11-25 11:24:11.263 -06:00 [ERR] ΓêÜ Browser application bundle generation complete.
+
+2025-11-25 15:18:06.943 -06:00 [ERR] ΓêÜ Browser application bundle generation complete.
+
+2025-11-25 15:18:45.426 -06:00 [ERR] ΓêÜ Browser application bundle generation complete.
+
+2025-11-25 15:20:21.411 -06:00 [ERR] ΓêÜ Browser application bundle generation complete.
+
+2025-11-25 15:20:48.067 -06:00 [ERR] ΓêÜ Browser application bundle generation complete.
+
+2025-11-25 15:21:05.096 -06:00 [ERR] ΓêÜ Browser application bundle generation complete.
+
+2025-11-25 17:00:21.975 -06:00 [ERR] - Generating browser application bundles (phase: setup)...
+
+2025-11-25 17:02:04.727 -06:00 [ERR] ΓêÜ Browser application bundle generation complete.
+
+2025-11-25 17:02:04.764 -06:00 [ERR] 
+
+2025-11-25 17:02:04.764 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.array.index-of.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-25 17:02:04.764 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2025-11-25 17:02:04.765 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.array.iterator.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-25 17:02:04.765 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2025-11-25 17:02:04.765 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.array.reduce.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-25 17:02:04.765 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2025-11-25 17:02:04.765 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.array.reverse.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-25 17:02:04.765 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2025-11-25 17:02:04.765 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.promise.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-25 17:02:04.765 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2025-11-25 17:02:04.765 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.regexp.to-string.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-25 17:02:04.765 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2025-11-25 17:02:04.766 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.string.ends-with.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-25 17:02:04.766 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2025-11-25 17:02:04.766 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.string.includes.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-25 17:02:04.766 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2025-11-25 17:02:04.766 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.string.match.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-25 17:02:04.766 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2025-11-25 17:02:04.766 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.string.replace.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-25 17:02:04.766 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2025-11-25 17:02:04.766 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.string.split.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-25 17:02:04.766 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2025-11-25 17:02:04.766 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.string.starts-with.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-25 17:02:04.766 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2025-11-25 17:02:04.766 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.string.trim.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-25 17:02:04.767 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2025-11-25 17:02:04.767 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/web.dom-collections.iterator.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-25 17:02:04.767 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2025-11-25 17:02:04.767 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'raf'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-25 17:02:04.767 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2025-11-25 17:02:04.767 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'rgbcolor'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-25 17:02:04.767 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2025-11-25 17:02:04.767 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\primeng\fesm2022\primeng-editor.mjs depends on 'quill'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-25 17:02:04.767 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2025-11-25 17:02:04.768 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\src\app\measure-summary\trending\trending.component.ts depends on 'html2canvas'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-25 17:02:04.768 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2025-11-25 17:02:04.768 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\src\app\shared\components\drills\drills.component.ts depends on 'file-saver'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-25 17:02:04.768 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2025-11-25 17:02:04.768 -06:00 [ERR] 
+
+2025-11-25 17:02:04.768 -06:00 [ERR] 
+
+2025-11-25 17:02:04.768 -06:00 [ERR] ./src/app/abstraction/data-collection/state-custom-measure/cadev/cadev-num1/cadev-num1.component.ts:21:0-103 - Error: Module not found: Error: Can't resolve '../../../shared/services/compliancelogic/lsc-compliance.service' in 'C:\Projects\QRI\QI.QR\ClientApp\src\app\abstraction\data-collection\state-custom-measure\cadev\cadev-num1'
+
+2025-11-25 17:02:04.768 -06:00 [ERR] Error: src/app/abstraction/data-collection/reviews/reviews.component.ts:383:52 - error TS2552: Cannot find name 'LscComponent'. Did you mean 'LscpComponent'?
+
+2025-11-25 17:02:04.768 -06:00 [ERR] 383       case HYBRID_MEASURES.LSC: this.loadComponent(LscComponent, 'lscSample'); break;
+
+2025-11-25 17:02:04.768 -06:00 [ERR]                                                        ~~~~~~~~~~~~
+
+2025-11-25 17:02:04.768 -06:00 [ERR] Error: src/app/abstraction/data-collection/state-custom-measure/cadev/cadev-num1/cadev-num1.component.ts:24:25 - error TS2307: Cannot find module '../../../shared/models/lsc/lsc-num1' or its corresponding type declarations.
+
+2025-11-25 17:02:04.768 -06:00 [ERR] 24 import { LscNum1 } from "../../../shared/models/lsc/lsc-num1";
+
+2025-11-25 17:02:04.768 -06:00 [ERR]                            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+2025-11-25 17:02:04.769 -06:00 [ERR] Error: src/app/abstraction/data-collection/state-custom-measure/cadev/cadev-num1/cadev-num1.component.ts:25:38 - error TS2307: Cannot find module '../../../shared/services/compliancelogic/lsc-compliance.service' or its corresponding type declarations.
+
+2025-11-25 17:02:04.769 -06:00 [ERR] 25 import { LscComplianceService } from "../../../shared/services/compliancelogic/lsc-compliance.service";
+
+2025-11-25 17:02:04.769 -06:00 [ERR]                                         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+2025-11-25 17:02:04.769 -06:00 [ERR] 
+
+2025-11-25 17:06:40.273 -06:00 [ERR] ΓêÜ Browser application bundle generation complete.
+
+2025-11-25 17:06:40.317 -06:00 [ERR] 
+
+2025-11-25 17:06:40.318 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\src\app\dashboard\measure-config\measure-config.component.ts depends on 'file-saver'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2025-11-25 17:06:40.319 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2025-11-25 17:06:40.319 -06:00 [ERR] 
+
+2025-11-25 17:06:40.320 -06:00 [ERR] 
+
+2025-11-25 17:06:40.320 -06:00 [ERR] ./src/app/abstraction/data-collection/state-custom-measure/cadev/cadev-num1/cadev-num1.component.ts:21:0-103 - Error: Module not found: Error: Can't resolve '../../../shared/services/compliancelogic/lsc-compliance.service' in 'C:\Projects\QRI\QI.QR\ClientApp\src\app\abstraction\data-collection\state-custom-measure\cadev\cadev-num1'
+
+2025-11-25 17:06:40.320 -06:00 [ERR] Error: src/app/abstraction/data-collection/state-custom-measure/cadev/cadev-num1/cadev-num1.component.ts:24:25 - error TS2307: Cannot find module '../../../shared/models/lsc/lsc-num1' or its corresponding type declarations.
+
+2025-11-25 17:06:40.320 -06:00 [ERR] 24 import { LscNum1 } from "../../../shared/models/lsc/lsc-num1";
+
+2025-11-25 17:06:40.320 -06:00 [ERR]                            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+2025-11-25 17:06:40.320 -06:00 [ERR] Error: src/app/abstraction/data-collection/state-custom-measure/cadev/cadev-num1/cadev-num1.component.ts:25:38 - error TS2307: Cannot find module '../../../shared/services/compliancelogic/lsc-compliance.service' or its corresponding type declarations.
+
+2025-11-25 17:06:40.320 -06:00 [ERR] 25 import { LscComplianceService } from "../../../shared/services/compliancelogic/lsc-compliance.service";
+
+2025-11-25 17:06:40.320 -06:00 [ERR]                                         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+2025-11-25 17:06:40.321 -06:00 [ERR] 
+
+2025-11-25 17:07:59.768 -06:00 [ERR] ΓêÜ Browser application bundle generation complete.
+
+2025-11-25 17:07:59.866 -06:00 [ERR] 
+
+2025-11-25 17:07:59.867 -06:00 [ERR] Error: src/app/abstraction/data-collection/state-custom-measure/cadev/cadev-num1/cadev-num1.component.ts:76:35 - error TS2304: Cannot find name 'LscComplianceService'.
+
+2025-11-25 17:07:59.867 -06:00 [ERR] 76     private lscComplianceService: LscComplianceService,
+
+2025-11-25 17:07:59.871 -06:00 [ERR]                                      ~~~~~~~~~~~~~~~~~~~~
+
+2025-11-25 17:07:59.871 -06:00 [ERR] 
+
+2025-11-25 17:09:13.543 -06:00 [ERR] ΓêÜ Browser application bundle generation complete.
+
+2025-11-25 17:10:41.799 -06:00 [ERR] ΓêÜ Browser application bundle generation complete.
+

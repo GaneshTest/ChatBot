@@ -1,0 +1,454 @@
+2026-01-23 11:26:28.214 -06:00 [ERR] - Generating browser application bundles (phase: setup)...
+
+2026-01-23 11:27:58.324 -06:00 [ERR] ΓêÜ Browser application bundle generation complete.
+
+2026-01-23 11:27:58.390 -06:00 [ERR] 
+
+2026-01-23 11:27:58.391 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.array.index-of.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-23 11:27:58.391 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-23 11:27:58.391 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.array.iterator.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-23 11:27:58.391 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-23 11:27:58.392 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.array.reduce.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-23 11:27:58.392 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-23 11:27:58.392 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.array.reverse.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-23 11:27:58.392 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-23 11:27:58.392 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.promise.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-23 11:27:58.393 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-23 11:27:58.393 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.regexp.to-string.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-23 11:27:58.393 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-23 11:27:58.394 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.string.ends-with.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-23 11:27:58.394 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-23 11:27:58.394 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.string.includes.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-23 11:27:58.395 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-23 11:27:58.395 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.string.match.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-23 11:27:58.395 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-23 11:27:58.395 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.string.replace.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-23 11:27:58.396 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-23 11:27:58.397 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.string.split.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-23 11:27:58.397 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-23 11:27:58.398 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.string.starts-with.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-23 11:27:58.398 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-23 11:27:58.398 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.string.trim.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-23 11:27:58.398 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-23 11:27:58.399 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/web.dom-collections.iterator.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-23 11:27:58.399 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-23 11:27:58.400 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'raf'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-23 11:27:58.400 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-23 11:27:58.400 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'rgbcolor'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-23 11:27:58.400 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-23 11:27:58.400 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\primeng\fesm2022\primeng-editor.mjs depends on 'quill'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-23 11:27:58.401 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-23 11:27:58.401 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\src\app\measure-summary\trending\trending.component.ts depends on 'html2canvas'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-23 11:27:58.401 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-23 11:27:58.401 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\src\app\shared\components\drills\drills.component.ts depends on 'file-saver'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-23 11:27:58.401 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-23 11:27:58.402 -06:00 [ERR] 
+
+2026-01-23 11:27:58.402 -06:00 [ERR] 
+
+2026-01-23 11:27:58.403 -06:00 [ERR] Error: src/app/abstraction/data-collection/state-custom-measure/MLTSS3/MLTSS3-num1/MLTSS3-num1.component.ts:25:38 - error TS2307: Cannot find module '../../../shared/services/compliancelogic/lsc-compliance.service' or its corresponding type declarations.
+
+2026-01-23 11:27:58.403 -06:00 [ERR] 25 import { LscComplianceService } from "../../../shared/services/compliancelogic/lsc-compliance.service";
+
+2026-01-23 11:27:58.403 -06:00 [ERR]                                         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+2026-01-23 11:27:58.404 -06:00 [ERR] Error: src/app/abstraction/data-collection/state-custom-measure/mltss5/mltss5-num1/mltss5-num1.component.ts:25:38 - error TS2307: Cannot find module '../../../shared/services/compliancelogic/lsc-compliance.service' or its corresponding type declarations.
+
+2026-01-23 11:27:58.404 -06:00 [ERR] 25 import { LscComplianceService } from "../../../shared/services/compliancelogic/lsc-compliance.service";
+
+2026-01-23 11:27:58.404 -06:00 [ERR]                                         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+2026-01-23 11:27:58.404 -06:00 [ERR] 
+
+2026-01-23 11:29:50.570 -06:00 [ERR] - Generating browser application bundles (phase: setup)...
+
+2026-01-23 11:31:02.974 -06:00 [ERR] - Generating browser application bundles (phase: setup)...
+
+2026-01-23 11:32:01.436 -06:00 [ERR] ΓêÜ Browser application bundle generation complete.
+
+2026-01-23 11:32:01.463 -06:00 [ERR] 
+
+2026-01-23 11:32:01.463 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.array.index-of.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-23 11:32:01.463 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-23 11:32:01.463 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.array.iterator.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-23 11:32:01.464 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-23 11:32:01.464 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.array.reduce.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-23 11:32:01.464 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-23 11:32:01.464 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.array.reverse.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-23 11:32:01.464 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-23 11:32:01.464 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.promise.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-23 11:32:01.464 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-23 11:32:01.464 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.regexp.to-string.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-23 11:32:01.464 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-23 11:32:01.464 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.string.ends-with.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-23 11:32:01.464 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-23 11:32:01.464 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.string.includes.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-23 11:32:01.464 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-23 11:32:01.464 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.string.match.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-23 11:32:01.464 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-23 11:32:01.464 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.string.replace.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-23 11:32:01.465 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-23 11:32:01.465 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.string.split.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-23 11:32:01.465 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-23 11:32:01.465 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.string.starts-with.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-23 11:32:01.465 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-23 11:32:01.465 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.string.trim.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-23 11:32:01.465 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-23 11:32:01.465 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/web.dom-collections.iterator.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-23 11:32:01.465 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-23 11:32:01.465 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'raf'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-23 11:32:01.465 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-23 11:32:01.466 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'rgbcolor'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-23 11:32:01.466 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-23 11:32:01.466 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\primeng\fesm2022\primeng-editor.mjs depends on 'quill'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-23 11:32:01.466 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-23 11:32:01.466 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\src\app\measure-summary\trending\trending.component.ts depends on 'html2canvas'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-23 11:32:01.466 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-23 11:32:01.466 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\src\app\shared\components\drills\drills.component.ts depends on 'file-saver'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-23 11:32:01.466 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-23 11:32:01.466 -06:00 [ERR] 
+
+2026-01-23 11:32:01.466 -06:00 [ERR] 
+
+2026-01-23 11:32:01.467 -06:00 [ERR] Error: src/app/abstraction/data-collection/state-custom-measure/MLTSS3/MLTSS3-num1/MLTSS3-num1.component.ts:25:38 - error TS2307: Cannot find module '../../../shared/services/compliancelogic/lsc-compliance.service' or its corresponding type declarations.
+
+2026-01-23 11:32:01.467 -06:00 [ERR] 25 import { LscComplianceService } from "../../../shared/services/compliancelogic/lsc-compliance.service";
+
+2026-01-23 11:32:01.467 -06:00 [ERR]                                         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+2026-01-23 11:32:01.468 -06:00 [ERR] Error: src/app/abstraction/data-collection/state-custom-measure/mltss5/mltss5-num1/mltss5-num1.component.ts:25:38 - error TS2307: Cannot find module '../../../shared/services/compliancelogic/lsc-compliance.service' or its corresponding type declarations.
+
+2026-01-23 11:32:01.468 -06:00 [ERR] 25 import { LscComplianceService } from "../../../shared/services/compliancelogic/lsc-compliance.service";
+
+2026-01-23 11:32:01.468 -06:00 [ERR]                                         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+2026-01-23 11:32:01.468 -06:00 [ERR] 
+
+2026-01-23 12:01:24.495 -06:00 [ERR] - Generating browser application bundles (phase: setup)...
+
+2026-01-23 12:02:53.265 -06:00 [ERR] ΓêÜ Browser application bundle generation complete.
+
+2026-01-23 12:02:53.331 -06:00 [ERR] 
+
+2026-01-23 12:02:53.331 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.array.index-of.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-23 12:02:53.331 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-23 12:02:53.331 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.array.iterator.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-23 12:02:53.331 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-23 12:02:53.331 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.array.reduce.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-23 12:02:53.331 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-23 12:02:53.331 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.array.reverse.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-23 12:02:53.332 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-23 12:02:53.332 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.promise.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-23 12:02:53.332 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-23 12:02:53.332 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.regexp.to-string.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-23 12:02:53.332 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-23 12:02:53.332 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.string.ends-with.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-23 12:02:53.332 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-23 12:02:53.332 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.string.includes.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-23 12:02:53.332 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-23 12:02:53.333 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.string.match.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-23 12:02:53.333 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-23 12:02:53.333 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.string.replace.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-23 12:02:53.333 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-23 12:02:53.333 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.string.split.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-23 12:02:53.333 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-23 12:02:53.334 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.string.starts-with.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-23 12:02:53.334 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-23 12:02:53.335 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.string.trim.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-23 12:02:53.335 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-23 12:02:53.335 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/web.dom-collections.iterator.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-23 12:02:53.335 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-23 12:02:53.336 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'raf'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-23 12:02:53.336 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-23 12:02:53.337 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'rgbcolor'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-23 12:02:53.338 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-23 12:02:53.338 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\primeng\fesm2022\primeng-editor.mjs depends on 'quill'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-23 12:02:53.338 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-23 12:02:53.339 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\src\app\dashboard\measure-config\measure-config.component.ts depends on 'file-saver'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-23 12:02:53.340 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-23 12:02:53.340 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\src\app\measure-summary\trending\trending.component.ts depends on 'html2canvas'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-23 12:02:53.341 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-23 12:02:53.341 -06:00 [ERR] 
+
+2026-01-23 12:11:58.800 -06:00 [ERR] ΓêÜ Browser application bundle generation complete.
+
+2026-01-23 12:49:43.906 -06:00 [ERR] - Generating browser application bundles (phase: setup)...
+
+2026-01-23 12:52:42.422 -06:00 [ERR] ΓêÜ Browser application bundle generation complete.
+
+2026-01-23 12:52:42.477 -06:00 [ERR] 
+
+2026-01-23 12:52:42.477 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.array.index-of.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-23 12:52:42.477 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-23 12:52:42.478 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.array.iterator.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-23 12:52:42.478 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-23 12:52:42.478 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.array.reduce.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-23 12:52:42.478 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-23 12:52:42.478 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.array.reverse.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-23 12:52:42.478 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-23 12:52:42.479 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.promise.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-23 12:52:42.479 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-23 12:52:42.479 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.regexp.to-string.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-23 12:52:42.479 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-23 12:52:42.479 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.string.ends-with.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-23 12:52:42.479 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-23 12:52:42.479 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.string.includes.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-23 12:52:42.479 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-23 12:52:42.480 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.string.match.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-23 12:52:42.480 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-23 12:52:42.480 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.string.replace.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-23 12:52:42.480 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-23 12:52:42.480 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.string.split.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-23 12:52:42.480 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-23 12:52:42.480 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.string.starts-with.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-23 12:52:42.480 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-23 12:52:42.480 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/es.string.trim.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-23 12:52:42.480 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-23 12:52:42.481 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'core-js/modules/web.dom-collections.iterator.js'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-23 12:52:42.481 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-23 12:52:42.481 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'raf'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-23 12:52:42.481 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-23 12:52:42.481 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\canvg\lib\index.es.js depends on 'rgbcolor'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-23 12:52:42.482 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-23 12:52:42.482 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\node_modules\primeng\fesm2022\primeng-editor.mjs depends on 'quill'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-23 12:52:42.482 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-23 12:52:42.482 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\src\app\dashboard\measure-config\measure-config.component.ts depends on 'file-saver'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-23 12:52:42.483 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-23 12:52:42.483 -06:00 [ERR] Warning: C:\Projects\QRI\QI.QR\ClientApp\src\app\measure-summary\trending\trending.component.ts depends on 'html2canvas'. CommonJS or AMD dependencies can cause optimization bailouts.
+
+2026-01-23 12:52:42.483 -06:00 [ERR] For more info see: https://angular.dev/tools/cli/build#configuring-commonjs-dependencies
+
+2026-01-23 12:52:42.483 -06:00 [ERR] 
+
+2026-01-23 12:53:10.667 -06:00 [ERR] Error during request processing.
+ {"Method":"GET","Path":"/src_app_submission-configuration_submission-configuration_module_ts.js","QueryString":"","Headers":{"Accept":"*/*","Accept-Encoding":"gzip, deflate, br, zstd","Accept-Language":"en-US,en;q=0.9","Connection":"keep-alive","Host":"localhost:61368","Referer":"http://localhost:61368/2025/login","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36","Origin":"http://localhost:61368","sec-ch-ua-platform":"\\u0022Windows\\u0022","sec-ch-ua":"\\u0022Not(A:Brand\\u0022;v=\\u00228\\u0022, \\u0022Chromium\\u0022;v=\\u0022144\\u0022, \\u0022Google Chrome\\u0022;v=\\u0022144\\u0022","sec-ch-ua-mobile":"?0","Sec-Fetch-Site":"same-origin","Sec-Fetch-Mode":"cors","Sec-Fetch-Dest":"script"},"ContentLength":null,"Body":null,"$type":"HttpLogInfo"}
+System.Net.Http.HttpRequestException: Failed to proxy the request to http://localhost:57624/src_app_submission-configuration_submission-configuration_module_ts.js, because the request to the proxy target failed. Check that the proxy target server is running and accepting requests to http://localhost:57624/.
+
+The underlying exception message was 'An error occurred while sending the request.'.Check the InnerException for more details.
+ ---> System.Net.Http.HttpRequestException: An error occurred while sending the request.
+ ---> System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host..
+ ---> System.Net.Sockets.SocketException (10054): An existing connection was forcibly closed by the remote host.
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at Microsoft.AspNetCore.SpaServices.Extensions.Proxy.SpaProxy.PerformProxyRequest(HttpContext context, HttpClient httpClient, Task`1 baseUriTask, CancellationToken applicationStoppingToken, Boolean proxy404s)
+   --- End of inner exception stack trace ---
+   at Microsoft.AspNetCore.SpaServices.Extensions.Proxy.SpaProxy.PerformProxyRequest(HttpContext context, HttpClient httpClient, Task`1 baseUriTask, CancellationToken applicationStoppingToken, Boolean proxy404s)
+   at Microsoft.AspNetCore.Builder.SpaProxyingExtensions.<>c__DisplayClass2_0.<<UseProxyToSpaDevelopmentServer>b__0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at QI.QR.ErrorHandling.ErrorHandlingMiddleware.InvokeAsync(HttpContext context, RequestDelegate next) in C:\Projects\QRI\QI.QR\ErrorHandling\ErrorHandlingMiddleware.cs:line 36
+2026-01-23 12:53:10.667 -06:00 [ERR] Error during request processing.
+ {"Method":"GET","Path":"/src_app_goals-configuration_goals_module_ts.js","QueryString":"","Headers":{"Accept":"*/*","Accept-Encoding":"gzip, deflate, br, zstd","Accept-Language":"en-US,en;q=0.9","Connection":"keep-alive","Host":"localhost:61368","Referer":"http://localhost:61368/2025/login","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36","Origin":"http://localhost:61368","sec-ch-ua-platform":"\\u0022Windows\\u0022","sec-ch-ua":"\\u0022Not(A:Brand\\u0022;v=\\u00228\\u0022, \\u0022Chromium\\u0022;v=\\u0022144\\u0022, \\u0022Google Chrome\\u0022;v=\\u0022144\\u0022","sec-ch-ua-mobile":"?0","Sec-Fetch-Site":"same-origin","Sec-Fetch-Mode":"cors","Sec-Fetch-Dest":"script"},"ContentLength":null,"Body":null,"$type":"HttpLogInfo"}
+System.Net.Http.HttpRequestException: Failed to proxy the request to http://localhost:57624/src_app_goals-configuration_goals_module_ts.js, because the request to the proxy target failed. Check that the proxy target server is running and accepting requests to http://localhost:57624/.
+
+The underlying exception message was 'An error occurred while sending the request.'.Check the InnerException for more details.
+ ---> System.Net.Http.HttpRequestException: An error occurred while sending the request.
+ ---> System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host..
+ ---> System.Net.Sockets.SocketException (10054): An existing connection was forcibly closed by the remote host.
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at Microsoft.AspNetCore.SpaServices.Extensions.Proxy.SpaProxy.PerformProxyRequest(HttpContext context, HttpClient httpClient, Task`1 baseUriTask, CancellationToken applicationStoppingToken, Boolean proxy404s)
+   --- End of inner exception stack trace ---
+   at Microsoft.AspNetCore.SpaServices.Extensions.Proxy.SpaProxy.PerformProxyRequest(HttpContext context, HttpClient httpClient, Task`1 baseUriTask, CancellationToken applicationStoppingToken, Boolean proxy404s)
+   at Microsoft.AspNetCore.Builder.SpaProxyingExtensions.<>c__DisplayClass2_0.<<UseProxyToSpaDevelopmentServer>b__0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at QI.QR.ErrorHandling.ErrorHandlingMiddleware.InvokeAsync(HttpContext context, RequestDelegate next) in C:\Projects\QRI\QI.QR\ErrorHandling\ErrorHandlingMiddleware.cs:line 36
+2026-01-23 13:05:28.223 -06:00 [ERR] Error during request processing.
+ {"Method":"POST","Path":"/GsdSample/IrrTest","QueryString":"","Headers":{"Accept":"application/json, text/plain, */*","Accept-Encoding":"gzip, deflate, br, zstd","Accept-Language":"en-US,en;q=0.9","Authorization":"Bearer 09c0e1d3-4bf9-424b-8139-19f63e169289","Connection":"keep-alive","Content-Length":"2180","Content-Type":"application/json","Host":"localhost:61368","Referer":"http://localhost:61368/2025/abstraction/datacollection","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36","sec-ch-ua-platform":"\\u0022Windows\\u0022","Timezone":"America/Chicago","sec-ch-ua":"\\u0022Not(A:Brand\\u0022;v=\\u00228\\u0022, \\u0022Chromium\\u0022;v=\\u0022144\\u0022, \\u0022Google Chrome\\u0022;v=\\u0022144\\u0022","sec-ch-ua-mobile":"?0","Origin":"http://localhost:61368","Sec-Fetch-Site":"same-origin","Sec-Fetch-Mode":"cors","Sec-Fetch-Dest":"empty"},"ContentLength":2180,"Body":"{\\u0022action\\u0022:\\u0022SaveAnswer\\u0022,\\u0022chaseDetail\\u0022:{\\u0022NotFound\\u0022:0,\\u0022NewLoc\\u0022:null,\\u0022ChaseReportLinkId\\u0022:2458,\\u0022SampleId\\u0022:2479,\\u0022LocId\\u0022:\\u002255930559305593055931\\u0022,\\u0022Reviewer\\u0022:\\u0022Natasha.Smith1\\u0022,\\u0022ReviewDate\\u0022:\\u002201/23/2026\\u0022,\\u0022Provider\\u0022:\\u0022ADMIN CHASE\\u0022,\\u0022ChaseComplete\\u0022:1,\\u0022validDataError\\u0022:0,\\u0022exclusionsComplete\\u0022:1,\\u0022comments\\u0022:\\u0022\\u0022,\\u0022exclGest\\u0022:\\u0022\\u0022,\\u0022exclPcos\\u0022:\\u0022\\u0022,\\u0022exclSteroid\\u0022:\\u0022\\u0022,\\u0022AdminHbaServDt\\u0022:null,\\u0022HbaServDt\\u0022:\\u002210/10/2025\\u0022,\\u0022AdminHbaTestType\\u0022:\\u0022\\u0022,\\u0022AdminHbaTestLevel\\u0022:null,\\u0022HbaTestType\\u0022:\\u0022HbA1c\\u0022,\\u0022HbaTestLevel\\u0022:\\u00226.7\\u0022,\\u0022Num2\\u0022:-1,\\u0022Num1\\u0022:2,\\u0022HbaResInd\\u0022:null,\\u0022ExcludedHBA\\u0022:0,\\u0022Num2Reviewer\\u0022:\\u0022Natasha.Smith1\\u0022,\\u0022Num2ReviewDate\\u0022:\\u002201/23/2026 18:56:21\\u0022,\\u0022Num1Reviewer\\u0022:\\u0022Natasha.Smith1\\u0022,\\u0022Num1ReviewDate\\u0022:\\u002201/23/2026 18:56:21\\u0022},\\u0022sampleDetail\\u0022:{\\u0022NotFound\\u0022:0,\\u0022NewLoc\\u0022:null,\\u0022ChaseReportLinkId\\u0022:2458,\\u0022SampleId\\u0022:2479,\\u0022LocId\\u0022:\\u002255930559305593055931\\u0022,\\u0022Reviewer\\u0022:\\u0022Natasha.Smith1\\u0022,\\u0022ReviewDate\\u0022:\\u002201/23/2026\\u0022,\\u0022Provider\\u0022:\\u0022ADMIN CHASE\\u0022,\\u0022ChaseComplete\\u0022:1,\\u0022validDataError\\u0022:0,\\u0022exclusionsComplete\\u0022:1,\\u0022comments\\u0022:\\u0022\\u0022,\\u0022exclGest\\u0022:\\u0022\\u0022,\\u0022exclPcos\\u0022:\\u0022\\u0022,\\u0022exclSteroid\\u0022:\\u0022\\u0022,\\u0022AdminHbaServDt\\u0022:null,\\u0022HbaServDt\\u0022:\\u002210/10/2025\\u0022,\\u0022AdminHbaTestType\\u0022:\\u0022\\u0022,\\u0022AdminHbaTestLevel\\u0022:null,\\u0022HbaTestType\\u0022:\\u0022HbA1c\\u0022,\\u0022HbaTestLevel\\u0022:\\u00226.7\\u0022,\\u0022Num2\\u0022:-1,\\u0022Num1\\u0022:2,\\u0022HbaResInd\\u0022:null,\\u0022ExcludedHBA\\u0022:0,\\u0022Num2Reviewer\\u0022:\\u0022Natasha.Smith1\\u0022,\\u0022Num2ReviewDate\\u0022:\\u002201/23/2026 18:56:21\\u0022,\\u0022Num1Reviewer\\u0022:\\u0022Natasha.Smith1\\u0022,\\u0022Num1ReviewDate\\u0022:\\u002201/23/2026 18:56:21\\u0022},\\u0022exclusionDetail\\u0022:{\\u0022NotFound\\u0022:0,\\u0022NewLoc\\u0022:null,\\u0022ChaseReportLinkId\\u0022:2458,\\u0022SampleId\\u0022:2479,\\u0022LocId\\u0022:\\u002255930559305593055931\\u0022,\\u0022Reviewer\\u0022:\\u0022Natasha.Smith1\\u0022,\\u0022ReviewDate\\u0022:\\u002201/23/2026\\u0022,\\u0022Provider\\u0022:\\u0022ADMIN CHASE\\u0022,\\u0022ChaseComplete\\u0022:1,\\u0022validDataError\\u0022:0,\\u0022exclusionsComplete\\u0022:1,\\u0022comments\\u0022:\\u0022\\u0022,\\u0022exclGest\\u0022:\\u0022\\u0022,\\u0022exclPcos\\u0022:\\u0022\\u0022,\\u0022exclSteroid\\u0022:\\u0022\\u0022,\\u0022AdminHbaServDt\\u0022:null,\\u0022HbaServDt\\u0022:\\u002210/10/2025\\u0022,\\u0022AdminHbaTestType\\u0022:\\u0022\\u0022,\\u0022AdminHbaTestLevel\\u0022:null,\\u0022HbaTestType\\u0022:\\u0022HbA1c\\u0022,\\u0022HbaTestLevel\\u0022:\\u00226.7\\u0022,\\u0022Num2\\u0022:-1,\\u0022Num1\\u0022:2,\\u0022HbaResInd\\u0022:null,\\u0022ExcludedHBA\\u0022:0,\\u0022Num2Reviewer\\u0022:\\u0022Natasha.Smith1\\u0022,\\u0022Num2ReviewDate\\u0022:\\u002201/23/2026 18:56:21\\u0022,\\u0022Num1Reviewer\\u0022:\\u0022Natasha.Smith1\\u0022,\\u0022Num1ReviewDate\\u0022:\\u002201/23/2026 18:56:21\\u0022},\\u0022overreadDetail\\u0022:{\\u0022sampleId\\u0022:2479,\\u0022chaseId\\u0022:2458,\\u0022isOverreader\\u0022:true,\\u0022isQa\\u0022:true,\\u0022measureAbbr\\u0022:\\u0022GSD\\u0022},\\u0022overreadComments\\u0022:{\\u0022Id\\u0022:0,\\u0022userName\\u0022:\\u0022Smith, Natasha\\u0022,\\u0022SampleId\\u0022:2479,\\u0022ChaseId\\u0022:2458},\\u0022nonComplianceReasonDetail\\u0022:[]}","$type":"HttpLogInfo"}
+System.InvalidOperationException: Sequence contains more than one element
+   at System.Linq.ThrowHelper.ThrowMoreThanOneElementException()
+   at System.Linq.Enumerable.TryGetSingle[TSource](IEnumerable`1 source, Boolean& found)
+   at System.Linq.Enumerable.Single[TSource](IEnumerable`1 source)
+   at QI.QR.Business.Services.DataCollection.GsdSampleService.SaveAnswerKeyAndIrrTest(GsdChaseSampleVM gsdChaseSample) in C:\Projects\QRI\QI.QR.Business\Services\DataCollection\GsdSampleService.cs:line 241
+   at QI.QR.Controllers.DataCollection.GsdSampleController.SaveIrrTestAnswer(GsdChaseSampleVM cdcSample) in C:\Projects\QRI\QI.QR\Controllers\DataCollection\GsdSampleController.cs:line 48
+   at lambda_method205(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at QI.QR.ErrorHandling.ErrorHandlingMiddleware.InvokeAsync(HttpContext context, RequestDelegate next) in C:\Projects\QRI\QI.QR\ErrorHandling\ErrorHandlingMiddleware.cs:line 36
