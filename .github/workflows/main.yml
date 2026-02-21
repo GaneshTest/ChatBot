@@ -18,5 +18,9 @@ jobs:
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
         run: |
-              git pull hf main --rebase || true
-              git push https://ganeshayer:$HF_TOKEN@huggingface.co/spaces/ganeshayer/simple_rag main
+               git remote add hf https://ganeshayer:${{ secrets.HF_TOKEN }}@huggingface.co/spaces/ganeshayer/simple_rag
+               git pull hf main --rebase || true
+
+      - name: Push to HuggingFace (force to avoid fast-forward issues)
+        run: |
+          git push hf main --force
