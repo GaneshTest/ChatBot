@@ -1,13 +1,12 @@
 langchain
+langchain-core
 ipykernel
 python-dotenv
 langchain_community
 pypdf
 pymupdf
 langchain-text-splitters
-chromadb
 sentence-transformers
-langchain-huggingface
 openai 
 langchain_openai
 faiss_cpu
