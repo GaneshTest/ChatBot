@@ -11,3 +11,4 @@ openai
 langchain_openai
 faiss_cpu
 streamlit
+PyPDF2
