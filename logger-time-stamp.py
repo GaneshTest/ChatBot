@@ -1,4 +1,3 @@
-# app.py
 import os
 from pathlib import Path
 from datetime import datetime, timedelta
@@ -16,9 +15,6 @@ from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.output_parsers import StrOutputParser
 from langchain_core.runnables import RunnablePassthrough
 
-# --------------------------------------------------
-# ENV
-# --------------------------------------------------
 load_dotenv()
 OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY")
 if not OPENAI_API_KEY:
